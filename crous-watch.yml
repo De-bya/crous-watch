@@ -1,0 +1,37 @@
+name: Crous Watch
+
+on:
+  schedule:
+    # Toutes les 20 minutes. GitHub peut retarder l'exécution en cas de forte
+    # charge sur la plateforme ; c'est normal et sans conséquence ici.
+    - cron: "*/20 * * * *"
+  workflow_dispatch: {}   # permet de lancer le script manuellement depuis l'onglet Actions
+
+permissions:
+  contents: write   # nécessaire pour committer seen.json
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances
+        run: pip install requests beautifulsoup4
+
+      - name: Lancer la surveillance
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python crous_watch.py
+
+      - name: Sauvegarder l'état (seen.json)
+        run: |
+          git config user.name "crous-watch-bot"
+          git config user.email "actions@github.com"
+          git add seen.json
+          git diff --staged --quiet || git commit -m "update: seen listings"
+          git push
