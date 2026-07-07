@@ -2,13 +2,17 @@ name: Crous Watch
 
 on:
   schedule:
-    # Toutes les 20 minutes. GitHub peut retarder l'exécution en cas de forte
+    # Toutes les 5 minutes. GitHub peut retarder l'exécution en cas de forte
     # charge sur la plateforme ; c'est normal et sans conséquence ici.
-    - cron: "*/20 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch: {}   # permet de lancer le script manuellement depuis l'onglet Actions
 
 permissions:
   contents: write   # nécessaire pour committer seen.json
+
+concurrency:
+  group: crous-watch
+  cancel-in-progress: false   # on laisse finir un run en cours plutôt que de le couper
 
 jobs:
   watch:
