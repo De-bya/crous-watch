@@ -23,7 +23,7 @@ from bs4 import BeautifulSoup
 # ---------------------------------------------------------------------------
 
 # Villes à surveiller (insensible aux accents/majuscules)
-TARGET_CITIES = ["Montpellier", "Nimes", "Perpignan"]
+# TARGET_CITIES = ["Montpellier", "Nimes", "Perpignan"]
 
 # ID(s) d'outil du site CROUS à surveiller.
 # 45 = offre restante 2026-2027 (phase complémentaire, ouverte depuis le 7 juillet 2026)
@@ -57,6 +57,33 @@ def strip_accents(text: str) -> str:
 def normalized(text: str) -> str:
     return strip_accents(text).lower()
 
+def extract_city(text: str) -> str:
+    """
+    Extrait la ville à partir du texte d'un logement.
+
+    Cherche un code postal français suivi du nom de la ville,
+    par exemple :
+        34000 Montpellier
+        30000 Nîmes
+        66100 Perpignan
+    """
+    text = re.sub(r"\s+", " ", text)
+
+    m = re.search(r"\b\d{5}\s+([A-Za-zÀ-ÿ' -]+)", text)
+    if m:
+        city = m.group(1).strip()
+
+        # Nettoyage : on s'arrête avant certains mots fréquents
+        city = re.split(
+            r"\b(Résidence|Residence|Loyer|Studio|T1|T2|Appartement|Chambre)\b",
+            city,
+            maxsplit=1,
+            flags=re.IGNORECASE,
+        )[0].strip(" ,-")
+
+        return city
+
+    return "Ville inconnue"
 
 def load_state() -> dict:
     if STATE_FILE.exists():
@@ -127,19 +154,17 @@ def parse_listings(html: str, tool_id: int):
             if len(text) > 40:
                 break
 
-        norm_text = normalized(text)
-        matched_city = next(
-            (c for c in TARGET_CITIES if normalized(c) in norm_text), None
+        city = extract_city(text)
+
+        listings.append(
+            {
+                "id": acc_id,
+                "url": f"{BASE_URL}/tools/{tool_id}/accommodations/{acc_id}",
+                "city": city,
+                "text": text[:300],
+            }
         )
-        if matched_city:
-            listings.append(
-                {
-                    "id": acc_id,
-                    "url": f"{BASE_URL}/tools/{tool_id}/accommodations/{acc_id}",
-                    "city": matched_city,
-                    "text": text[:300],
-                }
-            )
+
 
     return listings
 
