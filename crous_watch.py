@@ -28,7 +28,7 @@ from bs4 import BeautifulSoup
 # ID(s) d'outil du site CROUS à surveiller.
 # 45 = offre restante 2026-2027 (phase complémentaire, ouverte depuis le 7 juillet 2026)
 # 42 = offre 2025-2026 (fin de l'année en cours)
-TOOL_IDS = [45]
+TOOL_IDS = [47]
 
 BASE_URL = "https://trouverunlogement.lescrous.fr"
 STATE_FILE = Path(__file__).parent / "seen.json"
