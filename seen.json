@@ -17,18 +17,6 @@
     "city": "LONGWY CEDEX",
     "text": "CU JEAN MONNET 8, Avenue du Bivaque BP 50059 54405 LONGWY CEDEX 27 mÂ² Individuel, Couple 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   },
-  "1458": {
-    "id": "1458",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
-    "city": "CORTE de",
-    "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
-  "1477": {
-    "id": "1477",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1477",
-    "city": "CHARLEVILLE MEZIERES",
-    "text": "JB CLEMENT 6 Rue Jules RichÃ© 08000 CHARLEVILLE MEZIERES 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "1491": {
     "id": "1491",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1491",
@@ -40,12 +28,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567",
     "city": "CHARLEVILLE MEZIERES",
     "text": "MAISON DES ETUDIANTS 38 Rue de Montjoly 08000 CHARLEVILLE MEZIERES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "1586": {
-    "id": "1586",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1586",
-    "city": "PAU",
-    "text": "RONSARD 36 RUE RONSARD 64000 PAU 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "1995": {
     "id": "1995",
@@ -107,12 +89,6 @@
     "city": "LORMONT de",
     "text": "FONTBELLEAU 60 Avenue de PARIS 33310 LORMONT de 18,4 Ã  19,2 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2558": {
-    "id": "2558",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2558",
-    "city": "DAX",
-    "text": "ANDRE MALRAUX 93 AV Francis PLANTE 40100 DAX 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "3106": {
     "id": "3106",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
@@ -125,23 +101,11 @@
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "1521": {
-    "id": "1521",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521",
-    "city": "CORTE",
-    "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
   "267": {
     "id": "267",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/267",
     "city": "AGEN",
     "text": "CRESSONNIERE Av. Michel Serres 47000 AGEN 30 mÂ² Individuel, Couple 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
-  "302": {
-    "id": "302",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/302",
-    "city": "PAU",
-    "text": "GASTON PHOEBUS 12 Avenue du Doyen POPLAWSKI 64000 PAU 10 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   },
   "2183": {
     "id": "2183",
@@ -149,28 +113,64 @@
     "city": "AGEN",
     "text": "TANNERIES 30 Rue Carjac 47000 AGEN 14 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "1268": {
-    "id": "1268",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1268",
-    "city": "FELLETIN de",
-    "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN de 24 Ã  32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "779": {
-    "id": "779",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/779",
-    "city": "SARREGUEMINES",
-    "text": "CU DOUAUMONT 17 Rue de Douaumont 57200 SARREGUEMINES 20 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "315": {
     "id": "315",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/315",
     "city": "PERIGUEUX",
     "text": "GRANDES ARCADES 49 rue JEAN SECRET 24000 PERIGUEUX 25 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
   },
+  "1477": {
+    "id": "1477",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1477",
+    "city": "CHARLEVILLE MEZIERES",
+    "text": "JB CLEMENT 6 Rue Jules RichÃ© 08000 CHARLEVILLE MEZIERES 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "866": {
+    "id": "866",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/866",
+    "city": "CHATEAUROUX de",
+    "text": "CHARLEMAGNE 4 rue Saint Luc 36000 CHATEAUROUX de 30 Ã  33 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo"
+  },
+  "765": {
+    "id": "765",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/765",
+    "city": "SARREGUEMINES",
+    "text": "CU DOUAUMONT 17 Rue de Douaumont 57200 SARREGUEMINES 16 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2558": {
+    "id": "2558",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2558",
+    "city": "DAX",
+    "text": "ANDRE MALRAUX 93 AV Francis PLANTE 40100 DAX 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1521": {
+    "id": "1521",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521",
+    "city": "CORTE",
+    "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "1586": {
+    "id": "1586",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1586",
+    "city": "PAU",
+    "text": "RONSARD 36 RUE RONSARD 64000 PAU 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
   "540": {
     "id": "540",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/540",
     "city": "VANDOEUVRE LES NANCY",
     "text": "CU VELODROME Rue Jacques Callot 54500 VANDOEUVRE LES NANCY 30 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
+  },
+  "1458": {
+    "id": "1458",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
+    "city": "CORTE de",
+    "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "302": {
+    "id": "302",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/302",
+    "city": "PAU",
+    "text": "GASTON PHOEBUS 12 Avenue du Doyen POPLAWSKI 64000 PAU 10 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   }
 }
