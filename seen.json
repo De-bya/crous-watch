@@ -17,12 +17,6 @@
     "city": "AGEN",
     "text": "TANNERIES 30 Rue Carjac 47000 AGEN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2688": {
-    "id": "2688",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688",
-    "city": "GRENOBLE de",
-    "text": "GALILEE 6 place Pasteur - 38100 GRENOBLE de 16,1 Ã  29,8 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
   "2993": {
     "id": "2993",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2993",
@@ -35,12 +29,6 @@
     "city": "AGEN",
     "text": "CRESSONNIERE Av. Michel Serres 47000 AGEN 30 mÂ² Individuel, Couple 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   },
-  "1477": {
-    "id": "1477",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1477",
-    "city": "CHARLEVILLE MEZIERES",
-    "text": "JB CLEMENT 6 Rue Jules RichÃ© 08000 CHARLEVILLE MEZIERES 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "522": {
     "id": "522",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522",
@@ -52,12 +40,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2558",
     "city": "DAX",
     "text": "ANDRE MALRAUX 93 AV Francis PLANTE 40100 DAX 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "2789": {
-    "id": "2789",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
-    "city": "CORTE de",
-    "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
   "2477": {
     "id": "2477",
@@ -113,12 +95,6 @@
     "city": "CHARLEVILLE MEZIERES",
     "text": "MAISON DES ETUDIANTS 38 Rue de Montjoly 08000 CHARLEVILLE MEZIERES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "3248": {
-    "id": "3248",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248",
-    "city": "LORMONT de",
-    "text": "FONTBELLEAU 60 Avenue de PARIS 33310 LORMONT de 18,4 Ã  19,2 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "506": {
     "id": "506",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506",
@@ -130,18 +106,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608",
     "city": "MONT-DE-MARSAN",
     "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "302": {
-    "id": "302",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/302",
-    "city": "PAU",
-    "text": "GASTON PHOEBUS 12 Avenue du Doyen POPLAWSKI 64000 PAU 10 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
-  },
-  "2183": {
-    "id": "2183",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2183",
-    "city": "AGEN",
-    "text": "TANNERIES 30 Rue Carjac 47000 AGEN 14 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "540": {
     "id": "540",
@@ -155,10 +119,34 @@
     "city": "CORTE",
     "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "51": {
-    "id": "51",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/51",
-    "city": "VANDOEUVRE LES NANCY",
-    "text": "CU HAUTE MALGRANGE 8 Rue Jean Lamour 54500 VANDOEUVRE LES NANCY 9 mÂ² Individuel 1 lit simple Frigo"
+  "3248": {
+    "id": "3248",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248",
+    "city": "LORMONT de",
+    "text": "FONTBELLEAU 60 Avenue de PARIS 33310 LORMONT de 18,4 Ã  19,2 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2789": {
+    "id": "2789",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
+    "city": "CORTE de",
+    "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "2183": {
+    "id": "2183",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2183",
+    "city": "AGEN",
+    "text": "TANNERIES 30 Rue Carjac 47000 AGEN 14 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "302": {
+    "id": "302",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/302",
+    "city": "PAU",
+    "text": "GASTON PHOEBUS 12 Avenue du Doyen POPLAWSKI 64000 PAU 10 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "2688": {
+    "id": "2688",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688",
+    "city": "GRENOBLE de",
+    "text": "GALILEE 6 place Pasteur - 38100 GRENOBLE de 16,1 Ã  29,8 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   }
 }
