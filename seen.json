@@ -65,12 +65,6 @@
     "city": "FELLETIN",
     "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "1521": {
-    "id": "1521",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521",
-    "city": "CORTE",
-    "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
   "2477": {
     "id": "2477",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
@@ -101,41 +95,17 @@
     "city": "AGEN",
     "text": "TANNERIES 30 Rue Carjac 47000 AGEN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "540": {
-    "id": "540",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/540",
-    "city": "VANDOEUVRE LES NANCY",
-    "text": "CU VELODROME Rue Jacques Callot 54500 VANDOEUVRE LES NANCY 30 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
   "581": {
     "id": "581",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/581",
     "city": "MONTLUCON",
     "text": "Montlucon AllÃ©e J.J. Soulier - BP 409 - 03107 MONTLUCON 9 mÂ² Individuel 1 lit simple Frigo"
   },
-  "2789": {
-    "id": "2789",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
-    "city": "CORTE de",
-    "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
   "591": {
     "id": "591",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/591",
     "city": "MONTLUCON",
     "text": "Montlucon AllÃ©e J.J. Soulier - BP 409 - 03107 MONTLUCON 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "302": {
-    "id": "302",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/302",
-    "city": "PAU",
-    "text": "GASTON PHOEBUS 12 Avenue du Doyen POPLAWSKI 64000 PAU 10 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
-  },
-  "1458": {
-    "id": "1458",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
-    "city": "CORTE de",
-    "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
   "1491": {
     "id": "1491",
@@ -154,5 +124,41 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "2789": {
+    "id": "2789",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
+    "city": "CORTE de",
+    "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "302": {
+    "id": "302",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/302",
+    "city": "PAU",
+    "text": "GASTON PHOEBUS 12 Avenue du Doyen POPLAWSKI 64000 PAU 10 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "1458": {
+    "id": "1458",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
+    "city": "CORTE de",
+    "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "1521": {
+    "id": "1521",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521",
+    "city": "CORTE",
+    "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "540": {
+    "id": "540",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/540",
+    "city": "VANDOEUVRE LES NANCY",
+    "text": "CU VELODROME Rue Jacques Callot 54500 VANDOEUVRE LES NANCY 30 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
+  },
+  "1268": {
+    "id": "1268",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1268",
+    "city": "FELLETIN de",
+    "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN de 24 Ã  32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
