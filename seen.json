@@ -5,12 +5,6 @@
     "city": "CORTE de",
     "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
-  "1491": {
-    "id": "1491",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1491",
-    "city": "CHARLEVILLE-MEZIERES",
-    "text": "La GRAVIERE 36 Rue de la GraviÃ¨re 08000 CHARLEVILLE-MEZIERES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "1521": {
     "id": "1521",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521",
@@ -143,16 +137,22 @@
     "city": "PAU",
     "text": "GASTON PHOEBUS 12 Avenue du Doyen POPLAWSKI 64000 PAU 10 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   },
-  "540": {
-    "id": "540",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/540",
-    "city": "VANDOEUVRE LES NANCY",
-    "text": "CU VELODROME Rue Jacques Callot 54500 VANDOEUVRE LES NANCY 30 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
   "3248": {
     "id": "3248",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248",
     "city": "LORMONT de",
     "text": "FONTBELLEAU 60 Avenue de PARIS 33310 LORMONT de 18,4 Ã  19,2 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1491": {
+    "id": "1491",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1491",
+    "city": "CHARLEVILLE-MEZIERES",
+    "text": "La GRAVIERE 36 Rue de la GraviÃ¨re 08000 CHARLEVILLE-MEZIERES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "540": {
+    "id": "540",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/540",
+    "city": "VANDOEUVRE LES NANCY",
+    "text": "CU VELODROME Rue Jacques Callot 54500 VANDOEUVRE LES NANCY 30 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   }
 }
