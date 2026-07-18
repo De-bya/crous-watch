@@ -1,10 +1,4 @@
 {
-  "2102": {
-    "id": "2102",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2102",
-    "city": "Vannes",
-    "text": "CU Lann-Trussac 12 rue Michel de Montaigne 56000 Vannes 26 mÂ² Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
   "530": {
     "id": "530",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/530",
@@ -17,11 +11,11 @@
     "city": "LONGWY CEDEX",
     "text": "CU JEAN MONNET 8, Avenue du Bivaque BP 50059 54405 LONGWY CEDEX 27 mÂ² Individuel, Couple 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   },
-  "2993": {
-    "id": "2993",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2993",
-    "city": "METZ CEDEX",
-    "text": "CU BRIDOUX 2 rue du GÃ©nÃ©ral Delestraint CS 15250 57076 METZ CEDEX 03 50 mÂ² Individuel 2 lits rapprochables"
+  "2102": {
+    "id": "2102",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2102",
+    "city": "Vannes",
+    "text": "CU Lann-Trussac 12 rue Michel de Montaigne 56000 Vannes 26 mÂ² Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
   "3106": {
     "id": "3106",
@@ -29,17 +23,17 @@
     "city": "FELLETIN",
     "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
+  "2993": {
+    "id": "2993",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2993",
+    "city": "METZ CEDEX",
+    "text": "CU BRIDOUX 2 rue du GÃ©nÃ©ral Delestraint CS 15250 57076 METZ CEDEX 03 50 mÂ² Individuel 2 lits rapprochables"
+  },
   "1491": {
     "id": "1491",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1491",
     "city": "CHARLEVILLE-MEZIERES",
     "text": "La GRAVIERE 36 Rue de la GraviÃ¨re 08000 CHARLEVILLE-MEZIERES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "2789": {
-    "id": "2789",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
-    "city": "CORTE de",
-    "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
   "1224": {
     "id": "1224",
@@ -89,35 +83,23 @@
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2688": {
-    "id": "2688",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688",
-    "city": "GRENOBLE de",
-    "text": "GALILEE 6 place Pasteur - 38100 GRENOBLE de 16,1 Ã  29,8 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
   "302": {
     "id": "302",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/302",
     "city": "PAU",
     "text": "GASTON PHOEBUS 12 Avenue du Doyen POPLAWSKI 64000 PAU 10 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   },
-  "1458": {
-    "id": "1458",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
-    "city": "CORTE de",
-    "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  "2688": {
+    "id": "2688",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688",
+    "city": "GRENOBLE de",
+    "text": "GALILEE 6 place Pasteur - 38100 GRENOBLE de 16,1 Ã  29,8 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
   "1567": {
     "id": "1567",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567",
     "city": "CHARLEVILLE MEZIERES",
     "text": "MAISON DES ETUDIANTS 38 Rue de Montjoly 08000 CHARLEVILLE MEZIERES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "494": {
-    "id": "494",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/494",
-    "city": "PAU",
-    "text": "LE THELEME 16 RUE DES FRERES CAMORS 64000 PAU 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "3259": {
     "id": "3259",
@@ -173,16 +155,34 @@
     "city": "LORMONT de",
     "text": "FONTBELLEAU 60 Avenue de PARIS 33310 LORMONT de 18,4 Ã  19,2 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "195": {
-    "id": "195",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/195",
-    "city": "LAXOU",
-    "text": "CU MEDREVILLE 28, rue A. Briand - 54520 LAXOU 9 mÂ² Individuel 1 lit simple Frigo"
+  "494": {
+    "id": "494",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/494",
+    "city": "PAU",
+    "text": "LE THELEME 16 RUE DES FRERES CAMORS 64000 PAU 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "943": {
     "id": "943",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/943",
     "city": "POITIERS de",
     "text": "RESIDENCE JULES CAISSO 10/12 rue Marcel DorÃ© - 86000 POITIERS de 46 Ã  50 mÂ² Individuel 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "1268": {
+    "id": "1268",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1268",
+    "city": "FELLETIN de",
+    "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN de 24 Ã  32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1458": {
+    "id": "1458",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
+    "city": "CORTE de",
+    "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "2789": {
+    "id": "2789",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
+    "city": "CORTE de",
+    "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   }
 }
