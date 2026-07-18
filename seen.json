@@ -101,12 +101,6 @@
     "city": "CORTE",
     "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "302": {
-    "id": "302",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/302",
-    "city": "PAU",
-    "text": "GASTON PHOEBUS 12 Avenue du Doyen POPLAWSKI 64000 PAU 10 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
-  },
   "291": {
     "id": "291",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/291",
@@ -125,23 +119,11 @@
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "910": {
-    "id": "910",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910",
-    "city": "CORTE de",
-    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
   "2477": {
     "id": "2477",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
-  "581": {
-    "id": "581",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/581",
-    "city": "MONTLUCON",
-    "text": "Montlucon AllÃ©e J.J. Soulier - BP 409 - 03107 MONTLUCON 9 mÂ² Individuel 1 lit simple Frigo"
   },
   "494": {
     "id": "494",
@@ -149,23 +131,23 @@
     "city": "PAU",
     "text": "LE THELEME 16 RUE DES FRERES CAMORS 64000 PAU 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "3142": {
-    "id": "3142",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3142",
-    "city": "ANNECY de",
-    "text": "LOUISE ET COLETTE PERIES 10 chemin de Bellevue ANNECY-LE-VIEUX 74940 ANNECY de 13,3 Ã  14,3 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "540": {
     "id": "540",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/540",
     "city": "VANDOEUVRE LES NANCY",
     "text": "CU VELODROME Rue Jacques Callot 54500 VANDOEUVRE LES NANCY 30 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   },
-  "3248": {
-    "id": "3248",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248",
-    "city": "LORMONT de",
-    "text": "FONTBELLEAU 60 Avenue de PARIS 33310 LORMONT de 18,4 Ã  19,2 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  "302": {
+    "id": "302",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/302",
+    "city": "PAU",
+    "text": "GASTON PHOEBUS 12 Avenue du Doyen POPLAWSKI 64000 PAU 10 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "3142": {
+    "id": "3142",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3142",
+    "city": "ANNECY de",
+    "text": "LOUISE ET COLETTE PERIES 10 chemin de Bellevue ANNECY-LE-VIEUX 74940 ANNECY de 13,3 Ã  14,3 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "3259": {
     "id": "3259",
@@ -173,28 +155,40 @@
     "city": "BLOIS",
     "text": "MARIE-AMELIE LE FUR 7-9 rue Germaine Tillion 41000 BLOIS 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2508": {
-    "id": "2508",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2508",
-    "city": "VALENCE de",
-    "text": "CLACTON 20 RUE CLACTON TENDRING 26000 VALENCE de 23 Ã  32 mÂ² Individuel 1 lit simple PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Duplex"
+  "581": {
+    "id": "581",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/581",
+    "city": "MONTLUCON",
+    "text": "Montlucon AllÃ©e J.J. Soulier - BP 409 - 03107 MONTLUCON 9 mÂ² Individuel 1 lit simple Frigo"
   },
-  "2502": {
-    "id": "2502",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2502",
-    "city": "VALENCE",
-    "text": "CLACTON 20 RUE CLACTON TENDRING 26000 VALENCE 23 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "195": {
-    "id": "195",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/195",
-    "city": "LAXOU",
-    "text": "CU MEDREVILLE 28, rue A. Briand - 54520 LAXOU 9 mÂ² Individuel 1 lit simple Frigo"
+  "3248": {
+    "id": "3248",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248",
+    "city": "LORMONT de",
+    "text": "FONTBELLEAU 60 Avenue de PARIS 33310 LORMONT de 18,4 Ã  19,2 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "943": {
     "id": "943",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/943",
     "city": "POITIERS de",
     "text": "RESIDENCE JULES CAISSO 10/12 rue Marcel DorÃ© - 86000 POITIERS de 46 Ã  50 mÂ² Individuel 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "1603": {
+    "id": "1603",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1603",
+    "city": "NANCY cedex",
+    "text": "CU BOUDONVILLE 61 rue de Boudonville 54052 NANCY cedex 13,5 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
+  },
+  "910": {
+    "id": "910",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910",
+    "city": "CORTE de",
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "1109": {
+    "id": "1109",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1109",
+    "city": "BLOIS de",
+    "text": "DR DUCOUX 3 Rue Ducoux 41000 BLOIS de 19,12 Ã  20,98 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
