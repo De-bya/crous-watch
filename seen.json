@@ -1,39 +1,15 @@
 {
-  "494": {
-    "id": "494",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/494",
-    "city": "PAU",
-    "text": "LE THELEME 16 RUE DES FRERES CAMORS 64000 PAU 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "506": {
     "id": "506",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506",
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "516": {
-    "id": "516",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/516",
-    "city": "MONT-DE-MARSAN",
-    "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo Logement adaptÃ© PMR"
-  },
-  "522": {
-    "id": "522",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522",
-    "city": "MONT-DE-MARSAN",
-    "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Colocation 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
   "530": {
     "id": "530",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/530",
     "city": "VANDOEUVRE LES NANCY",
     "text": "CU VELODROME Rue Jacques Callot 54500 VANDOEUVRE LES NANCY 30 mÂ² Individuel, Colocation, Couple 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
-  "540": {
-    "id": "540",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/540",
-    "city": "VANDOEUVRE LES NANCY",
-    "text": "CU VELODROME Rue Jacques Callot 54500 VANDOEUVRE LES NANCY 30 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   },
   "581": {
     "id": "581",
@@ -107,12 +83,6 @@
     "city": "BRIVE",
     "text": "RÃ©sidence de Brive 21 rue AndrÃ© Devaud 19100 BRIVE 18 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   },
-  "1458": {
-    "id": "1458",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
-    "city": "CORTE de",
-    "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
   "1491": {
     "id": "1491",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1491",
@@ -167,11 +137,17 @@
     "city": "BLOIS",
     "text": "MARIE-AMELIE LE FUR 7-9 rue Germaine Tillion 41000 BLOIS 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "943": {
-    "id": "943",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/943",
-    "city": "POITIERS de",
-    "text": "RESIDENCE JULES CAISSO 10/12 rue Marcel DorÃ© - 86000 POITIERS de 46 Ã  50 mÂ² Individuel 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  "540": {
+    "id": "540",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/540",
+    "city": "VANDOEUVRE LES NANCY",
+    "text": "CU VELODROME Rue Jacques Callot 54500 VANDOEUVRE LES NANCY 30 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
+  },
+  "1047": {
+    "id": "1047",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1047",
+    "city": "BLOIS",
+    "text": "DR DESFRAY 5 rue du Docteur Desfray 41000 BLOIS 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "736": {
     "id": "736",
@@ -179,10 +155,58 @@
     "city": "MaxÃ",
     "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville de 23 Ã  28 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   },
+  "522": {
+    "id": "522",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522",
+    "city": "MONT-DE-MARSAN",
+    "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Colocation 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "516": {
+    "id": "516",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/516",
+    "city": "MONT-DE-MARSAN",
+    "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo Logement adaptÃ© PMR"
+  },
+  "1328": {
+    "id": "1328",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1328",
+    "city": "VANDOEUVRE LES NANCY",
+    "text": "CU MONPLAISIR rue Jacques Callot 54500 VANDOEUVRE LES NANCY 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
   "699": {
     "id": "699",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/699",
     "city": "MaxÃ",
     "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "195": {
+    "id": "195",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/195",
+    "city": "LAXOU",
+    "text": "CU MEDREVILLE 28, rue A. Briand - 54520 LAXOU 9 mÂ² Individuel 1 lit simple Frigo"
+  },
+  "943": {
+    "id": "943",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/943",
+    "city": "POITIERS de",
+    "text": "RESIDENCE JULES CAISSO 10/12 rue Marcel DorÃ© - 86000 POITIERS de 46 Ã  50 mÂ² Individuel 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "494": {
+    "id": "494",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/494",
+    "city": "PAU",
+    "text": "LE THELEME 16 RUE DES FRERES CAMORS 64000 PAU 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2251": {
+    "id": "2251",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2251",
+    "city": "ST QUENTIN de",
+    "text": "RESIDENCE BEGUINAGES 23 rue des BÃ©guinages 02100 ST QUENTIN de 31,94 Ã  32,52 mÂ² Colocation 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "1458": {
+    "id": "1458",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
+    "city": "CORTE de",
+    "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   }
 }
