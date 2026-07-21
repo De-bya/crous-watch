@@ -125,12 +125,6 @@
     "city": "JAUNAY CLAN",
     "text": "RESIDENCE CENTRE DE VIE 20 Rue du BelvÃ©dÃ¨re - 86130 JAUNAY CLAN 65 mÂ² Individuel, Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo, Duplex"
   },
-  "2519": {
-    "id": "2519",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2519",
-    "city": "FAMARS de",
-    "text": "RÃ©sidence Jules Marmottan 8 avenue Emile Loubat 59300 FAMARS de 38,94 Ã  42,38 mÂ² Individuel 1 lit rapprochable WC, Douche, Evier + plaque, Frigo"
-  },
   "1567": {
     "id": "1567",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567",
@@ -161,12 +155,6 @@
     "city": "PAU",
     "text": "RONSARD 36 RUE RONSARD 64000 PAU 30 mÂ² Individuel, Colocation, Couple 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   },
-  "3248": {
-    "id": "3248",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248",
-    "city": "LORMONT de",
-    "text": "FONTBELLEAU 60 Avenue de PARIS 33310 LORMONT de 18,4 Ã  19,2 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "2477": {
     "id": "2477",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
@@ -185,11 +173,17 @@
     "city": "CORTE de",
     "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
-  "1521": {
-    "id": "1521",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521",
-    "city": "CORTE",
-    "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  "2789": {
+    "id": "2789",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
+    "city": "CORTE de",
+    "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "1268": {
+    "id": "1268",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1268",
+    "city": "FELLETIN de",
+    "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN de 24 Ã  32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "302": {
     "id": "302",
@@ -197,22 +191,28 @@
     "city": "PAU",
     "text": "GASTON PHOEBUS 12 Avenue du Doyen POPLAWSKI 64000 PAU 10 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   },
-  "2789": {
-    "id": "2789",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
-    "city": "CORTE de",
-    "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
   "1995": {
     "id": "1995",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "1268": {
-    "id": "1268",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1268",
-    "city": "FELLETIN de",
-    "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN de 24 Ã  32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  "2519": {
+    "id": "2519",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2519",
+    "city": "FAMARS de",
+    "text": "RÃ©sidence Jules Marmottan 8 avenue Emile Loubat 59300 FAMARS de 38,94 Ã  42,38 mÂ² Individuel 1 lit rapprochable WC, Douche, Evier + plaque, Frigo"
+  },
+  "3248": {
+    "id": "3248",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248",
+    "city": "LORMONT de",
+    "text": "FONTBELLEAU 60 Avenue de PARIS 33310 LORMONT de 18,4 Ã  19,2 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1521": {
+    "id": "1521",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521",
+    "city": "CORTE",
+    "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   }
 }
