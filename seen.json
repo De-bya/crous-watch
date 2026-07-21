@@ -5,12 +5,6 @@
     "city": "FELLETIN de",
     "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN de 24 Ã  32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "3106": {
-    "id": "3106",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
-    "city": "FELLETIN",
-    "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "915": {
     "id": "915",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/915",
@@ -89,12 +83,6 @@
     "city": "CHARLEVILLE MEZIERES",
     "text": "MAISON DES ETUDIANTS 38 Rue de Montjoly 08000 CHARLEVILLE MEZIERES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2147": {
-    "id": "2147",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2147",
-    "city": "AGEN",
-    "text": "CRESSONNIERE Av. Michel Serres 47000 AGEN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "1458": {
     "id": "1458",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
@@ -119,12 +107,6 @@
     "city": "BLOIS",
     "text": "MARIE-AMELIE LE FUR 7-9 rue Germaine Tillion 41000 BLOIS 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2899": {
-    "id": "2899",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2899",
-    "city": "Maubeuge de",
-    "text": "RÃ©sidence Gaston Adriensence 2 rue du Docteur Paul Jean 59600 Maubeuge de 24,51 Ã  24,8 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "1224": {
     "id": "1224",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224",
@@ -136,12 +118,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1203",
     "city": "TOURS",
     "text": "EUROPA AllÃ©e thierry d'Argenlieu 37000 TOURS 36 mÂ² Individuel, Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo"
-  },
-  "2519": {
-    "id": "2519",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2519",
-    "city": "FAMARS de",
-    "text": "RÃ©sidence Jules Marmottan 8 avenue Emile Loubat 59300 FAMARS de 38,94 Ã  42,38 mÂ² Individuel 1 lit rapprochable WC, Douche, Evier + plaque, Frigo"
   },
   "1596": {
     "id": "1596",
@@ -155,18 +131,6 @@
     "city": "LONGUENESSE",
     "text": "RÃ©sidence Olympie Avenue Descartes 62219 LONGUENESSE 25 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "302": {
-    "id": "302",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/302",
-    "city": "PAU",
-    "text": "GASTON PHOEBUS 12 Avenue du Doyen POPLAWSKI 64000 PAU 10 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
-  },
-  "540": {
-    "id": "540",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/540",
-    "city": "VANDOEUVRE LES NANCY",
-    "text": "CU VELODROME Rue Jacques Callot 54500 VANDOEUVRE LES NANCY 30 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
   "2191": {
     "id": "2191",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2191",
@@ -178,12 +142,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2892",
     "city": "Maubeuge de",
     "text": "RÃ©sidence Gaston Adriensence 2 rue du Docteur Paul Jean 59600 Maubeuge de 17,93 Ã  18,96 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "2975": {
-    "id": "2975",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2975",
-    "city": "MaxÃ",
-    "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville de 23 Ã  28 mÂ² Individuel 2 lits simples WC, Douche, Evier + plaque, Frigo"
   },
   "2477": {
     "id": "2477",
@@ -214,5 +172,53 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1491",
     "city": "CHARLEVILLE-MEZIERES",
     "text": "La GRAVIERE 36 Rue de la GraviÃ¨re 08000 CHARLEVILLE-MEZIERES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2147": {
+    "id": "2147",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2147",
+    "city": "AGEN",
+    "text": "CRESSONNIERE Av. Michel Serres 47000 AGEN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2899": {
+    "id": "2899",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2899",
+    "city": "Maubeuge de",
+    "text": "RÃ©sidence Gaston Adriensence 2 rue du Docteur Paul Jean 59600 Maubeuge de 24,51 Ã  24,8 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "302": {
+    "id": "302",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/302",
+    "city": "PAU",
+    "text": "GASTON PHOEBUS 12 Avenue du Doyen POPLAWSKI 64000 PAU 10 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "3106": {
+    "id": "3106",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
+    "city": "FELLETIN",
+    "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2975": {
+    "id": "2975",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2975",
+    "city": "MaxÃ",
+    "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville de 23 Ã  28 mÂ² Individuel 2 lits simples WC, Douche, Evier + plaque, Frigo"
+  },
+  "2519": {
+    "id": "2519",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2519",
+    "city": "FAMARS de",
+    "text": "RÃ©sidence Jules Marmottan 8 avenue Emile Loubat 59300 FAMARS de 38,94 Ã  42,38 mÂ² Individuel 1 lit rapprochable WC, Douche, Evier + plaque, Frigo"
+  },
+  "540": {
+    "id": "540",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/540",
+    "city": "VANDOEUVRE LES NANCY",
+    "text": "CU VELODROME Rue Jacques Callot 54500 VANDOEUVRE LES NANCY 30 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
+  },
+  "1328": {
+    "id": "1328",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1328",
+    "city": "VANDOEUVRE LES NANCY",
+    "text": "CU MONPLAISIR rue Jacques Callot 54500 VANDOEUVRE LES NANCY 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
