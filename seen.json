@@ -5,12 +5,6 @@
     "city": "VANDOEUVRE LES NANCY",
     "text": "CU VELODROME Rue Jacques Callot 54500 VANDOEUVRE LES NANCY 30 mÂ² Individuel, Colocation, Couple 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   },
-  "1491": {
-    "id": "1491",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1491",
-    "city": "CHARLEVILLE-MEZIERES",
-    "text": "La GRAVIERE 36 Rue de la GraviÃ¨re 08000 CHARLEVILLE-MEZIERES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "1224": {
     "id": "1224",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224",
@@ -29,23 +23,11 @@
     "city": "BAZEILLES",
     "text": "BAZEILLES 12 place de l infanterie de marine 08140 BAZEILLES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "1567": {
-    "id": "1567",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567",
-    "city": "CHARLEVILLE MEZIERES",
-    "text": "MAISON DES ETUDIANTS 38 Rue de Montjoly 08000 CHARLEVILLE MEZIERES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "2608": {
     "id": "2608",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608",
     "city": "MONT-DE-MARSAN",
     "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "1596": {
-    "id": "1596",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1596",
-    "city": "PAU",
-    "text": "RONSARD 36 RUE RONSARD 64000 PAU 30 mÂ² Individuel, Colocation, Couple 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   },
   "2191": {
     "id": "2191",
@@ -83,12 +65,6 @@
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Colocation 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
-  "291": {
-    "id": "291",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/291",
-    "city": "BRIVE",
-    "text": "RÃ©sidence de Brive 21 rue AndrÃ© Devaud 19100 BRIVE 18 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
-  },
   "46": {
     "id": "46",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/46",
@@ -107,35 +83,11 @@
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "540": {
-    "id": "540",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/540",
-    "city": "VANDOEUVRE LES NANCY",
-    "text": "CU VELODROME Rue Jacques Callot 54500 VANDOEUVRE LES NANCY 30 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
-  "270": {
-    "id": "270",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/270",
-    "city": "LONGUENESSE",
-    "text": "RÃ©sidence Olympie Avenue Descartes 62219 LONGUENESSE 25 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "736": {
-    "id": "736",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736",
-    "city": "MaxÃ",
-    "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville de 23 Ã  28 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
   "1521": {
     "id": "1521",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521",
     "city": "CORTE",
     "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
-  "1632": {
-    "id": "1632",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1632",
-    "city": "ISSOUDUN",
-    "text": "LES COINCHETTES 21 Bis route de la Pomme 36100 ISSOUDUN 30 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo"
   },
   "2689": {
     "id": "2689",
@@ -143,11 +95,23 @@
     "city": "GRENOBLE",
     "text": "GALILEE 6 place Pasteur - 38100 GRENOBLE 27,8 mÂ² Individuel, Couple 1 lit double WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
-  "302": {
-    "id": "302",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/302",
+  "910": {
+    "id": "910",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910",
+    "city": "CORTE de",
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "1596": {
+    "id": "1596",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1596",
     "city": "PAU",
-    "text": "GASTON PHOEBUS 12 Avenue du Doyen POPLAWSKI 64000 PAU 10 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+    "text": "RONSARD 36 RUE RONSARD 64000 PAU 30 mÂ² Individuel, Colocation, Couple 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
+  },
+  "736": {
+    "id": "736",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736",
+    "city": "MaxÃ",
+    "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville de 23 Ã  28 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   },
   "3248": {
     "id": "3248",
@@ -155,23 +119,59 @@
     "city": "LORMONT de",
     "text": "FONTBELLEAU 60 Avenue de PARIS 33310 LORMONT de 18,4 Ã  19,2 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
+  "540": {
+    "id": "540",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/540",
+    "city": "VANDOEUVRE LES NANCY",
+    "text": "CU VELODROME Rue Jacques Callot 54500 VANDOEUVRE LES NANCY 30 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
+  },
+  "291": {
+    "id": "291",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/291",
+    "city": "BRIVE",
+    "text": "RÃ©sidence de Brive 21 rue AndrÃ© Devaud 19100 BRIVE 18 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
   "2688": {
     "id": "2688",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688",
     "city": "GRENOBLE de",
     "text": "GALILEE 6 place Pasteur - 38100 GRENOBLE de 16,1 Ã  29,8 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
-  "910": {
-    "id": "910",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910",
-    "city": "CORTE de",
-    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  "1567": {
+    "id": "1567",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567",
+    "city": "CHARLEVILLE MEZIERES",
+    "text": "MAISON DES ETUDIANTS 38 Rue de Montjoly 08000 CHARLEVILLE MEZIERES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2416": {
-    "id": "2416",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2416",
-    "city": "St MARTIN D HERES",
-    "text": "BERLIOZ Domaine Universitaire 38406 St MARTIN D HERES 12 mÂ² Individuel 1 lit simple Frigo"
+  "214": {
+    "id": "214",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/214",
+    "city": "METZ CEDEX",
+    "text": "CU BRIDOUX 2 rue du GÃ©nÃ©ral Delestraint CS 15250 57076 METZ CEDEX 03 50 mÂ² Individuel, Colocation, Couple 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
+  },
+  "1491": {
+    "id": "1491",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1491",
+    "city": "CHARLEVILLE-MEZIERES",
+    "text": "La GRAVIERE 36 Rue de la GraviÃ¨re 08000 CHARLEVILLE-MEZIERES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "302": {
+    "id": "302",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/302",
+    "city": "PAU",
+    "text": "GASTON PHOEBUS 12 Avenue du Doyen POPLAWSKI 64000 PAU 10 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "709": {
+    "id": "709",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/709",
+    "city": "MaxÃ",
+    "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville 23 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1239": {
+    "id": "1239",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1239",
+    "city": "NANCY CEDEX",
+    "text": "CU MONBOIS 2, rue Ludovic Beauchet - 54052 NANCY CEDEX 15 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   },
   "2499": {
     "id": "2499",
