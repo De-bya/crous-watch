@@ -23,12 +23,6 @@
     "city": "AGEN",
     "text": "TANNERIES 30 Rue Carjac 47000 AGEN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2608": {
-    "id": "2608",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608",
-    "city": "MONT-DE-MARSAN",
-    "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "2477": {
     "id": "2477",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
@@ -113,12 +107,6 @@
     "city": "CHATEAUROUX de",
     "text": "CHARLEMAGNE 4 rue Saint Luc 36000 CHATEAUROUX de 30 Ã  33 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo"
   },
-  "595": {
-    "id": "595",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/595",
-    "city": "LIMOGES CÃ",
-    "text": "RÃ©sidence Ester Parc Ester, Rue GÃ©mini 87069 LIMOGES CÃ©dex de 0 Ã  32 mÂ² Individuel 1 lit double PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
   "46": {
     "id": "46",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/46",
@@ -160,5 +148,11 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
     "city": "CORTE de",
     "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "2608": {
+    "id": "2608",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608",
+    "city": "MONT-DE-MARSAN",
+    "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
