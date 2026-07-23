@@ -17,12 +17,6 @@
     "city": "AGEN",
     "text": "TANNERIES 30 Rue Carjac 47000 AGEN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "540": {
-    "id": "540",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/540",
-    "city": "VANDOEUVRE LES NANCY",
-    "text": "CU VELODROME Rue Jacques Callot 54500 VANDOEUVRE LES NANCY 30 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
   "3106": {
     "id": "3106",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
@@ -34,12 +28,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/516",
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo Logement adaptÃ© PMR"
-  },
-  "1995": {
-    "id": "1995",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
-    "city": "CORTE de",
-    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
   "1268": {
     "id": "1268",
@@ -107,29 +95,23 @@
     "city": "MONT-DE-MARSAN",
     "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2477": {
-    "id": "2477",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
-    "city": "CORTE de",
-    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
   "46": {
     "id": "46",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/46",
     "city": "PAU",
     "text": "CLE DES CHAMPS 7 RUE SAINT JOHN PERSE 64000 PAU 51 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
-  "522": {
-    "id": "522",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522",
-    "city": "MONT-DE-MARSAN",
-    "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Colocation 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
   "2789": {
     "id": "2789",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
     "city": "CORTE de",
     "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "522": {
+    "id": "522",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522",
+    "city": "MONT-DE-MARSAN",
+    "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Colocation 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
   "1458": {
     "id": "1458",
@@ -148,5 +130,23 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/267",
     "city": "AGEN",
     "text": "CRESSONNIERE Av. Michel Serres 47000 AGEN 30 mÂ² Individuel, Couple 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
+  },
+  "1995": {
+    "id": "1995",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
+    "city": "CORTE de",
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "540": {
+    "id": "540",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/540",
+    "city": "VANDOEUVRE LES NANCY",
+    "text": "CU VELODROME Rue Jacques Callot 54500 VANDOEUVRE LES NANCY 30 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
+  },
+  "2477": {
+    "id": "2477",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
+    "city": "CORTE de",
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   }
 }
