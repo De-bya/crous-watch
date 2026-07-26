@@ -41,12 +41,6 @@
     "city": "MONT-DE-MARSAN",
     "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "1521": {
-    "id": "1521",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521",
-    "city": "CORTE",
-    "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
   "1224": {
     "id": "1224",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224",
@@ -58,18 +52,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/516",
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo Logement adaptÃ© PMR"
-  },
-  "2558": {
-    "id": "2558",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2558",
-    "city": "DAX",
-    "text": "ANDRE MALRAUX 93 AV Francis PLANTE 40100 DAX 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "1567": {
-    "id": "1567",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567",
-    "city": "CHARLEVILLE MEZIERES",
-    "text": "MAISON DES ETUDIANTS 38 Rue de Montjoly 08000 CHARLEVILLE MEZIERES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "1995": {
     "id": "1995",
@@ -118,5 +100,23 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688",
     "city": "GRENOBLE de",
     "text": "GALILEE 6 place Pasteur - 38100 GRENOBLE de 16,1 Ã  29,8 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "1567": {
+    "id": "1567",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567",
+    "city": "CHARLEVILLE MEZIERES",
+    "text": "MAISON DES ETUDIANTS 38 Rue de Montjoly 08000 CHARLEVILLE MEZIERES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1521": {
+    "id": "1521",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521",
+    "city": "CORTE",
+    "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "2558": {
+    "id": "2558",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2558",
+    "city": "DAX",
+    "text": "ANDRE MALRAUX 93 AV Francis PLANTE 40100 DAX 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
