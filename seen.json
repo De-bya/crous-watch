@@ -41,12 +41,6 @@
     "city": "FELLETIN",
     "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "1995": {
-    "id": "1995",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
-    "city": "CORTE de",
-    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
   "2608": {
     "id": "2608",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608",
@@ -95,29 +89,23 @@
     "city": "AGEN",
     "text": "CRESSONNIERE Av. Michel Serres 47000 AGEN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
+  "1995": {
+    "id": "1995",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
+    "city": "CORTE de",
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
   "406": {
     "id": "406",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/406",
     "city": "BORDEAUX",
     "text": "VICTOIRE 42 rue Sauteyron 33000 BORDEAUX 45,77 mÂ² Individuel, Colocation, Couple 2 lits rapprochables WC, Douche, Evier + plaque, Frigo, Balcon Logement adaptÃ© PMR"
   },
-  "1567": {
-    "id": "1567",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567",
-    "city": "CHARLEVILLE MEZIERES",
-    "text": "MAISON DES ETUDIANTS 38 Rue de Montjoly 08000 CHARLEVILLE MEZIERES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "1586": {
-    "id": "1586",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1586",
-    "city": "PAU",
-    "text": "RONSARD 36 RUE RONSARD 64000 PAU 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "2789": {
-    "id": "2789",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
-    "city": "CORTE de",
-    "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  "259": {
+    "id": "259",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/259",
+    "city": "Pau de",
+    "text": "GABARD 29 Rue HonorÃ© Baradat 64000 Pau de 17,19 Ã  23,01 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "1521": {
     "id": "1521",
@@ -137,16 +125,28 @@
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
+  "1567": {
+    "id": "1567",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567",
+    "city": "CHARLEVILLE MEZIERES",
+    "text": "MAISON DES ETUDIANTS 38 Rue de Montjoly 08000 CHARLEVILLE MEZIERES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1586": {
+    "id": "1586",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1586",
+    "city": "PAU",
+    "text": "RONSARD 36 RUE RONSARD 64000 PAU 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2789": {
+    "id": "2789",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
+    "city": "CORTE de",
+    "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
   "3248": {
     "id": "3248",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248",
     "city": "LORMONT de",
     "text": "FONTBELLEAU 60 Avenue de PARIS 33310 LORMONT de 18,4 Ã  19,2 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "259": {
-    "id": "259",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/259",
-    "city": "Pau de",
-    "text": "GABARD 29 Rue HonorÃ© Baradat 64000 Pau de 17,19 Ã  23,01 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
