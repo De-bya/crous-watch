@@ -1,4 +1,10 @@
 {
+  "736": {
+    "id": "736",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736",
+    "city": "MaxÃ",
+    "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville de 23 Ã  28 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
+  },
   "506": {
     "id": "506",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506",
@@ -17,12 +23,6 @@
     "city": "VANDOEUVRE LES NANCY",
     "text": "CU VELODROME Rue Jacques Callot 54500 VANDOEUVRE LES NANCY 30 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   },
-  "736": {
-    "id": "736",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736",
-    "city": "MaxÃ",
-    "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville de 23 Ã  28 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
   "2147": {
     "id": "2147",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2147",
@@ -34,18 +34,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2191",
     "city": "AGEN",
     "text": "TANNERIES 30 Rue Carjac 47000 AGEN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "206": {
-    "id": "206",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/206",
-    "city": "SAINT-ETIENNE de",
-    "text": "RESIDENCE TREFILERIE 18A 18B 20A 20B rue Richard 42100 SAINT-ETIENNE de 30 Ã  35,5 mÂ² Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
-  "267": {
-    "id": "267",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/267",
-    "city": "AGEN",
-    "text": "CRESSONNIERE Av. Michel Serres 47000 AGEN 30 mÂ² Individuel, Couple 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   },
   "1458": {
     "id": "1458",
@@ -137,12 +125,6 @@
     "city": "MONT-DE-MARSAN",
     "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "1939": {
-    "id": "1939",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1939",
-    "city": "NIMES CÃ",
-    "text": "RESIDENCE TOUR MAGNE 45 bis, rue MÃ©nard 30021 NIMES CÃ©dex 1 de 28 Ã  54 mÂ² Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
   "2558": {
     "id": "2558",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2558",
@@ -154,5 +136,29 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "267": {
+    "id": "267",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/267",
+    "city": "AGEN",
+    "text": "CRESSONNIERE Av. Michel Serres 47000 AGEN 30 mÂ² Individuel, Couple 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
+  },
+  "709": {
+    "id": "709",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/709",
+    "city": "MaxÃ",
+    "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville 23 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "206": {
+    "id": "206",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/206",
+    "city": "SAINT-ETIENNE de",
+    "text": "RESIDENCE TREFILERIE 18A 18B 20A 20B rue Richard 42100 SAINT-ETIENNE de 30 Ã  35,5 mÂ² Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
+  },
+  "1939": {
+    "id": "1939",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1939",
+    "city": "NIMES CÃ",
+    "text": "RESIDENCE TOUR MAGNE 45 bis, rue MÃ©nard 30021 NIMES CÃ©dex 1 de 28 Ã  54 mÂ² Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   }
 }
