@@ -5,30 +5,6 @@
     "city": "AGEN",
     "text": "CRESSONNIERE Av. Michel Serres 47000 AGEN 30 mÂ² Individuel, Couple 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   },
-  "506": {
-    "id": "506",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506",
-    "city": "MONT-DE-MARSAN",
-    "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "2147": {
-    "id": "2147",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2147",
-    "city": "AGEN",
-    "text": "CRESSONNIERE Av. Michel Serres 47000 AGEN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "2191": {
-    "id": "2191",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2191",
-    "city": "AGEN",
-    "text": "TANNERIES 30 Rue Carjac 47000 AGEN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "2608": {
-    "id": "2608",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608",
-    "city": "MONT-DE-MARSAN",
-    "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "1458": {
     "id": "1458",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
@@ -53,17 +29,29 @@
     "city": "FELLETIN de",
     "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN de 24 Ã  32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
+  "2147": {
+    "id": "2147",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2147",
+    "city": "AGEN",
+    "text": "CRESSONNIERE Av. Michel Serres 47000 AGEN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2191": {
+    "id": "2191",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2191",
+    "city": "AGEN",
+    "text": "TANNERIES 30 Rue Carjac 47000 AGEN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2608": {
+    "id": "2608",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608",
+    "city": "MONT-DE-MARSAN",
+    "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
   "3106": {
     "id": "3106",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
     "city": "FELLETIN",
     "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "2477": {
-    "id": "2477",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
-    "city": "CORTE de",
-    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
   "1567": {
     "id": "1567",
@@ -71,53 +59,17 @@
     "city": "CHARLEVILLE MEZIERES",
     "text": "MAISON DES ETUDIANTS 38 Rue de Montjoly 08000 CHARLEVILLE MEZIERES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "540": {
-    "id": "540",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/540",
-    "city": "VANDOEUVRE LES NANCY",
-    "text": "CU VELODROME Rue Jacques Callot 54500 VANDOEUVRE LES NANCY 30 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
   "1995": {
     "id": "1995",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "736": {
-    "id": "736",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736",
-    "city": "MaxÃ",
-    "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville de 23 Ã  28 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
-  "910": {
-    "id": "910",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910",
-    "city": "CORTE de",
-    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
   "2558": {
     "id": "2558",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2558",
     "city": "DAX",
     "text": "ANDRE MALRAUX 93 AV Francis PLANTE 40100 DAX 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "206": {
-    "id": "206",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/206",
-    "city": "SAINT-ETIENNE de",
-    "text": "RESIDENCE TREFILERIE 18A 18B 20A 20B rue Richard 42100 SAINT-ETIENNE de 30 Ã  35,5 mÂ² Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
-  "2688": {
-    "id": "2688",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688",
-    "city": "GRENOBLE de",
-    "text": "GALILEE 6 place Pasteur - 38100 GRENOBLE de 16,1 Ã  29,8 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
-  "2715": {
-    "id": "2715",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715",
-    "city": "Mende de",
-    "text": "CITE DE MENDE 26 Avenue du 8 mai 1945 48000 Mende de 8,5 Ã  13 mÂ² Individuel 1 lit simple Frigo"
   },
   "765": {
     "id": "765",
@@ -143,22 +95,112 @@
     "city": "CORTE",
     "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "1939": {
-    "id": "1939",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1939",
-    "city": "NIMES CÃ",
-    "text": "RESIDENCE TOUR MAGNE 45 bis, rue MÃ©nard 30021 NIMES CÃ©dex 1 de 28 Ã  54 mÂ² Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
   "2789": {
     "id": "2789",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
     "city": "CORTE de",
     "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
+  "291": {
+    "id": "291",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/291",
+    "city": "BRIVE",
+    "text": "RÃ©sidence de Brive 21 rue AndrÃ© Devaud 19100 BRIVE 18 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "2477": {
+    "id": "2477",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
+    "city": "CORTE de",
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "2715": {
+    "id": "2715",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715",
+    "city": "Mende de",
+    "text": "CITE DE MENDE 26 Avenue du 8 mai 1945 48000 Mende de 8,5 Ã  13 mÂ² Individuel 1 lit simple Frigo"
+  },
+  "506": {
+    "id": "506",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506",
+    "city": "MONT-DE-MARSAN",
+    "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1939": {
+    "id": "1939",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1939",
+    "city": "NIMES CÃ",
+    "text": "RESIDENCE TOUR MAGNE 45 bis, rue MÃ©nard 30021 NIMES CÃ©dex 1 de 28 Ã  54 mÂ² Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
+  },
   "3248": {
     "id": "3248",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248",
     "city": "LORMONT de",
     "text": "FONTBELLEAU 60 Avenue de PARIS 33310 LORMONT de 18,4 Ã  19,2 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2688": {
+    "id": "2688",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688",
+    "city": "GRENOBLE de",
+    "text": "GALILEE 6 place Pasteur - 38100 GRENOBLE de 16,1 Ã  29,8 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "910": {
+    "id": "910",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910",
+    "city": "CORTE de",
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "736": {
+    "id": "736",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736",
+    "city": "MaxÃ",
+    "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville de 23 Ã  28 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
+  },
+  "822": {
+    "id": "822",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/822",
+    "city": "AMIENS de",
+    "text": "RESIDENCE COTEAU 11 Ã  19 AllÃ©e du Coteau 80000 AMIENS de 32,69 Ã  37,53 mÂ² Individuel, Couple 1 lit double PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "540": {
+    "id": "540",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/540",
+    "city": "VANDOEUVRE LES NANCY",
+    "text": "CU VELODROME Rue Jacques Callot 54500 VANDOEUVRE LES NANCY 30 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
+  },
+  "2472": {
+    "id": "2472",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2472",
+    "city": "AMIENS de",
+    "text": "RESIDENCE FRIANT 2 53 square Friant des 4 ChÃªnes 80000 AMIENS de 18,5 Ã  24,7 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2464": {
+    "id": "2464",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2464",
+    "city": "AMIENS de",
+    "text": "RESIDENCE DELOUARD 1 Rue Moise Delouard Bat A 80000 AMIENS de 26,83 Ã  29,09 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo Logement adaptÃ© PMR"
+  },
+  "3036": {
+    "id": "3036",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3036",
+    "city": "AMIENS",
+    "text": "RESIDENCE HOTOIE 10 rue de la Hotoie 80000 AMIENS 20,06 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "206": {
+    "id": "206",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/206",
+    "city": "SAINT-ETIENNE de",
+    "text": "RESIDENCE TREFILERIE 18A 18B 20A 20B rue Richard 42100 SAINT-ETIENNE de 30 Ã  35,5 mÂ² Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
+  },
+  "2459": {
+    "id": "2459",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2459",
+    "city": "AMIENS",
+    "text": "RESIDENCE DELOUARD 1 Rue Moise Delouard Bat A 80000 AMIENS 18,34 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2551": {
+    "id": "2551",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2551",
+    "city": "AMIENS de",
+    "text": "RESIDENCE HOTOIE 10 rue de la Hotoie 80000 AMIENS de 15,55 Ã  18,71 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
