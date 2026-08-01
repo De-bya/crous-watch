@@ -113,23 +113,11 @@
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "1995": {
-    "id": "1995",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
-    "city": "CORTE de",
-    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
   "522": {
     "id": "522",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522",
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Colocation 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
-  "540": {
-    "id": "540",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/540",
-    "city": "VANDOEUVRE LES NANCY",
-    "text": "CU VELODROME Rue Jacques Callot 54500 VANDOEUVRE LES NANCY 30 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   },
   "2558": {
     "id": "2558",
@@ -137,11 +125,11 @@
     "city": "DAX",
     "text": "ANDRE MALRAUX 93 AV Francis PLANTE 40100 DAX 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "736": {
-    "id": "736",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736",
-    "city": "MaxÃ",
-    "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville de 23 Ã  28 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
+  "687": {
+    "id": "687",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/687",
+    "city": "LONGWY CEDEX",
+    "text": "CU JEAN MONNET 8, Avenue du Bivaque BP 50059 54405 LONGWY CEDEX 27 mÂ² Individuel, Couple 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   },
   "315": {
     "id": "315",
@@ -149,10 +137,22 @@
     "city": "PERIGUEUX",
     "text": "GRANDES ARCADES 49 rue JEAN SECRET 24000 PERIGUEUX 25 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
   },
-  "687": {
-    "id": "687",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/687",
-    "city": "LONGWY CEDEX",
-    "text": "CU JEAN MONNET 8, Avenue du Bivaque BP 50059 54405 LONGWY CEDEX 27 mÂ² Individuel, Couple 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
+  "1995": {
+    "id": "1995",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
+    "city": "CORTE de",
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "540": {
+    "id": "540",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/540",
+    "city": "VANDOEUVRE LES NANCY",
+    "text": "CU VELODROME Rue Jacques Callot 54500 VANDOEUVRE LES NANCY 30 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
+  },
+  "736": {
+    "id": "736",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736",
+    "city": "MaxÃ",
+    "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville de 23 Ã  28 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   }
 }
