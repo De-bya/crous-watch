@@ -113,23 +113,11 @@
     "city": "BELFORT",
     "text": "Residence J.P. Sartre 1, rue Gaston DEFERRE - 90000 BELFORT - 51 mÂ² Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   },
-  "687": {
-    "id": "687",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/687",
-    "city": "LONGWY CEDEX",
-    "text": "CU JEAN MONNET 8, Avenue du Bivaque BP 50059 54405 LONGWY CEDEX 27 mÂ² Individuel, Couple 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
   "1567": {
     "id": "1567",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567",
     "city": "CHARLEVILLE MEZIERES",
     "text": "MAISON DES ETUDIANTS 38 Rue de Montjoly 08000 CHARLEVILLE MEZIERES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "540": {
-    "id": "540",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/540",
-    "city": "VANDOEUVRE LES NANCY",
-    "text": "CU VELODROME Rue Jacques Callot 54500 VANDOEUVRE LES NANCY 30 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   },
   "1521": {
     "id": "1521",
@@ -143,12 +131,6 @@
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "736": {
-    "id": "736",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736",
-    "city": "MaxÃ",
-    "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville de 23 Ã  28 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
   "1995": {
     "id": "1995",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
@@ -160,5 +142,23 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522",
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Colocation 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "736": {
+    "id": "736",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736",
+    "city": "MaxÃ",
+    "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville de 23 Ã  28 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
+  },
+  "540": {
+    "id": "540",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/540",
+    "city": "VANDOEUVRE LES NANCY",
+    "text": "CU VELODROME Rue Jacques Callot 54500 VANDOEUVRE LES NANCY 30 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
+  },
+  "687": {
+    "id": "687",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/687",
+    "city": "LONGWY CEDEX",
+    "text": "CU JEAN MONNET 8, Avenue du Bivaque BP 50059 54405 LONGWY CEDEX 27 mÂ² Individuel, Couple 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   }
 }
