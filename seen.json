@@ -35,12 +35,6 @@
     "city": "DAX",
     "text": "ANDRE MALRAUX 93 AV Francis PLANTE 40100 DAX 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2147": {
-    "id": "2147",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2147",
-    "city": "AGEN",
-    "text": "CRESSONNIERE Av. Michel Serres 47000 AGEN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "2191": {
     "id": "2191",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2191",
@@ -143,6 +137,18 @@
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Colocation 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
+  "687": {
+    "id": "687",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/687",
+    "city": "LONGWY CEDEX",
+    "text": "CU JEAN MONNET 8, Avenue du Bivaque BP 50059 54405 LONGWY CEDEX 27 mÂ² Individuel, Couple 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
+  },
+  "2147": {
+    "id": "2147",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2147",
+    "city": "AGEN",
+    "text": "CRESSONNIERE Av. Michel Serres 47000 AGEN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
   "736": {
     "id": "736",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736",
@@ -154,11 +160,5 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/540",
     "city": "VANDOEUVRE LES NANCY",
     "text": "CU VELODROME Rue Jacques Callot 54500 VANDOEUVRE LES NANCY 30 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
-  "687": {
-    "id": "687",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/687",
-    "city": "LONGWY CEDEX",
-    "text": "CU JEAN MONNET 8, Avenue du Bivaque BP 50059 54405 LONGWY CEDEX 27 mÂ² Individuel, Couple 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   }
 }
