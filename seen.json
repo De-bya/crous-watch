@@ -23,12 +23,6 @@
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Colocation 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
-  "2477": {
-    "id": "2477",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
-    "city": "CORTE de",
-    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
   "2558": {
     "id": "2558",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2558",
@@ -58,12 +52,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
     "city": "CORTE de",
     "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
-  "1632": {
-    "id": "1632",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1632",
-    "city": "ISSOUDUN",
-    "text": "LES COINCHETTES 21 Bis route de la Pomme 36100 ISSOUDUN 30 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo"
   },
   "1211": {
     "id": "1211",
@@ -119,11 +107,11 @@
     "city": "CORTE",
     "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "2754": {
-    "id": "2754",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2754",
-    "city": "Ville inconnue",
-    "text": "RESIDENCE SAINT CESAIRE 258 Chemin du Moulin Ã  Vent Quartier Saint Cesaire 30 000 NÃ®mes de 63,4 Ã  69,8 mÂ² Colocation 4 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  "1623": {
+    "id": "1623",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623",
+    "city": "ISSOUDUN",
+    "text": "LES COINCHETTES 21 Bis route de la Pomme 36100 ISSOUDUN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "1158": {
     "id": "1158",
@@ -131,16 +119,34 @@
     "city": "",
     "text": "Residence Duvillard 2 rue Ernest Duvillard - BP 80523 - 90016 BELFORT CEDEX 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   },
-  "2499": {
-    "id": "2499",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2499",
-    "city": "Toulouse Cedex",
-    "text": "RÃ©sidence Chapou 1 rue SauniÃ¨re 31069 Toulouse Cedex 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  "2754": {
+    "id": "2754",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2754",
+    "city": "Ville inconnue",
+    "text": "RESIDENCE SAINT CESAIRE 258 Chemin du Moulin Ã  Vent Quartier Saint Cesaire 30 000 NÃ®mes de 63,4 Ã  69,8 mÂ² Colocation 4 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
-  "1557": {
-    "id": "1557",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1557",
-    "city": "NANCY cedex",
-    "text": "CU BOUDONVILLE 61 rue de Boudonville 54052 NANCY cedex 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Balcon"
+  "866": {
+    "id": "866",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/866",
+    "city": "CHATEAUROUX de",
+    "text": "CHARLEMAGNE 4 rue Saint Luc 36000 CHATEAUROUX de 30 Ã  33 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo"
+  },
+  "2477": {
+    "id": "2477",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
+    "city": "CORTE de",
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "950": {
+    "id": "950",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/950",
+    "city": "CHARTRES",
+    "text": "DESANTI 6, rue du PÃ¨re Wresinski 28000 CHARTRES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1571": {
+    "id": "1571",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1571",
+    "city": "CHARTRES",
+    "text": "JEAN ZAY 25/27 rue des Bas-Bourgs 28000 CHARTRES 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
