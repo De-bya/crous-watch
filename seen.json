@@ -59,12 +59,6 @@
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "1458": {
-    "id": "1458",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
-    "city": "CORTE de",
-    "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
   "2477": {
     "id": "2477",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
@@ -76,12 +70,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2993",
     "city": "METZ CEDEX",
     "text": "CU BRIDOUX 2 rue du GÃ©nÃ©ral Delestraint CS 15250 57076 METZ CEDEX 03 50 mÂ² Individuel 2 lits rapprochables"
-  },
-  "1158": {
-    "id": "1158",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158",
-    "city": "",
-    "text": "Residence Duvillard 2 rue Ernest Duvillard - BP 80523 - 90016 BELFORT CEDEX 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   },
   "866": {
     "id": "866",
@@ -107,10 +95,28 @@
     "city": "DAX",
     "text": "ANDRE MALRAUX 93 AV Francis PLANTE 40100 DAX 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
+  "1158": {
+    "id": "1158",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158",
+    "city": "",
+    "text": "Residence Duvillard 2 rue Ernest Duvillard - BP 80523 - 90016 BELFORT CEDEX 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
   "1521": {
     "id": "1521",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521",
     "city": "CORTE",
     "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "1458": {
+    "id": "1458",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
+    "city": "CORTE de",
+    "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "172": {
+    "id": "172",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/172",
+    "city": "Grenoble de",
+    "text": "RUO 20, avenue Edmond Esmonin 38100 Grenoble de 9 Ã  15,57 mÂ² Individuel 1 lit simple Frigo"
   }
 }
