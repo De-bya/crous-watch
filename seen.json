@@ -77,12 +77,6 @@
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "2993": {
-    "id": "2993",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2993",
-    "city": "METZ CEDEX",
-    "text": "CU BRIDOUX 2 rue du GÃ©nÃ©ral Delestraint CS 15250 57076 METZ CEDEX 03 50 mÂ² Individuel 2 lits rapprochables"
-  },
   "1458": {
     "id": "1458",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
@@ -94,5 +88,11 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688",
     "city": "GRENOBLE de",
     "text": "GALILEE 6 place Pasteur - 38100 GRENOBLE de 16,1 Ã  29,8 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "2993": {
+    "id": "2993",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2993",
+    "city": "METZ CEDEX",
+    "text": "CU BRIDOUX 2 rue du GÃ©nÃ©ral Delestraint CS 15250 57076 METZ CEDEX 03 50 mÂ² Individuel 2 lits rapprochables"
   }
 }
