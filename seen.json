@@ -1,39 +1,21 @@
 {
-  "516": {
-    "id": "516",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/516",
-    "city": "MONT-DE-MARSAN",
-    "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo Logement adaptÃ© PMR"
-  },
   "910": {
     "id": "910",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910",
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "2558": {
-    "id": "2558",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2558",
-    "city": "DAX",
-    "text": "ANDRE MALRAUX 93 AV Francis PLANTE 40100 DAX 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "1995": {
-    "id": "1995",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
-    "city": "CORTE de",
-    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
-  "1623": {
-    "id": "1623",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623",
-    "city": "ISSOUDUN",
-    "text": "LES COINCHETTES 21 Bis route de la Pomme 36100 ISSOUDUN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "3106": {
     "id": "3106",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
     "city": "FELLETIN",
     "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "516": {
+    "id": "516",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/516",
+    "city": "MONT-DE-MARSAN",
+    "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo Logement adaptÃ© PMR"
   },
   "2608": {
     "id": "2608",
@@ -83,17 +65,29 @@
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Colocation 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
-  "699": {
-    "id": "699",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/699",
-    "city": "MaxÃ",
-    "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "2789": {
     "id": "2789",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
     "city": "CORTE de",
     "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "1623": {
+    "id": "1623",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623",
+    "city": "ISSOUDUN",
+    "text": "LES COINCHETTES 21 Bis route de la Pomme 36100 ISSOUDUN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1995": {
+    "id": "1995",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
+    "city": "CORTE de",
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "2558": {
+    "id": "2558",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2558",
+    "city": "DAX",
+    "text": "ANDRE MALRAUX 93 AV Francis PLANTE 40100 DAX 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "1158": {
     "id": "1158",
@@ -106,11 +100,5 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2993",
     "city": "METZ CEDEX",
     "text": "CU BRIDOUX 2 rue du GÃ©nÃ©ral Delestraint CS 15250 57076 METZ CEDEX 03 50 mÂ² Individuel 2 lits rapprochables"
-  },
-  "2821": {
-    "id": "2821",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2821",
-    "city": "NANCY",
-    "text": "CU MONBOIS LIBERATION 136 avenue de la LibÃ©ration 54000 NANCY 13,5 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
