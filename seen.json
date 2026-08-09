@@ -41,17 +41,11 @@
     "city": "ISSOUDUN",
     "text": "LES COINCHETTES 21 Bis route de la Pomme 36100 ISSOUDUN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "1557": {
-    "id": "1557",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1557",
-    "city": "NANCY cedex",
-    "text": "CU BOUDONVILLE 61 rue de Boudonville 54052 NANCY cedex 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Balcon"
-  },
-  "793": {
-    "id": "793",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/793",
-    "city": "NANCY CEDEX",
-    "text": "CU PROVENCAL ACD 3 Rue Mademoiselle CS5217 54052 NANCY CEDEX 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  "699": {
+    "id": "699",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/699",
+    "city": "MaxÃ",
+    "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "516": {
     "id": "516",
@@ -106,11 +100,5 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
     "city": "CORTE de",
     "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
-  "699": {
-    "id": "699",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/699",
-    "city": "MaxÃ",
-    "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
