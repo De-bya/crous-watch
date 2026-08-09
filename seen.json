@@ -29,12 +29,6 @@
     "city": "FELLETIN",
     "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2993": {
-    "id": "2993",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2993",
-    "city": "METZ CEDEX",
-    "text": "CU BRIDOUX 2 rue du GÃ©nÃ©ral Delestraint CS 15250 57076 METZ CEDEX 03 50 mÂ² Individuel 2 lits rapprochables"
-  },
   "1623": {
     "id": "1623",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623",
@@ -46,6 +40,18 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/699",
     "city": "MaxÃ",
     "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "709": {
+    "id": "709",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/709",
+    "city": "MaxÃ",
+    "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville 23 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2993": {
+    "id": "2993",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2993",
+    "city": "METZ CEDEX",
+    "text": "CU BRIDOUX 2 rue du GÃ©nÃ©ral Delestraint CS 15250 57076 METZ CEDEX 03 50 mÂ² Individuel 2 lits rapprochables"
   },
   "516": {
     "id": "516",
