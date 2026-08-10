@@ -17,23 +17,11 @@
     "city": "MONT-DE-MARSAN",
     "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "1995": {
-    "id": "1995",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
-    "city": "CORTE de",
-    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
   "516": {
     "id": "516",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/516",
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo Logement adaptÃ© PMR"
-  },
-  "522": {
-    "id": "522",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522",
-    "city": "MONT-DE-MARSAN",
-    "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Colocation 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
   "910": {
     "id": "910",
@@ -77,35 +65,11 @@
     "city": "CORTE de",
     "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
-  "2218": {
-    "id": "2218",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2218",
-    "city": "PERPIGNAN",
-    "text": "RESIDENCE WILSON 18 BOULEVARD WILSON 66000 PERPIGNAN 22 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "182": {
-    "id": "182",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/182",
-    "city": "PERPIGNAN de",
-    "text": "RESIDENCE CANIGOU 18 Bis Avenue ALFRED SAUVY 66100 PERPIGNAN de 20,78 Ã  29,55 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
-  },
   "1132": {
     "id": "1132",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1132",
     "city": "PERPIGNAN",
     "text": "RESIDENCE MAR I SOL 18 AV. ALFRED SAUVY 66100 PERPIGNAN 30 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "832": {
-    "id": "832",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/832",
-    "city": "PERPIGNAN",
-    "text": "RESIDENCE TRAMUNTANA 63 CHEMIN DE LA PASSIO VELLA 66100 PERPIGNAN 22 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "2993": {
-    "id": "2993",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2993",
-    "city": "METZ CEDEX",
-    "text": "CU BRIDOUX 2 rue du GÃ©nÃ©ral Delestraint CS 15250 57076 METZ CEDEX 03 50 mÂ² Individuel 2 lits rapprochables"
   },
   "1623": {
     "id": "1623",
@@ -113,11 +77,47 @@
     "city": "ISSOUDUN",
     "text": "LES COINCHETTES 21 Bis route de la Pomme 36100 ISSOUDUN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2667": {
-    "id": "2667",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2667",
-    "city": "PERPIGNAN CEDEX",
-    "text": "CITE MOULIN A VENT 26 AVENUE ALFRED SAUVY 66870 PERPIGNAN CEDEX 9,5 mÂ² Individuel 1 lit simple Frigo"
+  "522": {
+    "id": "522",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522",
+    "city": "MONT-DE-MARSAN",
+    "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Colocation 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "2993": {
+    "id": "2993",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2993",
+    "city": "METZ CEDEX",
+    "text": "CU BRIDOUX 2 rue du GÃ©nÃ©ral Delestraint CS 15250 57076 METZ CEDEX 03 50 mÂ² Individuel 2 lits rapprochables"
+  },
+  "1995": {
+    "id": "1995",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
+    "city": "CORTE de",
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "182": {
+    "id": "182",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/182",
+    "city": "PERPIGNAN de",
+    "text": "RESIDENCE CANIGOU 18 Bis Avenue ALFRED SAUVY 66100 PERPIGNAN de 20,78 Ã  29,55 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
+  },
+  "3146": {
+    "id": "3146",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3146",
+    "city": "ANNECY de",
+    "text": "MARIE PARADIS 15 bis chemin du Bray 74000 ANNECY de 18,7 Ã  21,1 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "832": {
+    "id": "832",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/832",
+    "city": "PERPIGNAN",
+    "text": "RESIDENCE TRAMUNTANA 63 CHEMIN DE LA PASSIO VELLA 66100 PERPIGNAN 22 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "3147": {
+    "id": "3147",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3147",
+    "city": "ANNECY de",
+    "text": "MARIE PARADIS 15 bis chemin du Bray 74000 ANNECY de 25,1 Ã  25,5 mÂ² Individuel 1 lit simple Douche, Evier + plaque, Frigo"
   },
   "2688": {
     "id": "2688",
@@ -125,16 +125,28 @@
     "city": "GRENOBLE de",
     "text": "GALILEE 6 place Pasteur - 38100 GRENOBLE de 16,1 Ã  29,8 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
+  "1158": {
+    "id": "1158",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158",
+    "city": "",
+    "text": "Residence Duvillard 2 rue Ernest Duvillard - BP 80523 - 90016 BELFORT CEDEX 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "407": {
+    "id": "407",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/407",
+    "city": "TALENCE",
+    "text": "MAISON DES SCIENTIFIQUES Avenue des FacultÃ©s 33400 TALENCE 33 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
   "2255": {
     "id": "2255",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2255",
     "city": "PERPIGNAN CEDEX de",
     "text": "CITE MOULIN A VENT 26 AVENUE ALFRED SAUVY 66870 PERPIGNAN CEDEX de 8,9 Ã  9,7 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   },
-  "2754": {
-    "id": "2754",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2754",
-    "city": "Ville inconnue",
-    "text": "RESIDENCE SAINT CESAIRE 258 Chemin du Moulin Ã  Vent Quartier Saint Cesaire 30 000 NÃ®mes de 63,4 Ã  69,8 mÂ² Colocation 4 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  "3142": {
+    "id": "3142",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3142",
+    "city": "ANNECY de",
+    "text": "LOUISE ET COLETTE PERIES 10 chemin de Bellevue ANNECY-LE-VIEUX 74940 ANNECY de 13,3 Ã  14,3 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
