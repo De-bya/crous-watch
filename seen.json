@@ -71,18 +71,6 @@
     "city": "ISSOUDUN",
     "text": "LES COINCHETTES 21 Bis route de la Pomme 36100 ISSOUDUN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "1315": {
-    "id": "1315",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1315",
-    "city": "MONTBELIARD",
-    "text": "Residence RenÃ© THOM 37 avenue clemenceau - 25200 MONTBELIARD 40 mÂ² Colocation 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
-  "1301": {
-    "id": "1301",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1301",
-    "city": "MONTBELIARD",
-    "text": "Residence RenÃ© THOM 37 avenue clemenceau - 25200 MONTBELIARD 24 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "1306": {
     "id": "1306",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1306",
@@ -95,29 +83,11 @@
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "1158": {
-    "id": "1158",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158",
-    "city": "",
-    "text": "Residence Duvillard 2 rue Ernest Duvillard - BP 80523 - 90016 BELFORT CEDEX 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
-  },
   "2608": {
     "id": "2608",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608",
     "city": "MONT-DE-MARSAN",
     "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "2056": {
-    "id": "2056",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2056",
-    "city": "AMIENS de",
-    "text": "RESIDENCE CHARLES DE GAULLE 1, AllÃ©e du Bastion de St Paul 80000 AMIENS de 30,5 Ã  53,4 mÂ² Individuel, Couple 1 lit double PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
-  "2472": {
-    "id": "2472",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2472",
-    "city": "AMIENS de",
-    "text": "RESIDENCE FRIANT 2 53 square Friant des 4 ChÃªnes 80000 AMIENS de 18,5 Ã  24,7 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "2688": {
     "id": "2688",
@@ -125,16 +95,16 @@
     "city": "GRENOBLE de",
     "text": "GALILEE 6 place Pasteur - 38100 GRENOBLE de 16,1 Ã  29,8 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
-  "973": {
-    "id": "973",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/973",
-    "city": "AMIENS de",
-    "text": "RESIDENCE FRIANT 54 Ã  58 rue square Friant les 4 ChÃªnes 80000 AMIENS de 12,9 Ã  13,3 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  "1315": {
+    "id": "1315",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1315",
+    "city": "MONTBELIARD",
+    "text": "Residence RenÃ© THOM 37 avenue clemenceau - 25200 MONTBELIARD 40 mÂ² Colocation 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   },
-  "2459": {
-    "id": "2459",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2459",
-    "city": "AMIENS",
-    "text": "RESIDENCE DELOUARD 1 Rue Moise Delouard Bat A 80000 AMIENS 18,34 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  "1301": {
+    "id": "1301",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1301",
+    "city": "MONTBELIARD",
+    "text": "Residence RenÃ© THOM 37 avenue clemenceau - 25200 MONTBELIARD 24 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
