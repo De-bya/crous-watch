@@ -1,15 +1,15 @@
 {
-  "2789": {
-    "id": "2789",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
-    "city": "CORTE de",
-    "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
   "516": {
     "id": "516",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/516",
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo Logement adaptÃ© PMR"
+  },
+  "2789": {
+    "id": "2789",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
+    "city": "CORTE de",
+    "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
   "1458": {
     "id": "1458",
@@ -77,12 +77,6 @@
     "city": "CORTE",
     "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "1301": {
-    "id": "1301",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1301",
-    "city": "MONTBELIARD",
-    "text": "Residence RenÃ© THOM 37 avenue clemenceau - 25200 MONTBELIARD 24 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "182": {
     "id": "182",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/182",
@@ -94,12 +88,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2881",
     "city": "BIDART de",
     "text": "ERLEAK 89 Rue Berrua 64210 BIDART de 18,85 Ã  22,09 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "1491": {
-    "id": "1491",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1491",
-    "city": "CHARLEVILLE-MEZIERES",
-    "text": "La GRAVIERE 36 Rue de la GraviÃ¨re 08000 CHARLEVILLE-MEZIERES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "270": {
     "id": "270",
@@ -131,16 +119,22 @@
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "1567": {
-    "id": "1567",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567",
-    "city": "CHARLEVILLE MEZIERES",
-    "text": "MAISON DES ETUDIANTS 38 Rue de Montjoly 08000 CHARLEVILLE MEZIERES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "2255": {
     "id": "2255",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2255",
     "city": "PERPIGNAN CEDEX de",
     "text": "CITE MOULIN A VENT 26 AVENUE ALFRED SAUVY 66870 PERPIGNAN CEDEX de 8,9 Ã  9,7 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "1301": {
+    "id": "1301",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1301",
+    "city": "MONTBELIARD",
+    "text": "Residence RenÃ© THOM 37 avenue clemenceau - 25200 MONTBELIARD 24 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1567": {
+    "id": "1567",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567",
+    "city": "CHARLEVILLE MEZIERES",
+    "text": "MAISON DES ETUDIANTS 38 Rue de Montjoly 08000 CHARLEVILLE MEZIERES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
