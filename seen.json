@@ -65,12 +65,6 @@
     "city": "CORTE",
     "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "522": {
-    "id": "522",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522",
-    "city": "MONT-DE-MARSAN",
-    "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Colocation 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
   "182": {
     "id": "182",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/182",
@@ -82,12 +76,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715",
     "city": "Mende de",
     "text": "CITE DE MENDE 26 Avenue du 8 mai 1945 48000 Mende de 8,5 Ã  13 mÂ² Individuel 1 lit simple Frigo"
-  },
-  "832": {
-    "id": "832",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/832",
-    "city": "PERPIGNAN",
-    "text": "RESIDENCE TRAMUNTANA 63 CHEMIN DE LA PASSIO VELLA 66100 PERPIGNAN 22 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "2477": {
     "id": "2477",
@@ -137,24 +125,6 @@
     "city": "MONTBELIARD de",
     "text": "Residence RenÃ© THOM 37 avenue clemenceau - 25200 MONTBELIARD de 27 Ã  31 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2754": {
-    "id": "2754",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2754",
-    "city": "Ville inconnue",
-    "text": "RESIDENCE SAINT CESAIRE 258 Chemin du Moulin Ã  Vent Quartier Saint Cesaire 30 000 NÃ®mes de 63,4 Ã  69,8 mÂ² Colocation 4 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
-  "2218": {
-    "id": "2218",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2218",
-    "city": "PERPIGNAN",
-    "text": "RESIDENCE WILSON 18 BOULEVARD WILSON 66000 PERPIGNAN 22 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "2255": {
-    "id": "2255",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2255",
-    "city": "PERPIGNAN CEDEX de",
-    "text": "CITE MOULIN A VENT 26 AVENUE ALFRED SAUVY 66870 PERPIGNAN CEDEX de 8,9 Ã  9,7 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
-  },
   "736": {
     "id": "736",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736",
@@ -166,6 +136,30 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1301",
     "city": "MONTBELIARD",
     "text": "Residence RenÃ© THOM 37 avenue clemenceau - 25200 MONTBELIARD 24 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "832": {
+    "id": "832",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/832",
+    "city": "PERPIGNAN",
+    "text": "RESIDENCE TRAMUNTANA 63 CHEMIN DE LA PASSIO VELLA 66100 PERPIGNAN 22 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2255": {
+    "id": "2255",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2255",
+    "city": "PERPIGNAN CEDEX de",
+    "text": "CITE MOULIN A VENT 26 AVENUE ALFRED SAUVY 66870 PERPIGNAN CEDEX de 8,9 Ã  9,7 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "215": {
+    "id": "215",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/215",
+    "city": "AMIENS",
+    "text": "RESIDENCE BAILLY AllÃ©e Paul Claudel 80000 AMIENS 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "522": {
+    "id": "522",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522",
+    "city": "MONT-DE-MARSAN",
+    "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Colocation 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
   "950": {
     "id": "950",
@@ -179,10 +173,10 @@
     "city": "ANNECY de",
     "text": "MARIE PARADIS 15 bis chemin du Bray 74000 ANNECY de 25,1 Ã  25,5 mÂ² Individuel 1 lit simple Douche, Evier + plaque, Frigo"
   },
-  "252": {
-    "id": "252",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/252",
-    "city": "NANCY",
-    "text": "CU SAURUPT Rue de Saurupt 54000 NANCY 9 mÂ² Individuel 1 lit simple Frigo"
+  "1292": {
+    "id": "1292",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1292",
+    "city": "AMIENS",
+    "text": "RESIDENCE THIL Avenue des FacultÃ©s 80000 AMIENS 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   }
 }
