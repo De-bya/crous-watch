@@ -11,12 +11,6 @@
     "city": "FELLETIN",
     "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "1306": {
-    "id": "1306",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1306",
-    "city": "MONTBELIARD de",
-    "text": "Residence RenÃ© THOM 37 avenue clemenceau - 25200 MONTBELIARD de 27 Ã  31 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "1132": {
     "id": "1132",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1132",
@@ -41,12 +35,6 @@
     "city": "AGEN",
     "text": "CRESSONNIERE Av. Michel Serres 47000 AGEN 20 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo Logement adaptÃ© PMR"
   },
-  "2608": {
-    "id": "2608",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608",
-    "city": "MONT-DE-MARSAN",
-    "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "516": {
     "id": "516",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/516",
@@ -70,12 +58,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506",
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "1458": {
-    "id": "1458",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
-    "city": "CORTE de",
-    "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
   "910": {
     "id": "910",
@@ -119,12 +101,6 @@
     "city": "LONGUENESSE",
     "text": "RÃ©sidence Olympie Avenue Descartes 62219 LONGUENESSE 25 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2008": {
-    "id": "2008",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2008",
-    "city": "YUTZ",
-    "text": "CU DAUPHINE BRETAGNE 2/4/6 Rue du DauphinÃ© & 6/10/12 Rue de Bretagne 57970 YUTZ 95 mÂ² Colocation 3 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde, Balcon"
-  },
   "182": {
     "id": "182",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/182",
@@ -161,22 +137,46 @@
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "365": {
-    "id": "365",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/365",
-    "city": "BORDEAUX de",
-    "text": "MARNE 99-101 COURS DE LA MARNE 33000 BORDEAUX de 35,11 Ã  38 mÂ² Individuel, Colocation, Couple 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
-  "3147": {
-    "id": "3147",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3147",
-    "city": "ANNECY de",
-    "text": "MARIE PARADIS 15 bis chemin du Bray 74000 ANNECY de 25,1 Ã  25,5 mÂ² Individuel 1 lit simple Douche, Evier + plaque, Frigo"
-  },
   "1623": {
     "id": "1623",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623",
     "city": "ISSOUDUN",
     "text": "LES COINCHETTES 21 Bis route de la Pomme 36100 ISSOUDUN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2008": {
+    "id": "2008",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2008",
+    "city": "YUTZ",
+    "text": "CU DAUPHINE BRETAGNE 2/4/6 Rue du DauphinÃ© & 6/10/12 Rue de Bretagne 57970 YUTZ 95 mÂ² Colocation 3 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde, Balcon"
+  },
+  "2218": {
+    "id": "2218",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2218",
+    "city": "PERPIGNAN",
+    "text": "RESIDENCE WILSON 18 BOULEVARD WILSON 66000 PERPIGNAN 22 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1458": {
+    "id": "1458",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
+    "city": "CORTE de",
+    "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "2608": {
+    "id": "2608",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608",
+    "city": "MONT-DE-MARSAN",
+    "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1306": {
+    "id": "1306",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1306",
+    "city": "MONTBELIARD de",
+    "text": "Residence RenÃ© THOM 37 avenue clemenceau - 25200 MONTBELIARD de 27 Ã  31 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "365": {
+    "id": "365",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/365",
+    "city": "BORDEAUX de",
+    "text": "MARNE 99-101 COURS DE LA MARNE 33000 BORDEAUX de 35,11 Ã  38 mÂ² Individuel, Colocation, Couple 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   }
 }
