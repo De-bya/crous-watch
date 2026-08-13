@@ -41,12 +41,6 @@
     "city": "CORTE de",
     "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
-  "1521": {
-    "id": "1521",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521",
-    "city": "CORTE",
-    "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
   "1301": {
     "id": "1301",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1301",
@@ -154,5 +148,11 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "1521": {
+    "id": "1521",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521",
+    "city": "CORTE",
+    "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   }
 }
