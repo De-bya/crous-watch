@@ -23,12 +23,6 @@
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "1567": {
-    "id": "1567",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567",
-    "city": "CHARLEVILLE MEZIERES",
-    "text": "MAISON DES ETUDIANTS 38 Rue de Montjoly 08000 CHARLEVILLE MEZIERES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "1224": {
     "id": "1224",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224",
@@ -71,24 +65,6 @@
     "city": "AGEN",
     "text": "CRESSONNIERE Av. Michel Serres 47000 AGEN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "1306": {
-    "id": "1306",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1306",
-    "city": "MONTBELIARD de",
-    "text": "Residence RenÃ© THOM 37 avenue clemenceau - 25200 MONTBELIARD de 27 Ã  31 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "832": {
-    "id": "832",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/832",
-    "city": "PERPIGNAN",
-    "text": "RESIDENCE TRAMUNTANA 63 CHEMIN DE LA PASSIO VELLA 66100 PERPIGNAN 22 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "182": {
-    "id": "182",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/182",
-    "city": "PERPIGNAN de",
-    "text": "RESIDENCE CANIGOU 18 Bis Avenue ALFRED SAUVY 66100 PERPIGNAN de 20,78 Ã  29,55 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
-  },
   "2789": {
     "id": "2789",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
@@ -107,11 +83,23 @@
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Colocation 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
+  "832": {
+    "id": "832",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/832",
+    "city": "PERPIGNAN",
+    "text": "RESIDENCE TRAMUNTANA 63 CHEMIN DE LA PASSIO VELLA 66100 PERPIGNAN 22 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
   "3106": {
     "id": "3106",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
     "city": "FELLETIN",
     "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "182": {
+    "id": "182",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/182",
+    "city": "PERPIGNAN de",
+    "text": "RESIDENCE CANIGOU 18 Bis Avenue ALFRED SAUVY 66100 PERPIGNAN de 20,78 Ã  29,55 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
   },
   "1211": {
     "id": "1211",
@@ -131,6 +119,12 @@
     "city": "MaxÃ",
     "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville de 23 Ã  28 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   },
+  "1306": {
+    "id": "1306",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1306",
+    "city": "MONTBELIARD de",
+    "text": "Residence RenÃ© THOM 37 avenue clemenceau - 25200 MONTBELIARD de 27 Ã  31 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
   "1301": {
     "id": "1301",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1301",
@@ -142,12 +136,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/46",
     "city": "PAU",
     "text": "CLE DES CHAMPS 7 RUE SAINT JOHN PERSE 64000 PAU 51 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
-  "910": {
-    "id": "910",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910",
-    "city": "CORTE de",
-    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
   "1521": {
     "id": "1521",
@@ -161,10 +149,22 @@
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
+  "910": {
+    "id": "910",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910",
+    "city": "CORTE de",
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
   "2255": {
     "id": "2255",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2255",
     "city": "PERPIGNAN CEDEX de",
     "text": "CITE MOULIN A VENT 26 AVENUE ALFRED SAUVY 66870 PERPIGNAN CEDEX de 8,9 Ã  9,7 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "1567": {
+    "id": "1567",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567",
+    "city": "CHARLEVILLE MEZIERES",
+    "text": "MAISON DES ETUDIANTS 38 Rue de Montjoly 08000 CHARLEVILLE MEZIERES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
