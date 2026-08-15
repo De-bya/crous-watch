@@ -107,12 +107,6 @@
     "city": "YUTZ",
     "text": "CU DAUPHINE BRETAGNE 2/4/6 Rue du DauphinÃ© & 6/10/12 Rue de Bretagne 57970 YUTZ 95 mÂ² Colocation 3 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde, Balcon"
   },
-  "270": {
-    "id": "270",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/270",
-    "city": "LONGUENESSE",
-    "text": "RÃ©sidence Olympie Avenue Descartes 62219 LONGUENESSE 25 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "522": {
     "id": "522",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522",
@@ -136,5 +130,17 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736",
     "city": "MaxÃ",
     "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville de 23 Ã  28 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
+  },
+  "270": {
+    "id": "270",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/270",
+    "city": "LONGUENESSE",
+    "text": "RÃ©sidence Olympie Avenue Descartes 62219 LONGUENESSE 25 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "793": {
+    "id": "793",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/793",
+    "city": "NANCY CEDEX",
+    "text": "CU PROVENCAL ACD 3 Rue Mademoiselle CS5217 54052 NANCY CEDEX 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
