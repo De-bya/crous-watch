@@ -29,12 +29,6 @@
     "city": "AGEN",
     "text": "CRESSONNIERE Av. Michel Serres 47000 AGEN 30 mÂ² Individuel, Couple 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   },
-  "506": {
-    "id": "506",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506",
-    "city": "MONT-DE-MARSAN",
-    "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "516": {
     "id": "516",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/516",
@@ -112,5 +106,11 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
     "city": "CORTE de",
     "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "506": {
+    "id": "506",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506",
+    "city": "MONT-DE-MARSAN",
+    "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
