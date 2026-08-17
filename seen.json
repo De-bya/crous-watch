@@ -101,12 +101,6 @@
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "736": {
-    "id": "736",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736",
-    "city": "MaxÃ",
-    "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville de 23 Ã  28 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
   "1224": {
     "id": "1224",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224",
@@ -131,16 +125,22 @@
     "city": "PAU",
     "text": "CLE DES CHAMPS 7 RUE SAINT JOHN PERSE 64000 PAU 51 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
-  "221": {
-    "id": "221",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/221",
-    "city": "annecy le Vieux",
-    "text": "TOM MOREL RÃ©sidence universitaire - 12 chemin de Bellevue 74940 annecy le Vieux 20 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
+  "736": {
+    "id": "736",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736",
+    "city": "MaxÃ",
+    "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville de 23 Ã  28 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   },
   "3146": {
     "id": "3146",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3146",
     "city": "ANNECY de",
     "text": "MARIE PARADIS 15 bis chemin du Bray 74000 ANNECY de 18,7 Ã  21,1 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "584": {
+    "id": "584",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/584",
+    "city": "PESSAC de",
+    "text": "LUMIERES 2 avenue Jean Babin 33600 PESSAC de 100,96 Ã  102,56 mÂ² Colocation 4 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   }
 }
