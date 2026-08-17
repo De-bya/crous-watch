@@ -65,12 +65,6 @@
     "city": "PAU",
     "text": "CLE DES CHAMPS 7 RUE SAINT JOHN PERSE 64000 PAU 51 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
-  "2789": {
-    "id": "2789",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
-    "city": "CORTE de",
-    "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
   "1298": {
     "id": "1298",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1298",
@@ -118,6 +112,12 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1301",
     "city": "MONTBELIARD",
     "text": "Residence RenÃ© THOM 37 avenue clemenceau - 25200 MONTBELIARD 24 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2789": {
+    "id": "2789",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
+    "city": "CORTE de",
+    "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
   "1995": {
     "id": "1995",
