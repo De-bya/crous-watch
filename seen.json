@@ -101,12 +101,6 @@
     "city": "VALENCE",
     "text": "MOULINS 88 RUE DES MOULINS 26000 VALENCE 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
-  "599": {
-    "id": "599",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/599",
-    "city": "ANGLET",
-    "text": "BIDART 55 rue de Mirambeau 64600 ANGLET 18,12 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
-  },
   "910": {
     "id": "910",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910",
@@ -124,5 +118,11 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/342",
     "city": "ANGLET",
     "text": "KATTALIN AGUIRRE 6 Rue de Minerva 64600 ANGLET 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "599": {
+    "id": "599",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/599",
+    "city": "ANGLET",
+    "text": "BIDART 55 rue de Mirambeau 64600 ANGLET 18,12 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
   }
 }
