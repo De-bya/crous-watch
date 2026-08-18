@@ -77,12 +77,6 @@
     "city": "FELLETIN",
     "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "342": {
-    "id": "342",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/342",
-    "city": "ANGLET",
-    "text": "KATTALIN AGUIRRE 6 Rue de Minerva 64600 ANGLET 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "1995": {
     "id": "1995",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
@@ -107,6 +101,12 @@
     "city": "VALENCE",
     "text": "MOULINS 88 RUE DES MOULINS 26000 VALENCE 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
+  "599": {
+    "id": "599",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/599",
+    "city": "ANGLET",
+    "text": "BIDART 55 rue de Mirambeau 64600 ANGLET 18,12 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
+  },
   "910": {
     "id": "910",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910",
@@ -119,10 +119,10 @@
     "city": "MONT-DE-MARSAN",
     "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "599": {
-    "id": "599",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/599",
+  "342": {
+    "id": "342",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/342",
     "city": "ANGLET",
-    "text": "BIDART 55 rue de Mirambeau 64600 ANGLET 18,12 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
+    "text": "KATTALIN AGUIRRE 6 Rue de Minerva 64600 ANGLET 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
