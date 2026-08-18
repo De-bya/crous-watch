@@ -11,12 +11,6 @@
     "city": "CORTE de",
     "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
-  "2715": {
-    "id": "2715",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715",
-    "city": "Mende de",
-    "text": "CITE DE MENDE 26 Avenue du 8 mai 1945 48000 Mende de 8,5 Ã  13 mÂ² Individuel 1 lit simple Frigo"
-  },
   "506": {
     "id": "506",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506",
@@ -95,12 +89,6 @@
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "123": {
-    "id": "123",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/123",
-    "city": "VALENCE",
-    "text": "MOULINS 88 RUE DES MOULINS 26000 VALENCE 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
   "910": {
     "id": "910",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910",
@@ -113,16 +101,22 @@
     "city": "MONT-DE-MARSAN",
     "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "342": {
-    "id": "342",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/342",
-    "city": "ANGLET",
-    "text": "KATTALIN AGUIRRE 6 Rue de Minerva 64600 ANGLET 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "599": {
     "id": "599",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/599",
     "city": "ANGLET",
     "text": "BIDART 55 rue de Mirambeau 64600 ANGLET 18,12 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
+  },
+  "2715": {
+    "id": "2715",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715",
+    "city": "Mende de",
+    "text": "CITE DE MENDE 26 Avenue du 8 mai 1945 48000 Mende de 8,5 Ã  13 mÂ² Individuel 1 lit simple Frigo"
+  },
+  "342": {
+    "id": "342",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/342",
+    "city": "ANGLET",
+    "text": "KATTALIN AGUIRRE 6 Rue de Minerva 64600 ANGLET 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
