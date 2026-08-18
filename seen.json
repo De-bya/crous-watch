@@ -17,12 +17,6 @@
     "city": "MONT-DE-MARSAN",
     "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "1995": {
-    "id": "1995",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
-    "city": "CORTE de",
-    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
   "2789": {
     "id": "2789",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
@@ -77,12 +71,6 @@
     "city": "BAYONNE",
     "text": "EUGENE GOYHENECHE 6-8 rue MAYI DARIZCUREN 64100 BAYONNE 18,81 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
   },
-  "342": {
-    "id": "342",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/342",
-    "city": "ANGLET",
-    "text": "KATTALIN AGUIRRE 6 Rue de Minerva 64600 ANGLET 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "123": {
     "id": "123",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/123",
@@ -113,16 +101,34 @@
     "city": "ANGLET",
     "text": "BIDART 55 rue de Mirambeau 64600 ANGLET 18,12 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
   },
+  "3281": {
+    "id": "3281",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3281",
+    "city": "PESSAC de",
+    "text": "RENE MARAN 5 AllÃ©e Maine de Biran 33600 PESSAC de 21,3 Ã  29,8 mÂ² Individuel, Couple 2 lits rapprochables WC, Douche, Evier + plaque, Frigo, Micro-onde, Balcon"
+  },
   "736": {
     "id": "736",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736",
     "city": "MaxÃ",
     "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville de 23 Ã  28 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   },
-  "3281": {
-    "id": "3281",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3281",
-    "city": "PESSAC de",
-    "text": "RENE MARAN 5 AllÃ©e Maine de Biran 33600 PESSAC de 21,3 Ã  29,8 mÂ² Individuel, Couple 2 lits rapprochables WC, Douche, Evier + plaque, Frigo, Micro-onde, Balcon"
+  "3106": {
+    "id": "3106",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
+    "city": "FELLETIN",
+    "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "342": {
+    "id": "342",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/342",
+    "city": "ANGLET",
+    "text": "KATTALIN AGUIRRE 6 Rue de Minerva 64600 ANGLET 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1995": {
+    "id": "1995",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
+    "city": "CORTE de",
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   }
 }
