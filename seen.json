@@ -17,12 +17,6 @@
     "city": "MONT-DE-MARSAN",
     "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "3106": {
-    "id": "3106",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
-    "city": "FELLETIN",
-    "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "516": {
     "id": "516",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/516",
@@ -106,5 +100,11 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521",
     "city": "CORTE",
     "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "3106": {
+    "id": "3106",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
+    "city": "FELLETIN",
+    "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
