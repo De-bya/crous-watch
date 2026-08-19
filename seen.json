@@ -53,12 +53,6 @@
     "city": "MaxÃ",
     "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville de 23 Ã  28 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   },
-  "779": {
-    "id": "779",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/779",
-    "city": "SARREGUEMINES",
-    "text": "CU DOUAUMONT 17 Rue de Douaumont 57200 SARREGUEMINES 20 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "1211": {
     "id": "1211",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211",
@@ -89,59 +83,11 @@
     "city": "GRENOBLE de",
     "text": "GALILEE 6 place Pasteur - 38100 GRENOBLE de 16,1 Ã  29,8 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
-  "46": {
-    "id": "46",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/46",
-    "city": "PAU",
-    "text": "CLE DES CHAMPS 7 RUE SAINT JOHN PERSE 64000 PAU 51 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
-  "1542": {
-    "id": "1542",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1542",
-    "city": "ST QUENTIN",
-    "text": "RESIDENCE BEGUINAGES 23 rue des BÃ©guinages 02100 ST QUENTIN 22 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "3106": {
-    "id": "3106",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
-    "city": "FELLETIN",
-    "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "342": {
-    "id": "342",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/342",
-    "city": "ANGLET",
-    "text": "KATTALIN AGUIRRE 6 Rue de Minerva 64600 ANGLET 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "832": {
-    "id": "832",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/832",
-    "city": "PERPIGNAN",
-    "text": "RESIDENCE TRAMUNTANA 63 CHEMIN DE LA PASSIO VELLA 66100 PERPIGNAN 22 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "2276": {
-    "id": "2276",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2276",
-    "city": "COMPIEGNE de",
-    "text": "RESIDENCE DU PARC 1, square Gabriel Auguste Ancelet 60200 COMPIEGNE de 21,4 Ã  26,2 mÂ² Individuel, Couple 1 lit double WC, Douche, Evier + plaque, Frigo"
-  },
-  "2250": {
-    "id": "2250",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2250",
-    "city": "COMPIEGNE de",
-    "text": "RESIDENCE DU PARC 1, square Gabriel Auguste Ancelet 60200 COMPIEGNE de 16,55 Ã  23,8 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "2559": {
-    "id": "2559",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2559",
-    "city": "COMPIEGNE de",
-    "text": "RESIDENCE DU PARC 1, square Gabriel Auguste Ancelet 60200 COMPIEGNE de 76,5 Ã  94,4 mÂ² Colocation 1 lit simple PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
-  "2309": {
-    "id": "2309",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2309",
-    "city": "PERPIGNAN CEDEX de",
-    "text": "CITE MOULIN A VENT 26 AVENUE ALFRED SAUVY 66870 PERPIGNAN CEDEX de 12,2 Ã  15,1 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  "182": {
+    "id": "182",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/182",
+    "city": "PERPIGNAN de",
+    "text": "RESIDENCE CANIGOU 18 Bis Avenue ALFRED SAUVY 66100 PERPIGNAN de 20,78 Ã  29,55 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
   },
   "2287": {
     "id": "2287",
@@ -149,16 +95,22 @@
     "city": "PERPIGNAN CEDEX de",
     "text": "CITE MOULIN A VENT 26 AVENUE ALFRED SAUVY 66870 PERPIGNAN CEDEX de 18,1 Ã  18,5 mÂ² Individuel 1 lit simple WC, Douche, Frigo Logement adaptÃ© PMR"
   },
-  "234": {
-    "id": "234",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/234",
-    "city": "PAU",
-    "text": "FRANCIS JAMMES 12 Avenue du Doyen POPLAWSKI 64000 PAU 17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  "3106": {
+    "id": "3106",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
+    "city": "FELLETIN",
+    "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "182": {
-    "id": "182",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/182",
-    "city": "PERPIGNAN de",
-    "text": "RESIDENCE CANIGOU 18 Bis Avenue ALFRED SAUVY 66100 PERPIGNAN de 20,78 Ã  29,55 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
+  "46": {
+    "id": "46",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/46",
+    "city": "PAU",
+    "text": "CLE DES CHAMPS 7 RUE SAINT JOHN PERSE 64000 PAU 51 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "832": {
+    "id": "832",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/832",
+    "city": "PERPIGNAN",
+    "text": "RESIDENCE TRAMUNTANA 63 CHEMIN DE LA PASSIO VELLA 66100 PERPIGNAN 22 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
