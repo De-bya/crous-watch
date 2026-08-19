@@ -89,12 +89,6 @@
     "city": "PERIGUEUX",
     "text": "GRANDES ARCADES 49 rue JEAN SECRET 24000 PERIGUEUX 25 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
   },
-  "46": {
-    "id": "46",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/46",
-    "city": "PAU",
-    "text": "CLE DES CHAMPS 7 RUE SAINT JOHN PERSE 64000 PAU 51 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
   "1458": {
     "id": "1458",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
@@ -112,5 +106,17 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/950",
     "city": "CHARTRES",
     "text": "DESANTI 6, rue du PÃ¨re Wresinski 28000 CHARTRES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "46": {
+    "id": "46",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/46",
+    "city": "PAU",
+    "text": "CLE DES CHAMPS 7 RUE SAINT JOHN PERSE 64000 PAU 51 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "2420": {
+    "id": "2420",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2420",
+    "city": "BETHUNE",
+    "text": "CitÃ© GÃ©rard Philipe 1326 rue de l'UniversitÃ© 62400 BETHUNE 9 mÂ² Individuel 1 lit simple WC, Douche"
   }
 }
