@@ -125,12 +125,6 @@
     "city": "METZ CEDEX",
     "text": "CU SAULCY Ile du Saulcy CS 60587 57010 METZ CEDEX 1 13,5 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "195": {
-    "id": "195",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/195",
-    "city": "LAXOU",
-    "text": "CU MEDREVILLE 28, rue A. Briand - 54520 LAXOU 9 mÂ² Individuel 1 lit simple Frigo"
-  },
   "403": {
     "id": "403",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/403",
@@ -148,17 +142,5 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/234",
     "city": "PAU",
     "text": "FRANCIS JAMMES 12 Avenue du Doyen POPLAWSKI 64000 PAU 17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "1586": {
-    "id": "1586",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1586",
-    "city": "PAU",
-    "text": "RONSARD 36 RUE RONSARD 64000 PAU 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "132": {
-    "id": "132",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/132",
-    "city": "SAINT MARTIN D HERES",
-    "text": "OUEST 107 rue des TaillÃ©es - DOMAINE UNIVERSITAIRE 38400 SAINT MARTIN D HERES 12 mÂ² Individuel 1 lit simple Frigo"
   }
 }
