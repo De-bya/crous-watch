@@ -65,23 +65,11 @@
     "city": "CORTE",
     "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "1569": {
-    "id": "1569",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1569",
-    "city": "BAYONNE",
-    "text": "EUGENE GOYHENECHE 6-8 rue MAYI DARIZCUREN 64100 BAYONNE 18,81 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
-  },
   "1995": {
     "id": "1995",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
-  "2754": {
-    "id": "2754",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2754",
-    "city": "Ville inconnue",
-    "text": "RESIDENCE SAINT CESAIRE 258 Chemin du Moulin Ã  Vent Quartier Saint Cesaire 30 000 NÃ®mes de 63,4 Ã  69,8 mÂ² Colocation 4 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
   "2789": {
     "id": "2789",
@@ -107,12 +95,6 @@
     "city": "VALENCE",
     "text": "MOULINS 88 RUE DES MOULINS 26000 VALENCE 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
-  "342": {
-    "id": "342",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/342",
-    "city": "ANGLET",
-    "text": "KATTALIN AGUIRRE 6 Rue de Minerva 64600 ANGLET 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "736": {
     "id": "736",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736",
@@ -124,5 +106,23 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688",
     "city": "GRENOBLE de",
     "text": "GALILEE 6 place Pasteur - 38100 GRENOBLE de 16,1 Ã  29,8 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "342": {
+    "id": "342",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/342",
+    "city": "ANGLET",
+    "text": "KATTALIN AGUIRRE 6 Rue de Minerva 64600 ANGLET 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "779": {
+    "id": "779",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/779",
+    "city": "SARREGUEMINES",
+    "text": "CU DOUAUMONT 17 Rue de Douaumont 57200 SARREGUEMINES 20 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1569": {
+    "id": "1569",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1569",
+    "city": "BAYONNE",
+    "text": "EUGENE GOYHENECHE 6-8 rue MAYI DARIZCUREN 64100 BAYONNE 18,81 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
   }
 }
