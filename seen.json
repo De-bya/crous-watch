@@ -23,12 +23,6 @@
     "city": "FELLETIN",
     "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2169": {
-    "id": "2169",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2169",
-    "city": "AGEN",
-    "text": "CRESSONNIERE Av. Michel Serres 47000 AGEN 20 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo Logement adaptÃ© PMR"
-  },
   "516": {
     "id": "516",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/516",
@@ -46,12 +40,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522",
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Colocation 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
-  "1521": {
-    "id": "1521",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521",
-    "city": "CORTE",
-    "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
   "910": {
     "id": "910",
@@ -89,23 +77,11 @@
     "city": "PERIGUEUX",
     "text": "GRANDES ARCADES 49 rue JEAN SECRET 24000 PERIGUEUX 25 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
   },
-  "1458": {
-    "id": "1458",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
-    "city": "CORTE de",
-    "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
   "2477": {
     "id": "2477",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
-  "950": {
-    "id": "950",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/950",
-    "city": "CHARTRES",
-    "text": "DESANTI 6, rue du PÃ¨re Wresinski 28000 CHARTRES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "46": {
     "id": "46",
@@ -113,10 +89,34 @@
     "city": "PAU",
     "text": "CLE DES CHAMPS 7 RUE SAINT JOHN PERSE 64000 PAU 51 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
-  "2420": {
-    "id": "2420",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2420",
-    "city": "BETHUNE",
-    "text": "CitÃ© GÃ©rard Philipe 1326 rue de l'UniversitÃ© 62400 BETHUNE 9 mÂ² Individuel 1 lit simple WC, Douche"
+  "1458": {
+    "id": "1458",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
+    "city": "CORTE de",
+    "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "1521": {
+    "id": "1521",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521",
+    "city": "CORTE",
+    "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "1603": {
+    "id": "1603",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1603",
+    "city": "NANCY cedex",
+    "text": "CU BOUDONVILLE 61 rue de Boudonville 54052 NANCY cedex 13,5 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
+  },
+  "2169": {
+    "id": "2169",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2169",
+    "city": "AGEN",
+    "text": "CRESSONNIERE Av. Michel Serres 47000 AGEN 20 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo Logement adaptÃ© PMR"
+  },
+  "950": {
+    "id": "950",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/950",
+    "city": "CHARTRES",
+    "text": "DESANTI 6, rue du PÃ¨re Wresinski 28000 CHARTRES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
