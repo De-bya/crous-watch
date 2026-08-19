@@ -41,17 +41,17 @@
     "city": "FELLETIN",
     "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2169": {
-    "id": "2169",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2169",
-    "city": "AGEN",
-    "text": "CRESSONNIERE Av. Michel Serres 47000 AGEN 20 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo Logement adaptÃ© PMR"
-  },
   "315": {
     "id": "315",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/315",
     "city": "PERIGUEUX",
     "text": "GRANDES ARCADES 49 rue JEAN SECRET 24000 PERIGUEUX 25 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
+  },
+  "2169": {
+    "id": "2169",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2169",
+    "city": "AGEN",
+    "text": "CRESSONNIERE Av. Michel Serres 47000 AGEN 20 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo Logement adaptÃ© PMR"
   },
   "1211": {
     "id": "1211",
@@ -107,6 +107,12 @@
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
+  "2688": {
+    "id": "2688",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688",
+    "city": "GRENOBLE de",
+    "text": "GALILEE 6 place Pasteur - 38100 GRENOBLE de 16,1 Ã  29,8 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
   "1021": {
     "id": "1021",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1021",
@@ -119,34 +125,22 @@
     "city": "AULNOY-LES-VALENCIENNES",
     "text": "CitÃ© Jules Mousseron Rue du Chemin Vert 59300 AULNOY-LES-VALENCIENNES 12,5 mÂ² Individuel 1 lit simple WC, Douche"
   },
+  "1069": {
+    "id": "1069",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1069",
+    "city": "AULNOY-LES-VALENCIENNES",
+    "text": "CitÃ© Jules Mousseron Rue du Chemin Vert 59300 AULNOY-LES-VALENCIENNES 12,5 mÂ² Individuel 1 lit simple WC, Douche"
+  },
   "736": {
     "id": "736",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736",
     "city": "MaxÃ",
     "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville de 23 Ã  28 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   },
-  "1571": {
-    "id": "1571",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1571",
-    "city": "CHARTRES",
-    "text": "JEAN ZAY 25/27 rue des Bas-Bourgs 28000 CHARTRES 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "2688": {
-    "id": "2688",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688",
-    "city": "GRENOBLE de",
-    "text": "GALILEE 6 place Pasteur - 38100 GRENOBLE de 16,1 Ã  29,8 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
-  "1586": {
-    "id": "1586",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1586",
-    "city": "PAU",
-    "text": "RONSARD 36 RUE RONSARD 64000 PAU 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "1069": {
-    "id": "1069",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1069",
-    "city": "AULNOY-LES-VALENCIENNES",
-    "text": "CitÃ© Jules Mousseron Rue du Chemin Vert 59300 AULNOY-LES-VALENCIENNES 12,5 mÂ² Individuel 1 lit simple WC, Douche"
+  "285": {
+    "id": "285",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/285",
+    "city": "LIMOGES CEDEX",
+    "text": "CitÃ© GuÃ©rin 39A rue Camille GuÃ©rin 87038 LIMOGES CEDEX 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   }
 }
