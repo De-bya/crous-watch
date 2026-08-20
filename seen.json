@@ -23,12 +23,6 @@
     "city": "SARREGUEMINES",
     "text": "CU DOUAUMONT 17 Rue de Douaumont 57200 SARREGUEMINES 20 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "910": {
-    "id": "910",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910",
-    "city": "CORTE de",
-    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
   "1458": {
     "id": "1458",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
@@ -112,5 +106,11 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/291",
     "city": "BRIVE",
     "text": "RÃ©sidence de Brive 21 rue AndrÃ© Devaud 19100 BRIVE 18 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "910": {
+    "id": "910",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910",
+    "city": "CORTE de",
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   }
 }
