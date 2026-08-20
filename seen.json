@@ -1,10 +1,4 @@
 {
-  "2608": {
-    "id": "2608",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608",
-    "city": "MONT-DE-MARSAN",
-    "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "506": {
     "id": "506",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506",
@@ -28,6 +22,12 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/315",
     "city": "PERIGUEUX",
     "text": "GRANDES ARCADES 49 rue JEAN SECRET 24000 PERIGUEUX 25 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
+  },
+  "2608": {
+    "id": "2608",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608",
+    "city": "MONT-DE-MARSAN",
+    "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "2169": {
     "id": "2169",
@@ -89,23 +89,11 @@
     "city": "PERPIGNAN de",
     "text": "RESIDENCE CANIGOU 18 Bis Avenue ALFRED SAUVY 66100 PERPIGNAN de 27,09 Ã  29,55 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon Logement adaptÃ© PMR"
   },
-  "123": {
-    "id": "123",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/123",
-    "city": "VALENCE",
-    "text": "MOULINS 88 RUE DES MOULINS 26000 VALENCE 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
   "298": {
     "id": "298",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/298",
     "city": "Perpignan de",
     "text": "RESIDENCE LA GRALLA 24 rue de Cerdagne 66000 Perpignan de 28,95 Ã  38,2 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "1132": {
-    "id": "1132",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1132",
-    "city": "PERPIGNAN",
-    "text": "RESIDENCE MAR I SOL 18 AV. ALFRED SAUVY 66100 PERPIGNAN 30 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "2008": {
     "id": "2008",
@@ -131,41 +119,17 @@
     "city": "Mende de",
     "text": "CITE DE MENDE 26 Avenue du 8 mai 1945 48000 Mende de 8,5 Ã  13 mÂ² Individuel 1 lit simple Frigo"
   },
-  "736": {
-    "id": "736",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736",
-    "city": "MaxÃ",
-    "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville de 23 Ã  28 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
   "2477": {
     "id": "2477",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "2255": {
-    "id": "2255",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2255",
-    "city": "PERPIGNAN CEDEX de",
-    "text": "CITE MOULIN A VENT 26 AVENUE ALFRED SAUVY 66870 PERPIGNAN CEDEX de 8,9 Ã  9,7 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
-  },
-  "599": {
-    "id": "599",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/599",
-    "city": "ANGLET",
-    "text": "BIDART 55 rue de Mirambeau 64600 ANGLET 18,12 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
-  },
-  "2245": {
-    "id": "2245",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245",
-    "city": "NIMES CEDEX",
-    "text": "RESIDENCE GEORGE BESSE 100 Rue Georges BESSE 30035 NIMES CEDEX 1 47 mÂ² Individuel 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
-  "950": {
-    "id": "950",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/950",
-    "city": "CHARTRES",
-    "text": "DESANTI 6, rue du PÃ¨re Wresinski 28000 CHARTRES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  "736": {
+    "id": "736",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736",
+    "city": "MaxÃ",
+    "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville de 23 Ã  28 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   },
   "1571": {
     "id": "1571",
@@ -185,11 +149,11 @@
     "city": "CORTE",
     "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "1426": {
-    "id": "1426",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426",
-    "city": "Lannion Cedex",
-    "text": "CU Branly Rue Edouard Branly 22302 Lannion Cedex 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  "1132": {
+    "id": "1132",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1132",
+    "city": "PERPIGNAN",
+    "text": "RESIDENCE MAR I SOL 18 AV. ALFRED SAUVY 66100 PERPIGNAN 30 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "46": {
     "id": "46",
@@ -197,28 +161,16 @@
     "city": "PAU",
     "text": "CLE DES CHAMPS 7 RUE SAINT JOHN PERSE 64000 PAU 51 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
-  "2530": {
-    "id": "2530",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2530",
-    "city": "ST MARTIN D HERES de",
-    "text": "CONDILLAC DOMAINE UNIVERSITAIRE - 55 allÃ©e Condillac 38400 ST MARTIN D HERES de 9 Ã  18 mÂ² Individuel 1 lit simple Frigo Logement adaptÃ© PMR"
+  "599": {
+    "id": "599",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/599",
+    "city": "ANGLET",
+    "text": "BIDART 55 rue de Mirambeau 64600 ANGLET 18,12 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
   },
-  "2126": {
-    "id": "2126",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2126",
-    "city": "La Tronche de",
-    "text": "TRONCHE 3 chemin des grenouilles 38700 La Tronche de 8,1 Ã  16 mÂ² Individuel 1 lit simple Frigo"
-  },
-  "87": {
-    "id": "87",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/87",
-    "city": "GRENOBLE de",
-    "text": "MDE 6 PLACE PASTEUR 38000 GRENOBLE de 10 Ã  22 mÂ² Individuel 1 lit simple"
-  },
-  "2416": {
-    "id": "2416",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2416",
-    "city": "St MARTIN D HERES",
-    "text": "BERLIOZ Domaine Universitaire 38406 St MARTIN D HERES 12 mÂ² Individuel 1 lit simple Frigo"
+  "2245": {
+    "id": "2245",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245",
+    "city": "NIMES CEDEX",
+    "text": "RESIDENCE GEORGE BESSE 100 Rue Georges BESSE 30035 NIMES CEDEX 1 47 mÂ² Individuel 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   }
 }
