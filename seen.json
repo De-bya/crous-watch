@@ -83,12 +83,6 @@
     "city": "BELFORT",
     "text": "Residence Braudel 3 rue Marcel Paul - 90000 BELFORT - 38 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Duplex, Balcon"
   },
-  "832": {
-    "id": "832",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/832",
-    "city": "PERPIGNAN",
-    "text": "RESIDENCE TRAMUNTANA 63 CHEMIN DE LA PASSIO VELLA 66100 PERPIGNAN 22 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "910": {
     "id": "910",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910",
@@ -118,12 +112,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/516",
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo Logement adaptÃ© PMR"
-  },
-  "46": {
-    "id": "46",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/46",
-    "city": "PAU",
-    "text": "CLE DES CHAMPS 7 RUE SAINT JOHN PERSE 64000 PAU 51 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
   "1132": {
     "id": "1132",
@@ -155,17 +143,11 @@
     "city": "ISSOUDUN",
     "text": "LES COINCHETTES 21 Bis route de la Pomme 36100 ISSOUDUN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "1971": {
-    "id": "1971",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1971",
-    "city": "TALENCE de",
-    "text": "PIERRE ET MARIE CURIE 10 AV PREVOST 33400 TALENCE de 83 Ã  89 mÂ² Colocation 4 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
-  "2638": {
-    "id": "2638",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2638",
-    "city": "St Priest",
-    "text": "RESIDENCE AIME CESAIRE 24 Rue MarÃ©chal Leclerc 69800 St Priest 72 mÂ² Colocation 4 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  "298": {
+    "id": "298",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/298",
+    "city": "Perpignan de",
+    "text": "RESIDENCE LA GRALLA 24 rue de Cerdagne 66000 Perpignan de 28,95 Ã  38,2 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "950": {
     "id": "950",
@@ -173,10 +155,58 @@
     "city": "CHARTRES",
     "text": "DESANTI 6, rue du PÃ¨re Wresinski 28000 CHARTRES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "298": {
-    "id": "298",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/298",
-    "city": "Perpignan de",
-    "text": "RESIDENCE LA GRALLA 24 rue de Cerdagne 66000 Perpignan de 28,95 Ã  38,2 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  "832": {
+    "id": "832",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/832",
+    "city": "PERPIGNAN",
+    "text": "RESIDENCE TRAMUNTANA 63 CHEMIN DE LA PASSIO VELLA 66100 PERPIGNAN 22 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "46": {
+    "id": "46",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/46",
+    "city": "PAU",
+    "text": "CLE DES CHAMPS 7 RUE SAINT JOHN PERSE 64000 PAU 51 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "2823": {
+    "id": "2823",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2823",
+    "city": "NANCY",
+    "text": "CU MONBOIS LIBERATION 136 avenue de la LibÃ©ration 54000 NANCY 20 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1261": {
+    "id": "1261",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1261",
+    "city": "VANDOEUVRE LES NANCY",
+    "text": "CU MONPLAISIR rue Jacques Callot 54500 VANDOEUVRE LES NANCY 9 mÂ² Individuel 1 lit simple Frigo"
+  },
+  "2714": {
+    "id": "2714",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2714",
+    "city": "METZ CEDEX",
+    "text": "CU SAULCY Ile du Saulcy CS 60587 57010 METZ CEDEX 1 16 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "190": {
+    "id": "190",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/190",
+    "city": "METZ CEDEX",
+    "text": "CU BRIDOUX 2 rue du GÃ©nÃ©ral Delestraint CS 15250 57076 METZ CEDEX 03 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "377": {
+    "id": "377",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/377",
+    "city": "VILLERS LES NANCY",
+    "text": "CU PLACIEUX 39 Boulevard du MarÃ©chal Lyautey 54600 VILLERS LES NANCY 13,5 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1171": {
+    "id": "1171",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1171",
+    "city": "METZ CEDEX",
+    "text": "CU SAULCY Ile du Saulcy CS 60587 57010 METZ CEDEX 1 17,5 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2008": {
+    "id": "2008",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2008",
+    "city": "YUTZ",
+    "text": "CU DAUPHINE BRETAGNE 2/4/6 Rue du DauphinÃ© & 6/10/12 Rue de Bretagne 57970 YUTZ 95 mÂ² Colocation 3 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde, Balcon"
   }
 }
