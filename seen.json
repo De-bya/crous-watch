@@ -65,35 +65,17 @@
     "city": "GRENOBLE de",
     "text": "GALILEE 6 place Pasteur - 38100 GRENOBLE de 16,1 Ã  29,8 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
-  "2789": {
-    "id": "2789",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
-    "city": "CORTE de",
-    "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
   "522": {
     "id": "522",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522",
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Colocation 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
-  "599": {
-    "id": "599",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/599",
-    "city": "ANGLET",
-    "text": "BIDART 55 rue de Mirambeau 64600 ANGLET 18,12 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
-  },
   "736": {
     "id": "736",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736",
     "city": "MaxÃ",
     "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville de 23 Ã  28 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
-  "2881": {
-    "id": "2881",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2881",
-    "city": "BIDART de",
-    "text": "ERLEAK 89 Rue Berrua 64210 BIDART de 18,85 Ã  22,09 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "1521": {
     "id": "1521",
@@ -106,5 +88,23 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910",
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "2881": {
+    "id": "2881",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2881",
+    "city": "BIDART de",
+    "text": "ERLEAK 89 Rue Berrua 64210 BIDART de 18,85 Ã  22,09 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2789": {
+    "id": "2789",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
+    "city": "CORTE de",
+    "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "599": {
+    "id": "599",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/599",
+    "city": "ANGLET",
+    "text": "BIDART 55 rue de Mirambeau 64600 ANGLET 18,12 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
   }
 }
