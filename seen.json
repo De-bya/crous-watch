@@ -47,12 +47,6 @@
     "city": "BIDART",
     "text": "CROUS COLOC 8 RUE DE L'EGLISE 64210 BIDART 164 mÂ² Individuel, Colocation 5 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
-  "3248": {
-    "id": "3248",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248",
-    "city": "LORMONT de",
-    "text": "FONTBELLEAU 717 Avenue de PARIS 33310 LORMONT de 18,4 Ã  19,2 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "2789": {
     "id": "2789",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
@@ -107,10 +101,10 @@
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo Logement adaptÃ© PMR"
   },
-  "132": {
-    "id": "132",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/132",
-    "city": "SAINT MARTIN D HERES",
-    "text": "OUEST 107 rue des TaillÃ©es - DOMAINE UNIVERSITAIRE 38400 SAINT MARTIN D HERES 12 mÂ² Individuel 1 lit simple Frigo"
+  "3248": {
+    "id": "3248",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248",
+    "city": "LORMONT de",
+    "text": "FONTBELLEAU 717 Avenue de PARIS 33310 LORMONT de 18,4 Ã  19,2 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
