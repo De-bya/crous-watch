@@ -53,12 +53,6 @@
     "city": "FELLETIN",
     "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "3105": {
-    "id": "3105",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3105",
-    "city": "FELLETIN",
-    "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 9 mÂ² Individuel 1 lit simple Evier + plaque, Frigo"
-  },
   "1521": {
     "id": "1521",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521",
@@ -124,5 +118,11 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736",
     "city": "MaxÃ",
     "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville de 23 Ã  28 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
+  },
+  "793": {
+    "id": "793",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/793",
+    "city": "NANCY CEDEX",
+    "text": "CU PROVENCAL ACD 3 Rue Mademoiselle CS5217 54052 NANCY CEDEX 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
