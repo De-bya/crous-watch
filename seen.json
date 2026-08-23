@@ -71,6 +71,12 @@
     "city": "ChÃ",
     "text": "Le FAUBOURG 1 Rue du Faubourg Saint-Antoine 51000 ChÃ¢lons-en-Champagne 15 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque"
   },
+  "6": {
+    "id": "6",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6",
+    "city": "TULLE",
+    "text": "RÃ©sidence de Souilhac 35 rue d'Arsonval 19000 TULLE 26 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
   "482": {
     "id": "482",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482",
@@ -106,11 +112,5 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688",
     "city": "GRENOBLE de",
     "text": "GALILEE 6 place Pasteur - 38100 GRENOBLE de 16,1 Ã  29,8 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
-  "6": {
-    "id": "6",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6",
-    "city": "TULLE",
-    "text": "RÃ©sidence de Souilhac 35 rue d'Arsonval 19000 TULLE 26 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
