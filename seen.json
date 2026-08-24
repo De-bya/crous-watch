@@ -89,6 +89,24 @@
     "city": "FELLETIN",
     "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
+  "3244": {
+    "id": "3244",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3244",
+    "city": "BORDEAUX de",
+    "text": "ART DE RIVE 64 boulevard des frÃ¨res MOGA 33800 BORDEAUX de 18,1 Ã  25,1 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2789": {
+    "id": "2789",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
+    "city": "CORTE de",
+    "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "2240": {
+    "id": "2240",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2240",
+    "city": "BAYONNE",
+    "text": "ARANCETTE 24 chemin d'Arancette 64100 BAYONNE 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
   "910": {
     "id": "910",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910",
@@ -148,23 +166,5 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/206",
     "city": "SAINT-ETIENNE de",
     "text": "RESIDENCE TREFILERIE 18A 18B 20A 20B rue Richard 42100 SAINT-ETIENNE de 30 Ã  35,5 mÂ² Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
-  "3244": {
-    "id": "3244",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3244",
-    "city": "BORDEAUX de",
-    "text": "ART DE RIVE 64 boulevard des frÃ¨res MOGA 33800 BORDEAUX de 18,1 Ã  25,1 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "2240": {
-    "id": "2240",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2240",
-    "city": "BAYONNE",
-    "text": "ARANCETTE 24 chemin d'Arancette 64100 BAYONNE 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "2789": {
-    "id": "2789",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
-    "city": "CORTE de",
-    "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   }
 }
