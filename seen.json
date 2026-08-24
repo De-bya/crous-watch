@@ -83,12 +83,6 @@
     "city": "PERIGUEUX",
     "text": "PATIO 18 rue Combe des Dames 24000 PERIGUEUX 34 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
-  "382": {
-    "id": "382",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/382",
-    "city": "PERPIGNAN de",
-    "text": "RESIDENCE CANIGOU 18 Bis Avenue ALFRED SAUVY 66100 PERPIGNAN de 27,09 Ã  29,55 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon Logement adaptÃ© PMR"
-  },
   "291": {
     "id": "291",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/291",
@@ -107,29 +101,11 @@
     "city": "BIDART de",
     "text": "ERLEAK 89 Rue Berrua 64210 BIDART de 18,85 Ã  22,09 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2581": {
-    "id": "2581",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2581",
-    "city": "PESSAC de",
-    "text": "AUSONE 10 Lucie Aubrac 33600 PESSAC de 42,66 Ã  42,67 mÂ² Individuel, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo Logement adaptÃ© PMR"
-  },
   "2477": {
     "id": "2477",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
-  "1861": {
-    "id": "1861",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1861",
-    "city": "BEAUVAIS de",
-    "text": "RESIDENCE PARC KENNEDY 42 RUE MATHEAS 60000 BEAUVAIS de 33 Ã  41 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "2789": {
-    "id": "2789",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
-    "city": "CORTE de",
-    "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
   "516": {
     "id": "516",
@@ -142,18 +118,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
     "city": "FELLETIN",
     "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "3244": {
-    "id": "3244",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3244",
-    "city": "BORDEAUX de",
-    "text": "ART DE RIVE 64 boulevard des frÃ¨res MOGA 33800 BORDEAUX de 18,1 Ã  25,1 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "248": {
-    "id": "248",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/248",
-    "city": "bordeaux",
-    "text": "BOETIE 57 RUE SAINT JAMES 33000 bordeaux 33,3 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Duplex"
   },
   "206": {
     "id": "206",
@@ -184,5 +148,35 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2240",
     "city": "BAYONNE",
     "text": "ARANCETTE 24 chemin d'Arancette 64100 BAYONNE 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2789": {
+    "id": "2789",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
+    "city": "CORTE de",
+    "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "382": {
+    "id": "382",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/382",
+    "city": "PERPIGNAN de",
+    "text": "RESIDENCE CANIGOU 18 Bis Avenue ALFRED SAUVY 66100 PERPIGNAN de 27,09 Ã  29,55 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon Logement adaptÃ© PMR"
+  },
+  "2581": {
+    "id": "2581",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2581",
+    "city": "PESSAC de",
+    "text": "AUSONE 10 Lucie Aubrac 33600 PESSAC de 42,66 Ã  42,67 mÂ² Individuel, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo Logement adaptÃ© PMR"
+  },
+  "248": {
+    "id": "248",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/248",
+    "city": "bordeaux",
+    "text": "BOETIE 57 RUE SAINT JAMES 33000 bordeaux 33,3 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Duplex"
+  },
+  "3244": {
+    "id": "3244",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3244",
+    "city": "BORDEAUX de",
+    "text": "ART DE RIVE 64 boulevard des frÃ¨res MOGA 33800 BORDEAUX de 18,1 Ã  25,1 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
