@@ -23,12 +23,6 @@
     "city": "PERIGUEUX",
     "text": "GRANDES ARCADES 49 rue JEAN SECRET 24000 PERIGUEUX 25 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
   },
-  "1995": {
-    "id": "1995",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
-    "city": "CORTE de",
-    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
   "2688": {
     "id": "2688",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688",
@@ -77,12 +71,6 @@
     "city": "PESSAC de",
     "text": "AUSONE 10 Lucie Aubrac 33600 PESSAC de 42,66 Ã  42,67 mÂ² Individuel, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo Logement adaptÃ© PMR"
   },
-  "3244": {
-    "id": "3244",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3244",
-    "city": "BORDEAUX de",
-    "text": "ART DE RIVE 64 boulevard des frÃ¨res MOGA 33800 BORDEAUX de 18,1 Ã  25,1 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "291": {
     "id": "291",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/291",
@@ -94,6 +82,18 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "2240": {
+    "id": "2240",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2240",
+    "city": "BAYONNE",
+    "text": "ARANCETTE 24 chemin d'Arancette 64100 BAYONNE 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "206": {
+    "id": "206",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/206",
+    "city": "SAINT-ETIENNE de",
+    "text": "RESIDENCE TREFILERIE 18A 18B 20A 20B rue Richard 42100 SAINT-ETIENNE de 30 Ã  35,5 mÂ² Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   },
   "910": {
     "id": "910",
@@ -142,30 +142,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/382",
     "city": "PERPIGNAN de",
     "text": "RESIDENCE CANIGOU 18 Bis Avenue ALFRED SAUVY 66100 PERPIGNAN de 27,09 Ã  29,55 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon Logement adaptÃ© PMR"
-  },
-  "6": {
-    "id": "6",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6",
-    "city": "TULLE",
-    "text": "RÃ©sidence de Souilhac 35 rue d'Arsonval 19000 TULLE 26 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "206": {
-    "id": "206",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/206",
-    "city": "SAINT-ETIENNE de",
-    "text": "RESIDENCE TREFILERIE 18A 18B 20A 20B rue Richard 42100 SAINT-ETIENNE de 30 Ã  35,5 mÂ² Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
-  "2240": {
-    "id": "2240",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2240",
-    "city": "BAYONNE",
-    "text": "ARANCETTE 24 chemin d'Arancette 64100 BAYONNE 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "516": {
-    "id": "516",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/516",
-    "city": "MONT-DE-MARSAN",
-    "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo Logement adaptÃ© PMR"
   },
   "2789": {
     "id": "2789",
