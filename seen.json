@@ -113,12 +113,6 @@
     "city": "PERIGUEUX",
     "text": "GRANDES ARCADES 49 rue JEAN SECRET 24000 PERIGUEUX 25 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
   },
-  "569": {
-    "id": "569",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/569",
-    "city": "PESSAC de",
-    "text": "LUMIERES 2 avenue Jean Babin 33600 PESSAC de 20,18 Ã  26,52 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "613": {
     "id": "613",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/613",
@@ -131,35 +125,29 @@
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Colocation 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
-  "206": {
-    "id": "206",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/206",
-    "city": "SAINT-ETIENNE de",
-    "text": "RESIDENCE TREFILERIE 18A 18B 20A 20B rue Richard 42100 SAINT-ETIENNE de 30 Ã  35,5 mÂ² Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
-  "699": {
-    "id": "699",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/699",
-    "city": "MaxÃ",
-    "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "1581": {
-    "id": "1581",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1581",
-    "city": "REIMS",
-    "text": "PAUL FORT 6 bvd Franchet d Esperey 51100 REIMS 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
-  },
-  "736": {
-    "id": "736",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736",
-    "city": "MaxÃ",
-    "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville de 23 Ã  28 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
   "1508": {
     "id": "1508",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1508",
     "city": "ChÃ",
     "text": "Le FAUBOURG 1 Rue du Faubourg Saint-Antoine 51000 ChÃ¢lons-en-Champagne 15 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque"
+  },
+  "1623": {
+    "id": "1623",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623",
+    "city": "ISSOUDUN",
+    "text": "LES COINCHETTES 21 Bis route de la Pomme 36100 ISSOUDUN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "569": {
+    "id": "569",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/569",
+    "city": "PESSAC de",
+    "text": "LUMIERES 2 avenue Jean Babin 33600 PESSAC de 20,18 Ã  26,52 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "206": {
+    "id": "206",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/206",
+    "city": "SAINT-ETIENNE de",
+    "text": "RESIDENCE TREFILERIE 18A 18B 20A 20B rue Richard 42100 SAINT-ETIENNE de 30 Ã  35,5 mÂ² Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   },
   "635": {
     "id": "635",
@@ -167,16 +155,22 @@
     "city": "",
     "text": "Residence Duvillard 2 rue Ernest Duvillard - BP 80523 - 90016 BELFORT CEDEX 18 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   },
-  "1021": {
-    "id": "1021",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1021",
-    "city": "AULNOY-LES-VALENCIENNES",
-    "text": "CitÃ© Jules Mousseron Rue du Chemin Vert 59300 AULNOY-LES-VALENCIENNES 10,8 mÂ² Individuel 1 lit simple WC, Douche"
+  "1567": {
+    "id": "1567",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567",
+    "city": "CHARLEVILLE MEZIERES",
+    "text": "MAISON DES ETUDIANTS 38 Rue de Montjoly 08000 CHARLEVILLE MEZIERES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "3244": {
     "id": "3244",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3244",
     "city": "BORDEAUX de",
     "text": "ART DE RIVE 64 boulevard des frÃ¨res MOGA 33800 BORDEAUX de 18,1 Ã  25,1 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "736": {
+    "id": "736",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736",
+    "city": "MaxÃ",
+    "text": "CU LA BATELIERE 7 Ã  15 route de Metz 54320 MaxÃ©ville de 23 Ã  28 mÂ² Couple, Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   }
 }
