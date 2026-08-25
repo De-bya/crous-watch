@@ -35,18 +35,6 @@
     "city": "BIDART",
     "text": "CROUS COLOC 8 RUE DE L'EGLISE 64210 BIDART 164 mÂ² Individuel, Colocation 5 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
-  "3106": {
-    "id": "3106",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
-    "city": "FELLETIN",
-    "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "6": {
-    "id": "6",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6",
-    "city": "TULLE",
-    "text": "RÃ©sidence de Souilhac 35 rue d'Arsonval 19000 TULLE 26 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "522": {
     "id": "522",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522",
@@ -160,5 +148,17 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245",
     "city": "NIMES CEDEX",
     "text": "RESIDENCE GEORGE BESSE 100 Rue Georges BESSE 30035 NIMES CEDEX 1 47 mÂ² Individuel 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "6": {
+    "id": "6",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6",
+    "city": "TULLE",
+    "text": "RÃ©sidence de Souilhac 35 rue d'Arsonval 19000 TULLE 26 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "3106": {
+    "id": "3106",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
+    "city": "FELLETIN",
+    "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
