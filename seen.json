@@ -155,16 +155,16 @@
     "city": "BAYONNE",
     "text": "EUGENE GOYHENECHE 6-8 rue MAYI DARIZCUREN 64100 BAYONNE 30,41 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Balcon"
   },
-  "2245": {
-    "id": "2245",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245",
-    "city": "NIMES CEDEX",
-    "text": "RESIDENCE GEORGE BESSE 100 Rue Georges BESSE 30035 NIMES CEDEX 1 47 mÂ² Individuel 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
   "3145": {
     "id": "3145",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3145",
     "city": "ANNECY de",
     "text": "LOUISE ET COLETTE PERIES 10 chemin de Bellevue ANNECY-LE-VIEUX 74940 ANNECY de 31,2 Ã  33,4 mÂ² Couple, Individuel 1 lit double PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "2245": {
+    "id": "2245",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245",
+    "city": "NIMES CEDEX",
+    "text": "RESIDENCE GEORGE BESSE 100 Rue Georges BESSE 30035 NIMES CEDEX 1 47 mÂ² Individuel 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   }
 }
