@@ -101,12 +101,6 @@
     "city": "BIDART de",
     "text": "AINARAK 729 rue Harguin Etcheberry 64210 BIDART de 18,62 Ã  23,43 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "953": {
-    "id": "953",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/953",
-    "city": "BAYONNE",
-    "text": "EUGENE GOYHENECHE 6-8 rue MAYI DARIZCUREN 64100 BAYONNE 30,41 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Balcon"
-  },
   "3145": {
     "id": "3145",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3145",
@@ -155,16 +149,16 @@
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "382": {
-    "id": "382",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/382",
-    "city": "PERPIGNAN de",
-    "text": "RESIDENCE CANIGOU 18 Bis Avenue ALFRED SAUVY 66100 PERPIGNAN de 27,09 Ã  29,55 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon Logement adaptÃ© PMR"
-  },
   "2245": {
     "id": "2245",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245",
     "city": "NIMES CEDEX",
     "text": "RESIDENCE GEORGE BESSE 100 Rue Georges BESSE 30035 NIMES CEDEX 1 47 mÂ² Individuel 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "953": {
+    "id": "953",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/953",
+    "city": "BAYONNE",
+    "text": "EUGENE GOYHENECHE 6-8 rue MAYI DARIZCUREN 64100 BAYONNE 30,41 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Balcon"
   }
 }
