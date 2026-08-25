@@ -1,10 +1,4 @@
 {
-  "3026": {
-    "id": "3026",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3026",
-    "city": "BIDART",
-    "text": "CROUS COLOC 8 RUE DE L'EGLISE 64210 BIDART 164 mÂ² Individuel, Colocation 5 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
   "3106": {
     "id": "3106",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
@@ -59,12 +53,6 @@
     "city": "ANGOULÃ",
     "text": "L'AUBERGE ESPAGNOLE 14 Rue Saint Cybard - 16000 ANGOULÃME 37 mÂ² Individuel 2 lits simples WC, Douche, Evier + plaque, Frigo"
   },
-  "1623": {
-    "id": "1623",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623",
-    "city": "ISSOUDUN",
-    "text": "LES COINCHETTES 21 Bis route de la Pomme 36100 ISSOUDUN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "522": {
     "id": "522",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522",
@@ -76,12 +64,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506",
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "2581": {
-    "id": "2581",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2581",
-    "city": "PESSAC de",
-    "text": "AUSONE 10 Lucie Aubrac 33600 PESSAC de 42,66 Ã  42,67 mÂ² Individuel, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo Logement adaptÃ© PMR"
   },
   "1458": {
     "id": "1458",
@@ -107,23 +89,11 @@
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "249": {
-    "id": "249",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/249",
-    "city": "PESSAC",
-    "text": "FRANCOIS MAURIAC 2 Esplanade des Antilles 33600 PESSAC 29 mÂ² Individuel, Couple 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
   "1521": {
     "id": "1521",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521",
     "city": "CORTE",
     "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
-  "382": {
-    "id": "382",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/382",
-    "city": "PERPIGNAN de",
-    "text": "RESIDENCE CANIGOU 18 Bis Avenue ALFRED SAUVY 66100 PERPIGNAN de 27,09 Ã  29,55 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon Logement adaptÃ© PMR"
   },
   "1211": {
     "id": "1211",
@@ -137,12 +107,6 @@
     "city": "MONT-DE-MARSAN",
     "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2245": {
-    "id": "2245",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245",
-    "city": "NIMES CEDEX",
-    "text": "RESIDENCE GEORGE BESSE 100 Rue Georges BESSE 30035 NIMES CEDEX 1 47 mÂ² Individuel 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
   "2688": {
     "id": "2688",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688",
@@ -155,10 +119,52 @@
     "city": "BAYONNE",
     "text": "EUGENE GOYHENECHE 6-8 rue MAYI DARIZCUREN 64100 BAYONNE 30,41 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Balcon"
   },
-  "221": {
-    "id": "221",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/221",
-    "city": "annecy le Vieux",
-    "text": "TOM MOREL RÃ©sidence universitaire - 12 chemin de Bellevue 74940 annecy le Vieux 20 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
+  "3026": {
+    "id": "3026",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3026",
+    "city": "BIDART",
+    "text": "CROUS COLOC 8 RUE DE L'EGLISE 64210 BIDART 164 mÂ² Individuel, Colocation 5 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "2245": {
+    "id": "2245",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245",
+    "city": "NIMES CEDEX",
+    "text": "RESIDENCE GEORGE BESSE 100 Rue Georges BESSE 30035 NIMES CEDEX 1 47 mÂ² Individuel 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "2581": {
+    "id": "2581",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2581",
+    "city": "PESSAC de",
+    "text": "AUSONE 10 Lucie Aubrac 33600 PESSAC de 42,66 Ã  42,67 mÂ² Individuel, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo Logement adaptÃ© PMR"
+  },
+  "1623": {
+    "id": "1623",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623",
+    "city": "ISSOUDUN",
+    "text": "LES COINCHETTES 21 Bis route de la Pomme 36100 ISSOUDUN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1360": {
+    "id": "1360",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1360",
+    "city": "Chambery",
+    "text": "COMTE VERT 173 avenue du comte vert 73000 Chambery 35 mÂ² Colocation 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "3144": {
+    "id": "3144",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3144",
+    "city": "ANNECY de",
+    "text": "LOUISE ET COLETTE PERIES 10 chemin de Bellevue ANNECY-LE-VIEUX 74940 ANNECY de 20,9 Ã  25 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "3145": {
+    "id": "3145",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3145",
+    "city": "ANNECY de",
+    "text": "LOUISE ET COLETTE PERIES 10 chemin de Bellevue ANNECY-LE-VIEUX 74940 ANNECY de 31,2 Ã  33,4 mÂ² Couple, Individuel 1 lit double PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "249": {
+    "id": "249",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/249",
+    "city": "PESSAC",
+    "text": "FRANCOIS MAURIAC 2 Esplanade des Antilles 33600 PESSAC 29 mÂ² Individuel, Couple 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   }
 }
