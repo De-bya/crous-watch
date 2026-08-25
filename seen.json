@@ -35,12 +35,6 @@
     "city": "BIDART",
     "text": "CROUS COLOC 8 RUE DE L'EGLISE 64210 BIDART 164 mÂ² Individuel, Colocation 5 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
-  "3145": {
-    "id": "3145",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3145",
-    "city": "ANNECY de",
-    "text": "LOUISE ET COLETTE PERIES 10 chemin de Bellevue ANNECY-LE-VIEUX 74940 ANNECY de 31,2 Ã  33,4 mÂ² Couple, Individuel 1 lit double PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
   "3106": {
     "id": "3106",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
@@ -83,12 +77,6 @@
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "953": {
-    "id": "953",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/953",
-    "city": "BAYONNE",
-    "text": "EUGENE GOYHENECHE 6-8 rue MAYI DARIZCUREN 64100 BAYONNE 30,41 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Balcon"
-  },
   "1596": {
     "id": "1596",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1596",
@@ -107,23 +95,17 @@
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "3242": {
-    "id": "3242",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3242",
-    "city": "BIDART de",
-    "text": "AINARAK 729 rue Harguin Etcheberry 64210 BIDART de 18,62 Ã  23,43 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  "910": {
+    "id": "910",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910",
+    "city": "CORTE de",
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
   "1458": {
     "id": "1458",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
     "city": "CORTE de",
     "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
-  "910": {
-    "id": "910",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910",
-    "city": "CORTE de",
-    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
   "1623": {
     "id": "1623",
@@ -155,16 +137,34 @@
     "city": "TULLE",
     "text": "RÃ©sidence de Souilhac 35 rue d'Arsonval 19000 TULLE 12 mÂ² Colocation, Individuel 2 lits simples WC, Douche, Evier + plaque, Frigo"
   },
+  "2881": {
+    "id": "2881",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2881",
+    "city": "BIDART de",
+    "text": "ERLEAK 89 Rue Berrua 64210 BIDART de 18,85 Ã  22,09 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "3242": {
+    "id": "3242",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3242",
+    "city": "BIDART de",
+    "text": "AINARAK 729 rue Harguin Etcheberry 64210 BIDART de 18,62 Ã  23,43 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "953": {
+    "id": "953",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/953",
+    "city": "BAYONNE",
+    "text": "EUGENE GOYHENECHE 6-8 rue MAYI DARIZCUREN 64100 BAYONNE 30,41 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Balcon"
+  },
   "2245": {
     "id": "2245",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245",
     "city": "NIMES CEDEX",
     "text": "RESIDENCE GEORGE BESSE 100 Rue Georges BESSE 30035 NIMES CEDEX 1 47 mÂ² Individuel 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
-  "2881": {
-    "id": "2881",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2881",
-    "city": "BIDART de",
-    "text": "ERLEAK 89 Rue Berrua 64210 BIDART de 18,85 Ã  22,09 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  "3145": {
+    "id": "3145",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3145",
+    "city": "ANNECY de",
+    "text": "LOUISE ET COLETTE PERIES 10 chemin de Bellevue ANNECY-LE-VIEUX 74940 ANNECY de 31,2 Ã  33,4 mÂ² Couple, Individuel 1 lit double PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   }
 }
