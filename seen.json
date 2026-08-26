@@ -89,12 +89,6 @@
     "city": "TULLE",
     "text": "RÃ©sidence de Souilhac 35 rue d'Arsonval 19000 TULLE 12 mÂ² Colocation, Individuel 2 lits simples WC, Douche, Evier + plaque, Frigo"
   },
-  "2287": {
-    "id": "2287",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2287",
-    "city": "PERPIGNAN CEDEX de",
-    "text": "CITE MOULIN A VENT 26 AVENUE ALFRED SAUVY 66870 PERPIGNAN CEDEX de 18,1 Ã  18,5 mÂ² Individuel 1 lit simple WC, Douche, Frigo Logement adaptÃ© PMR"
-  },
   "3106": {
     "id": "3106",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
@@ -149,10 +143,10 @@
     "city": "MONTBELIARD",
     "text": "RÃ©sidence Portes du Jura 23, rue Maurice RAVEL - 25200 MONTBELIARD 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "132": {
-    "id": "132",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/132",
-    "city": "SAINT MARTIN D HERES",
-    "text": "OUEST 107 rue des TaillÃ©es - DOMAINE UNIVERSITAIRE 38400 SAINT MARTIN D HERES 12 mÂ² Individuel 1 lit simple Frigo"
+  "2287": {
+    "id": "2287",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2287",
+    "city": "PERPIGNAN CEDEX de",
+    "text": "CITE MOULIN A VENT 26 AVENUE ALFRED SAUVY 66870 PERPIGNAN CEDEX de 18,1 Ã  18,5 mÂ² Individuel 1 lit simple WC, Douche, Frigo Logement adaptÃ© PMR"
   }
 }
