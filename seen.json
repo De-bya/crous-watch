@@ -77,12 +77,6 @@
     "city": "BAZEILLES",
     "text": "BAZEILLES 12 place de l infanterie de marine 08140 BAZEILLES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "123": {
-    "id": "123",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/123",
-    "city": "VALENCE",
-    "text": "MOULINS 88 RUE DES MOULINS 26000 VALENCE 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
   "2715": {
     "id": "2715",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715",
@@ -94,12 +88,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910",
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
-  "3106": {
-    "id": "3106",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
-    "city": "FELLETIN",
-    "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "1356": {
     "id": "1356",
@@ -125,23 +113,17 @@
     "city": "ANGOULÃ",
     "text": "L'AUBERGE ESPAGNOLE 14 Rue Saint Cybard - 16000 ANGOULÃME 37 mÂ² Individuel 2 lits simples WC, Douche, Evier + plaque, Frigo"
   },
-  "2287": {
-    "id": "2287",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2287",
-    "city": "PERPIGNAN CEDEX de",
-    "text": "CITE MOULIN A VENT 26 AVENUE ALFRED SAUVY 66870 PERPIGNAN CEDEX de 18,1 Ã  18,5 mÂ² Individuel 1 lit simple WC, Douche, Frigo Logement adaptÃ© PMR"
-  },
   "3248": {
     "id": "3248",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248",
     "city": "LORMONT de",
     "text": "FONTBELLEAU 717 Avenue de PARIS 33310 LORMONT de 18,4 Ã  19,2 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2789": {
-    "id": "2789",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
-    "city": "CORTE de",
-    "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  "2287": {
+    "id": "2287",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2287",
+    "city": "PERPIGNAN CEDEX de",
+    "text": "CITE MOULIN A VENT 26 AVENUE ALFRED SAUVY 66870 PERPIGNAN CEDEX de 18,1 Ã  18,5 mÂ² Individuel 1 lit simple WC, Douche, Frigo Logement adaptÃ© PMR"
   },
   "2255": {
     "id": "2255",
@@ -149,10 +131,16 @@
     "city": "PERPIGNAN CEDEX de",
     "text": "CITE MOULIN A VENT 26 AVENUE ALFRED SAUVY 66870 PERPIGNAN CEDEX de 8,9 Ã  9,7 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   },
-  "1581": {
-    "id": "1581",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1581",
-    "city": "REIMS",
-    "text": "PAUL FORT 6 bvd Franchet d Esperey 51100 REIMS 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  "2789": {
+    "id": "2789",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
+    "city": "CORTE de",
+    "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "3106": {
+    "id": "3106",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
+    "city": "FELLETIN",
+    "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
