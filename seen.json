@@ -53,18 +53,6 @@
     "city": "ANGOULÃ",
     "text": "L'AUBERGE ESPAGNOLE 14 Rue Saint Cybard - 16000 ANGOULÃME 37 mÂ² Individuel 2 lits simples WC, Douche, Evier + plaque, Frigo"
   },
-  "1623": {
-    "id": "1623",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623",
-    "city": "ISSOUDUN",
-    "text": "LES COINCHETTES 21 Bis route de la Pomme 36100 ISSOUDUN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "631": {
-    "id": "631",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/631",
-    "city": "PERPIGNAN",
-    "text": "RESIDENCE CANIGOU 18 Bis Avenue ALFRED SAUVY 66100 PERPIGNAN 29,55 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
-  },
   "298": {
     "id": "298",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/298",
@@ -77,23 +65,11 @@
     "city": "Mende de",
     "text": "CITE DE MENDE 26 Avenue du 8 mai 1945 48000 Mende de 8,5 Ã  13 mÂ² Individuel 1 lit simple Frigo"
   },
-  "2881": {
-    "id": "2881",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2881",
-    "city": "BIDART de",
-    "text": "ERLEAK 89 Rue Berrua 64210 BIDART de 18,85 Ã  22,09 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "2477": {
     "id": "2477",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
-  "953": {
-    "id": "953",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/953",
-    "city": "BAYONNE",
-    "text": "EUGENE GOYHENECHE 6-8 rue MAYI DARIZCUREN 64100 BAYONNE 30,41 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Balcon"
   },
   "832": {
     "id": "832",
@@ -106,12 +82,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/182",
     "city": "PERPIGNAN de",
     "text": "RESIDENCE CANIGOU 18 Bis Avenue ALFRED SAUVY 66100 PERPIGNAN de 20,78 Ã  29,55 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
-  },
-  "1132": {
-    "id": "1132",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1132",
-    "city": "PERPIGNAN",
-    "text": "RESIDENCE MAR I SOL 18 AV. ALFRED SAUVY 66100 PERPIGNAN 30 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "2191": {
     "id": "2191",
@@ -131,12 +101,6 @@
     "city": "FELLETIN",
     "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "1356": {
-    "id": "1356",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356",
-    "city": "TULLE",
-    "text": "RÃ©sidence de Souilhac 35 rue d'Arsonval 19000 TULLE 12 mÂ² Colocation, Individuel 2 lits simples WC, Douche, Evier + plaque, Frigo"
-  },
   "6": {
     "id": "6",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6",
@@ -148,12 +112,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
     "city": "CORTE de",
     "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
-  "2287": {
-    "id": "2287",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2287",
-    "city": "PERPIGNAN CEDEX de",
-    "text": "CITE MOULIN A VENT 26 AVENUE ALFRED SAUVY 66870 PERPIGNAN CEDEX de 18,1 Ã  18,5 mÂ² Individuel 1 lit simple WC, Douche, Frigo Logement adaptÃ© PMR"
   },
   "1521": {
     "id": "1521",
@@ -173,10 +131,52 @@
     "city": "LORMONT de",
     "text": "FONTBELLEAU 717 Avenue de PARIS 33310 LORMONT de 18,4 Ã  19,2 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
+  "2881": {
+    "id": "2881",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2881",
+    "city": "BIDART de",
+    "text": "ERLEAK 89 Rue Berrua 64210 BIDART de 18,85 Ã  22,09 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1356": {
+    "id": "1356",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356",
+    "city": "TULLE",
+    "text": "RÃ©sidence de Souilhac 35 rue d'Arsonval 19000 TULLE 12 mÂ² Colocation, Individuel 2 lits simples WC, Douche, Evier + plaque, Frigo"
+  },
+  "1132": {
+    "id": "1132",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1132",
+    "city": "PERPIGNAN",
+    "text": "RESIDENCE MAR I SOL 18 AV. ALFRED SAUVY 66100 PERPIGNAN 30 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "631": {
+    "id": "631",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/631",
+    "city": "PERPIGNAN",
+    "text": "RESIDENCE CANIGOU 18 Bis Avenue ALFRED SAUVY 66100 PERPIGNAN 29,55 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
+  },
   "2255": {
     "id": "2255",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2255",
     "city": "PERPIGNAN CEDEX de",
     "text": "CITE MOULIN A VENT 26 AVENUE ALFRED SAUVY 66870 PERPIGNAN CEDEX de 8,9 Ã  9,7 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "2287": {
+    "id": "2287",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2287",
+    "city": "PERPIGNAN CEDEX de",
+    "text": "CITE MOULIN A VENT 26 AVENUE ALFRED SAUVY 66870 PERPIGNAN CEDEX de 18,1 Ã  18,5 mÂ² Individuel 1 lit simple WC, Douche, Frigo Logement adaptÃ© PMR"
+  },
+  "1623": {
+    "id": "1623",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623",
+    "city": "ISSOUDUN",
+    "text": "LES COINCHETTES 21 Bis route de la Pomme 36100 ISSOUDUN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "25": {
+    "id": "25",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/25",
+    "city": "PAU",
+    "text": "CLE DES CHAMPS 7 RUE SAINT JOHN PERSE 64000 PAU 14 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
