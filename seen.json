@@ -11,12 +11,6 @@
     "city": "TULLE",
     "text": "RÃ©sidence de Souilhac 35 rue d'Arsonval 19000 TULLE 12 mÂ² Colocation, Individuel 2 lits simples WC, Douche, Evier + plaque, Frigo"
   },
-  "2608": {
-    "id": "2608",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608",
-    "city": "MONT-DE-MARSAN",
-    "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "2796": {
     "id": "2796",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2796",
@@ -29,12 +23,6 @@
     "city": "FELLETIN",
     "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "457": {
-    "id": "457",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/457",
-    "city": "PERIGUEUX de",
-    "text": "PATIO 18 rue Combe des Dames 24000 PERIGUEUX de 15 Ã  19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "1224": {
     "id": "1224",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224",
@@ -46,24 +34,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506",
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "2789": {
-    "id": "2789",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
-    "city": "CORTE de",
-    "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
-  "1995": {
-    "id": "1995",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
-    "city": "CORTE de",
-    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
-  "522": {
-    "id": "522",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522",
-    "city": "MONT-DE-MARSAN",
-    "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Colocation 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
   "2477": {
     "id": "2477",
@@ -107,11 +77,35 @@
     "city": "ANGOULÃ",
     "text": "L'AUBERGE ESPAGNOLE 14 Rue Saint Cybard - 16000 ANGOULÃME 37 mÂ² Individuel 2 lits simples WC, Douche, Evier + plaque, Frigo"
   },
-  "1458": {
-    "id": "1458",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
+  "1521": {
+    "id": "1521",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521",
+    "city": "CORTE",
+    "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "457": {
+    "id": "457",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/457",
+    "city": "PERIGUEUX de",
+    "text": "PATIO 18 rue Combe des Dames 24000 PERIGUEUX de 15 Ã  19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1995": {
+    "id": "1995",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
     "city": "CORTE de",
-    "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "2608": {
+    "id": "2608",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608",
+    "city": "MONT-DE-MARSAN",
+    "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "522": {
+    "id": "522",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522",
+    "city": "MONT-DE-MARSAN",
+    "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Colocation 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
   "3248": {
     "id": "3248",
@@ -119,22 +113,28 @@
     "city": "LORMONT de",
     "text": "FONTBELLEAU 717 Avenue de PARIS 33310 LORMONT de 18,4 Ã  19,2 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "1521": {
-    "id": "1521",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521",
-    "city": "CORTE",
-    "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
   "2245": {
     "id": "2245",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245",
     "city": "NIMES CEDEX",
     "text": "RESIDENCE GEORGE BESSE 100 Rue Georges BESSE 30035 NIMES CEDEX 1 47 mÂ² Individuel 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
+  "1458": {
+    "id": "1458",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
+    "city": "CORTE de",
+    "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
   "1939": {
     "id": "1939",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1939",
     "city": "NIMES CÃ",
     "text": "RESIDENCE TOUR MAGNE 45 bis, rue MÃ©nard 30021 NIMES CÃ©dex 1 de 28 Ã  54 mÂ² Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
+  },
+  "2789": {
+    "id": "2789",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
+    "city": "CORTE de",
+    "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   }
 }
