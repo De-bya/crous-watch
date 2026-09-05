@@ -65,12 +65,6 @@
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "6": {
-    "id": "6",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6",
-    "city": "TULLE",
-    "text": "RÃ©sidence de Souilhac 35 rue d'Arsonval 19000 TULLE 26 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "482": {
     "id": "482",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482",
@@ -88,12 +82,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2240",
     "city": "BAYONNE",
     "text": "ARANCETTE 24 chemin d'Arancette 64100 BAYONNE 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "1521": {
-    "id": "1521",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521",
-    "city": "CORTE",
-    "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
   "910": {
     "id": "910",
@@ -113,12 +101,6 @@
     "city": "CORTE de",
     "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
-  "2069": {
-    "id": "2069",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2069",
-    "city": "Vannes",
-    "text": "CU Lann-Trussac 12 rue Michel de Montaigne 56000 Vannes 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
-  },
   "736": {
     "id": "736",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736",
@@ -131,16 +113,34 @@
     "city": "ISSOUDUN",
     "text": "LES COINCHETTES 21 Bis route de la Pomme 36100 ISSOUDUN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
+  "3248": {
+    "id": "3248",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248",
+    "city": "LORMONT de",
+    "text": "FONTBELLEAU 717 Avenue de PARIS 33310 LORMONT de 18,4 Ã  19,2 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
   "2477": {
     "id": "2477",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "3248": {
-    "id": "3248",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248",
-    "city": "LORMONT de",
-    "text": "FONTBELLEAU 717 Avenue de PARIS 33310 LORMONT de 18,4 Ã  19,2 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  "6": {
+    "id": "6",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6",
+    "city": "TULLE",
+    "text": "RÃ©sidence de Souilhac 35 rue d'Arsonval 19000 TULLE 26 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2069": {
+    "id": "2069",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2069",
+    "city": "Vannes",
+    "text": "CU Lann-Trussac 12 rue Michel de Montaigne 56000 Vannes 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "630": {
+    "id": "630",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630",
+    "city": "AVIGNON de",
+    "text": "RESIDENCE LA GARIDELLE 10, rue St Bernard - 84000 AVIGNON de 34,07 Ã  59,24 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo, Duplex"
   }
 }
