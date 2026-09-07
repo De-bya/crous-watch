@@ -11,12 +11,6 @@
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "522": {
-    "id": "522",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522",
-    "city": "MONT-DE-MARSAN",
-    "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Colocation 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
   "613": {
     "id": "613",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/613",
@@ -143,10 +137,22 @@
     "city": "FELLETIN",
     "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
+  "630": {
+    "id": "630",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630",
+    "city": "AVIGNON de",
+    "text": "RESIDENCE LA GARIDELLE 10, rue St Bernard - 84000 AVIGNON de 34,07 Ã  59,24 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo, Duplex"
+  },
   "3248": {
     "id": "3248",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248",
     "city": "LORMONT de",
     "text": "FONTBELLEAU 717 Avenue de PARIS 33310 LORMONT de 18,4 Ã  19,2 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "522": {
+    "id": "522",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522",
+    "city": "MONT-DE-MARSAN",
+    "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Colocation 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   }
 }
