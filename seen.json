@@ -5,12 +5,6 @@
     "city": "CORTE de",
     "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
-  "1939": {
-    "id": "1939",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1939",
-    "city": "NIMES CÃ",
-    "text": "RESIDENCE TOUR MAGNE 45 bis, rue MÃ©nard 30021 NIMES CÃ©dex 1 de 28 Ã  54 mÂ² Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
   "1995": {
     "id": "1995",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
@@ -46,6 +40,36 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158",
     "city": "",
     "text": "Residence Duvillard 2 rue Ernest Duvillard - BP 80523 - 90016 BELFORT CEDEX 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "3026": {
+    "id": "3026",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3026",
+    "city": "BIDART",
+    "text": "CROUS COLOC 8 RUE DE L'EGLISE 64210 BIDART 164 mÂ² Individuel, Colocation 5 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "3106": {
+    "id": "3106",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
+    "city": "FELLETIN",
+    "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "3145": {
+    "id": "3145",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3145",
+    "city": "ANNECY de",
+    "text": "LOUISE ET COLETTE PERIES 10 chemin de Bellevue ANNECY-LE-VIEUX 74940 ANNECY de 31,2 Ã  33,4 mÂ² Couple, Individuel 1 lit double PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "1939": {
+    "id": "1939",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1939",
+    "city": "NIMES CÃ",
+    "text": "RESIDENCE TOUR MAGNE 45 bis, rue MÃ©nard 30021 NIMES CÃ©dex 1 de 28 Ã  54 mÂ² Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
+  },
+  "2559": {
+    "id": "2559",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2559",
+    "city": "COMPIEGNE de",
+    "text": "RESIDENCE DU PARC 1, square Gabriel Auguste Ancelet 60200 COMPIEGNE de 76,5 Ã  94,4 mÂ² Colocation 1 lit simple PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
   "291": {
     "id": "291",
@@ -101,12 +125,6 @@
     "city": "VALENCE de",
     "text": "CLACTON 20 RUE CLACTON TENDRING 26000 VALENCE de 23 Ã  32 mÂ² Individuel 1 lit simple PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Duplex"
   },
-  "2559": {
-    "id": "2559",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2559",
-    "city": "COMPIEGNE de",
-    "text": "RESIDENCE DU PARC 1, square Gabriel Auguste Ancelet 60200 COMPIEGNE de 76,5 Ã  94,4 mÂ² Colocation 1 lit simple PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
   "2608": {
     "id": "2608",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608",
@@ -124,29 +142,5 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
     "city": "CORTE de",
     "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
-  "2881": {
-    "id": "2881",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2881",
-    "city": "BIDART de",
-    "text": "ERLEAK 89 Rue Berrua 64210 BIDART de 18,85 Ã  22,09 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "3026": {
-    "id": "3026",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3026",
-    "city": "BIDART",
-    "text": "CROUS COLOC 8 RUE DE L'EGLISE 64210 BIDART 164 mÂ² Individuel, Colocation 5 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
-  "3106": {
-    "id": "3106",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
-    "city": "FELLETIN",
-    "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "3145": {
-    "id": "3145",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3145",
-    "city": "ANNECY de",
-    "text": "LOUISE ET COLETTE PERIES 10 chemin de Bellevue ANNECY-LE-VIEUX 74940 ANNECY de 31,2 Ã  33,4 mÂ² Couple, Individuel 1 lit double PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   }
 }
