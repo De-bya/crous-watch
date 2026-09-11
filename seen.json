@@ -71,12 +71,6 @@
     "city": "TULLE",
     "text": "RÃ©sidence de Souilhac 35 rue d'Arsonval 19000 TULLE 12 mÂ² Colocation, Individuel 2 lits simples WC, Douche, Evier + plaque, Frigo"
   },
-  "1458": {
-    "id": "1458",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
-    "city": "CORTE de",
-    "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
   "1939": {
     "id": "1939",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1939",
@@ -88,12 +82,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
-  "1623": {
-    "id": "1623",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623",
-    "city": "ISSOUDUN",
-    "text": "LES COINCHETTES 21 Bis route de la Pomme 36100 ISSOUDUN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "1211": {
     "id": "1211",
@@ -166,11 +154,5 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2903",
     "city": "Maubeuge",
     "text": "RÃ©sidence Gaston Adriensence 2 rue du Docteur Paul Jean 59600 Maubeuge 37,93 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Duplex"
-  },
-  "2069": {
-    "id": "2069",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2069",
-    "city": "Vannes",
-    "text": "CU Lann-Trussac 12 rue Michel de Montaigne 56000 Vannes 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   }
 }
