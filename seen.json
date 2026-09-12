@@ -1,4 +1,28 @@
 {
+  "482": {
+    "id": "482",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482",
+    "city": "PERIGUEUX",
+    "text": "PATIO 18 rue Combe des Dames 24000 PERIGUEUX 34 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "506": {
+    "id": "506",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506",
+    "city": "MONT-DE-MARSAN",
+    "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "635": {
+    "id": "635",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/635",
+    "city": "",
+    "text": "Residence Duvillard 2 rue Ernest Duvillard - BP 80523 - 90016 BELFORT CEDEX 18 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "853": {
+    "id": "853",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/853",
+    "city": "Rennes Cedex",
+    "text": "CU Maine 5/8 rue du Maine 35000 Rennes Cedex 9 mÂ² Individuel, Colocation 4 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
   "1356": {
     "id": "1356",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356",
@@ -53,11 +77,35 @@
     "city": "",
     "text": "Residence Duvillard 2 rue Ernest Duvillard - BP 80523 - 90016 BELFORT CEDEX 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   },
-  "3026": {
-    "id": "3026",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3026",
-    "city": "BIDART",
-    "text": "CROUS COLOC 8 RUE DE L'EGLISE 64210 BIDART 164 mÂ² Individuel, Colocation 5 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  "2477": {
+    "id": "2477",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
+    "city": "CORTE de",
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "2508": {
+    "id": "2508",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2508",
+    "city": "VALENCE de",
+    "text": "CLACTON 20 RUE CLACTON TENDRING 26000 VALENCE de 23 Ã  32 mÂ² Individuel 1 lit simple PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Duplex"
+  },
+  "2559": {
+    "id": "2559",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2559",
+    "city": "COMPIEGNE de",
+    "text": "RESIDENCE DU PARC 1, square Gabriel Auguste Ancelet 60200 COMPIEGNE de 76,5 Ã  94,4 mÂ² Colocation 1 lit simple PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "2608": {
+    "id": "2608",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608",
+    "city": "MONT-DE-MARSAN",
+    "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2789": {
+    "id": "2789",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
+    "city": "CORTE de",
+    "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
   "3106": {
     "id": "3106",
@@ -70,6 +118,24 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3130",
     "city": "VALENCE",
     "text": "CLACTON 20 RUE CLACTON TENDRING 26000 VALENCE 36 mÂ² Individuel 1 lit rapprochable PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Duplex"
+  },
+  "2886": {
+    "id": "2886",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2886",
+    "city": "Saint-BrieucÂ",
+    "text": "CU Villes DorÃ©es 56A rue Lafayette 22000 Saint-BrieucÂ 17,76 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2903": {
+    "id": "2903",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2903",
+    "city": "Maubeuge",
+    "text": "RÃ©sidence Gaston Adriensence 2 rue du Docteur Paul Jean 59600 Maubeuge 37,93 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Duplex"
+  },
+  "2942": {
+    "id": "2942",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2942",
+    "city": "Maubeuge de",
+    "text": "RÃ©sidence Gaston Adriensence 2 rue du Docteur Paul Jean 59600 Maubeuge de 16,07 Ã  16,47 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo Logement adaptÃ© PMR"
   },
   "2069": {
     "id": "2069",
@@ -101,64 +167,22 @@
     "city": "ROSIERES PRES TROYES",
     "text": "LEONARD DE VINCI 24 Place LÃ©onard De Vinci 10430 ROSIERES PRES TROYES 50 mÂ² Individuel 2 lits simples WC, Douche, Evier + plaque, Frigo"
   },
-  "482": {
-    "id": "482",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482",
-    "city": "PERIGUEUX",
-    "text": "PATIO 18 rue Combe des Dames 24000 PERIGUEUX 34 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
-  "506": {
-    "id": "506",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506",
-    "city": "MONT-DE-MARSAN",
-    "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "635": {
-    "id": "635",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/635",
-    "city": "",
-    "text": "Residence Duvillard 2 rue Ernest Duvillard - BP 80523 - 90016 BELFORT CEDEX 18 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
-  },
-  "853": {
-    "id": "853",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/853",
-    "city": "Rennes Cedex",
-    "text": "CU Maine 5/8 rue du Maine 35000 Rennes Cedex 9 mÂ² Individuel, Colocation 4 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
-  "2477": {
-    "id": "2477",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
-    "city": "CORTE de",
-    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
-  "2508": {
-    "id": "2508",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2508",
-    "city": "VALENCE de",
-    "text": "CLACTON 20 RUE CLACTON TENDRING 26000 VALENCE de 23 Ã  32 mÂ² Individuel 1 lit simple PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Duplex"
-  },
-  "2559": {
-    "id": "2559",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2559",
-    "city": "COMPIEGNE de",
-    "text": "RESIDENCE DU PARC 1, square Gabriel Auguste Ancelet 60200 COMPIEGNE de 76,5 Ã  94,4 mÂ² Colocation 1 lit simple PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
-  "2608": {
-    "id": "2608",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608",
-    "city": "MONT-DE-MARSAN",
-    "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "2942": {
-    "id": "2942",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2942",
-    "city": "Maubeuge de",
-    "text": "RÃ©sidence Gaston Adriensence 2 rue du Docteur Paul Jean 59600 Maubeuge de 16,07 Ã  16,47 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo Logement adaptÃ© PMR"
-  },
   "1567": {
     "id": "1567",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567",
     "city": "CHARLEVILLE MEZIERES",
     "text": "MAISON DES ETUDIANTS 38 Rue de Montjoly 08000 CHARLEVILLE MEZIERES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1298": {
+    "id": "1298",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1298",
+    "city": "MONTBELIARD",
+    "text": "RÃ©sidence Portes du Jura 23, rue Maurice RAVEL - 25200 MONTBELIARD 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "3026": {
+    "id": "3026",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3026",
+    "city": "BIDART",
+    "text": "CROUS COLOC 8 RUE DE L'EGLISE 64210 BIDART 164 mÂ² Individuel, Colocation 5 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   }
 }
