@@ -47,12 +47,6 @@
     "city": "MONT-DE-MARSAN",
     "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2789": {
-    "id": "2789",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
-    "city": "CORTE de",
-    "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
   "3106": {
     "id": "3106",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
@@ -101,23 +95,11 @@
     "city": "PERIGUEUX",
     "text": "PATIO 18 rue Combe des Dames 24000 PERIGUEUX 34 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
-  "635": {
-    "id": "635",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/635",
-    "city": "",
-    "text": "Residence Duvillard 2 rue Ernest Duvillard - BP 80523 - 90016 BELFORT CEDEX 18 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
-  },
   "2069": {
     "id": "2069",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2069",
     "city": "Vannes",
     "text": "CU Lann-Trussac 12 rue Michel de Montaigne 56000 Vannes 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
-  },
-  "630": {
-    "id": "630",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630",
-    "city": "AVIGNON de",
-    "text": "RESIDENCE LA GARIDELLE 10, rue St Bernard - 84000 AVIGNON de 34,07 Ã  59,24 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo, Duplex"
   },
   "1458": {
     "id": "1458",
@@ -161,10 +143,28 @@
     "city": "QUIMPER",
     "text": "CU Quimper 4 rue de l'UniversitÃ© 29000 QUIMPER 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   },
-  "1069": {
-    "id": "1069",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1069",
-    "city": "AULNOY-LES-VALENCIENNES",
-    "text": "CitÃ© Jules Mousseron Rue du Chemin Vert 59300 AULNOY-LES-VALENCIENNES 12,5 mÂ² Individuel 1 lit simple WC, Douche"
+  "635": {
+    "id": "635",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/635",
+    "city": "",
+    "text": "Residence Duvillard 2 rue Ernest Duvillard - BP 80523 - 90016 BELFORT CEDEX 18 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "630": {
+    "id": "630",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630",
+    "city": "AVIGNON de",
+    "text": "RESIDENCE LA GARIDELLE 10, rue St Bernard - 84000 AVIGNON de 34,07 Ã  59,24 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo, Duplex"
+  },
+  "2789": {
+    "id": "2789",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
+    "city": "CORTE de",
+    "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "270": {
+    "id": "270",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/270",
+    "city": "LONGUENESSE",
+    "text": "RÃ©sidence Olympie Avenue Descartes 62219 LONGUENESSE 25 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
