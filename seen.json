@@ -131,6 +131,18 @@
     "city": "Vannes",
     "text": "CU Lann-Trussac 12 rue Michel de Montaigne 56000 Vannes 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   },
+  "3106": {
+    "id": "3106",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
+    "city": "FELLETIN",
+    "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "3130": {
+    "id": "3130",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3130",
+    "city": "VALENCE",
+    "text": "CLACTON 20 RUE CLACTON TENDRING 26000 VALENCE 36 mÂ² Individuel 1 lit rapprochable PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Duplex"
+  },
   "2886": {
     "id": "2886",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2886",
@@ -149,16 +161,16 @@
     "city": "BIDART",
     "text": "CROUS COLOC 8 RUE DE L'EGLISE 64210 BIDART 164 mÂ² Individuel, Colocation 5 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
-  "3106": {
-    "id": "3106",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
-    "city": "FELLETIN",
-    "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  "2008": {
+    "id": "2008",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2008",
+    "city": "YUTZ",
+    "text": "CU DAUPHINE BRETAGNE 2/4/6 Rue du DauphinÃ© & 6/10/12 Rue de Bretagne 57970 YUTZ 95 mÂ² Colocation 3 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde, Balcon"
   },
-  "3130": {
-    "id": "3130",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3130",
-    "city": "VALENCE",
-    "text": "CLACTON 20 RUE CLACTON TENDRING 26000 VALENCE 36 mÂ² Individuel 1 lit rapprochable PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Duplex"
+  "6": {
+    "id": "6",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6",
+    "city": "TULLE",
+    "text": "RÃ©sidence de Souilhac 35 rue d'Arsonval 19000 TULLE 26 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
