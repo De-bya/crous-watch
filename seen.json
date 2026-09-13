@@ -11,29 +11,11 @@
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "630": {
-    "id": "630",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630",
-    "city": "AVIGNON de",
-    "text": "RESIDENCE LA GARIDELLE 10, rue St Bernard - 84000 AVIGNON de 34,07 Ã  59,24 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo, Duplex"
-  },
   "635": {
     "id": "635",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/635",
     "city": "",
     "text": "Residence Duvillard 2 rue Ernest Duvillard - BP 80523 - 90016 BELFORT CEDEX 18 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
-  },
-  "910": {
-    "id": "910",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910",
-    "city": "CORTE de",
-    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
-  "853": {
-    "id": "853",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/853",
-    "city": "Rennes Cedex",
-    "text": "CU Maine 5/8 rue du Maine 35000 Rennes Cedex 9 mÂ² Individuel, Colocation 4 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
   "1458": {
     "id": "1458",
@@ -149,11 +131,11 @@
     "city": "Saint-BrieucÂ",
     "text": "CU Villes DorÃ©es 56A rue Lafayette 22000 Saint-BrieucÂ 17,76 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2903": {
-    "id": "2903",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2903",
-    "city": "Maubeuge",
-    "text": "RÃ©sidence Gaston Adriensence 2 rue du Docteur Paul Jean 59600 Maubeuge 37,93 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Duplex"
+  "6": {
+    "id": "6",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6",
+    "city": "TULLE",
+    "text": "RÃ©sidence de Souilhac 35 rue d'Arsonval 19000 TULLE 26 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "3026": {
     "id": "3026",
@@ -161,16 +143,28 @@
     "city": "BIDART",
     "text": "CROUS COLOC 8 RUE DE L'EGLISE 64210 BIDART 164 mÂ² Individuel, Colocation 5 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
-  "2008": {
-    "id": "2008",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2008",
-    "city": "YUTZ",
-    "text": "CU DAUPHINE BRETAGNE 2/4/6 Rue du DauphinÃ© & 6/10/12 Rue de Bretagne 57970 YUTZ 95 mÂ² Colocation 3 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde, Balcon"
+  "853": {
+    "id": "853",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/853",
+    "city": "Rennes Cedex",
+    "text": "CU Maine 5/8 rue du Maine 35000 Rennes Cedex 9 mÂ² Individuel, Colocation 4 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
-  "6": {
-    "id": "6",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6",
-    "city": "TULLE",
-    "text": "RÃ©sidence de Souilhac 35 rue d'Arsonval 19000 TULLE 26 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  "910": {
+    "id": "910",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910",
+    "city": "CORTE de",
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "2903": {
+    "id": "2903",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2903",
+    "city": "Maubeuge",
+    "text": "RÃ©sidence Gaston Adriensence 2 rue du Docteur Paul Jean 59600 Maubeuge 37,93 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Duplex"
+  },
+  "630": {
+    "id": "630",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630",
+    "city": "AVIGNON de",
+    "text": "RESIDENCE LA GARIDELLE 10, rue St Bernard - 84000 AVIGNON de 34,07 Ã  59,24 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo, Duplex"
   }
 }
