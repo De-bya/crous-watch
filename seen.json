@@ -5,29 +5,11 @@
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "1458": {
-    "id": "1458",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
-    "city": "CORTE de",
-    "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
   "1356": {
     "id": "1356",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356",
     "city": "TULLE",
     "text": "RÃ©sidence de Souilhac 35 rue d'Arsonval 19000 TULLE 12 mÂ² Colocation, Individuel 2 lits simples WC, Douche, Evier + plaque, Frigo"
-  },
-  "1995": {
-    "id": "1995",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
-    "city": "CORTE de",
-    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
-  "1518": {
-    "id": "1518",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1518",
-    "city": "QUIMPER",
-    "text": "CU Quimper 4 rue de l'UniversitÃ© 29000 QUIMPER 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   },
   "1567": {
     "id": "1567",
@@ -71,29 +53,11 @@
     "city": "CORTE de",
     "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
-  "2477": {
-    "id": "2477",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
-    "city": "CORTE de",
-    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
   "3106": {
     "id": "3106",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
     "city": "FELLETIN",
     "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "3130": {
-    "id": "3130",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3130",
-    "city": "VALENCE",
-    "text": "CLACTON 20 RUE CLACTON TENDRING 26000 VALENCE 36 mÂ² Individuel 1 lit rapprochable PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Duplex"
-  },
-  "2886": {
-    "id": "2886",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2886",
-    "city": "Saint-BrieucÂ",
-    "text": "CU Villes DorÃ©es 56A rue Lafayette 22000 Saint-BrieucÂ 17,76 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "6": {
     "id": "6",
@@ -137,18 +101,6 @@
     "city": "PERIGUEUX",
     "text": "PATIO 18 rue Combe des Dames 24000 PERIGUEUX 34 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
-  "2508": {
-    "id": "2508",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2508",
-    "city": "VALENCE de",
-    "text": "CLACTON 20 RUE CLACTON TENDRING 26000 VALENCE de 23 Ã  32 mÂ² Individuel 1 lit simple PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Duplex"
-  },
-  "2903": {
-    "id": "2903",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2903",
-    "city": "Maubeuge",
-    "text": "RÃ©sidence Gaston Adriensence 2 rue du Docteur Paul Jean 59600 Maubeuge 37,93 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Duplex"
-  },
   "635": {
     "id": "635",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/635",
@@ -166,5 +118,53 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630",
     "city": "AVIGNON de",
     "text": "RESIDENCE LA GARIDELLE 10, rue St Bernard - 84000 AVIGNON de 34,07 Ã  59,24 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo, Duplex"
+  },
+  "1458": {
+    "id": "1458",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
+    "city": "CORTE de",
+    "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "3130": {
+    "id": "3130",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3130",
+    "city": "VALENCE",
+    "text": "CLACTON 20 RUE CLACTON TENDRING 26000 VALENCE 36 mÂ² Individuel 1 lit rapprochable PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Duplex"
+  },
+  "2886": {
+    "id": "2886",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2886",
+    "city": "Saint-BrieucÂ",
+    "text": "CU Villes DorÃ©es 56A rue Lafayette 22000 Saint-BrieucÂ 17,76 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2903": {
+    "id": "2903",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2903",
+    "city": "Maubeuge",
+    "text": "RÃ©sidence Gaston Adriensence 2 rue du Docteur Paul Jean 59600 Maubeuge 37,93 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Duplex"
+  },
+  "1995": {
+    "id": "1995",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
+    "city": "CORTE de",
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "2477": {
+    "id": "2477",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
+    "city": "CORTE de",
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "1518": {
+    "id": "1518",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1518",
+    "city": "QUIMPER",
+    "text": "CU Quimper 4 rue de l'UniversitÃ© 29000 QUIMPER 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "1069": {
+    "id": "1069",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1069",
+    "city": "AULNOY-LES-VALENCIENNES",
+    "text": "CitÃ© Jules Mousseron Rue du Chemin Vert 59300 AULNOY-LES-VALENCIENNES 12,5 mÂ² Individuel 1 lit simple WC, Douche"
   }
 }
