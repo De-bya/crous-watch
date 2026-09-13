@@ -77,12 +77,6 @@
     "city": "Rennes Cedex",
     "text": "CU Maine 5/8 rue du Maine 35000 Rennes Cedex 9 mÂ² Individuel, Colocation 4 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
-  "1537": {
-    "id": "1537",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1537",
-    "city": "ROSIERES PRES TROYES",
-    "text": "LEONARD DE VINCI 24 Place LÃ©onard De Vinci 10430 ROSIERES PRES TROYES 50 mÂ² Individuel 2 lits simples WC, Douche, Evier + plaque, Frigo"
-  },
   "1521": {
     "id": "1521",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521",
@@ -149,22 +143,22 @@
     "city": "",
     "text": "Residence Duvillard 2 rue Ernest Duvillard - BP 80523 - 90016 BELFORT CEDEX 18 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   },
-  "630": {
-    "id": "630",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630",
-    "city": "AVIGNON de",
-    "text": "RESIDENCE LA GARIDELLE 10, rue St Bernard - 84000 AVIGNON de 34,07 Ã  59,24 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo, Duplex"
-  },
   "2789": {
     "id": "2789",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
     "city": "CORTE de",
     "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
-  "270": {
-    "id": "270",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/270",
-    "city": "LONGUENESSE",
-    "text": "RÃ©sidence Olympie Avenue Descartes 62219 LONGUENESSE 25 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  "630": {
+    "id": "630",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630",
+    "city": "AVIGNON de",
+    "text": "RESIDENCE LA GARIDELLE 10, rue St Bernard - 84000 AVIGNON de 34,07 Ã  59,24 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo, Duplex"
+  },
+  "1537": {
+    "id": "1537",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1537",
+    "city": "ROSIERES PRES TROYES",
+    "text": "LEONARD DE VINCI 24 Place LÃ©onard De Vinci 10430 ROSIERES PRES TROYES 50 mÂ² Individuel 2 lits simples WC, Douche, Evier + plaque, Frigo"
   }
 }
