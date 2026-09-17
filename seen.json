@@ -47,12 +47,6 @@
     "city": "Saint-BrieucÂ",
     "text": "CU Villes DorÃ©es 56A rue Lafayette 22000 Saint-BrieucÂ 17,76 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2559": {
-    "id": "2559",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2559",
-    "city": "COMPIEGNE de",
-    "text": "RESIDENCE DU PARC 1, square Gabriel Auguste Ancelet 60200 COMPIEGNE de 76,5 Ã  94,4 mÂ² Colocation 1 lit simple PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
   "1995": {
     "id": "1995",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
@@ -131,12 +125,6 @@
     "city": "ROANNE de",
     "text": "RESIDENCE ROANNE 20/22 rue Raoul Follereau 42300 ROANNE de 19 Ã  20,39 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2071": {
-    "id": "2071",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2071",
-    "city": "ANGERS",
-    "text": "CITE BOURGONNIER 19 RUE LAINE LAROCHE 49000 ANGERS 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
-  },
   "2477": {
     "id": "2477",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
@@ -149,16 +137,22 @@
     "city": "CORTE",
     "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "630": {
-    "id": "630",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630",
-    "city": "AVIGNON de",
-    "text": "RESIDENCE LA GARIDELLE 10, rue St Bernard - 84000 AVIGNON de 34,07 Ã  59,24 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo, Duplex"
-  },
   "1158": {
     "id": "1158",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158",
     "city": "",
     "text": "Residence Duvillard 2 rue Ernest Duvillard - BP 80523 - 90016 BELFORT CEDEX 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "2559": {
+    "id": "2559",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2559",
+    "city": "COMPIEGNE de",
+    "text": "RESIDENCE DU PARC 1, square Gabriel Auguste Ancelet 60200 COMPIEGNE de 76,5 Ã  94,4 mÂ² Colocation 1 lit simple PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "2071": {
+    "id": "2071",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2071",
+    "city": "ANGERS",
+    "text": "CITE BOURGONNIER 19 RUE LAINE LAROCHE 49000 ANGERS 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   }
 }
