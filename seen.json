@@ -77,29 +77,11 @@
     "city": "Saint-Brieuc",
     "text": "CU Loucheur 13 av. Loucheur 22000 Saint-Brieuc 21,6 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "3248": {
-    "id": "3248",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248",
-    "city": "LORMONT de",
-    "text": "FONTBELLEAU 717 Avenue de PARIS 33310 LORMONT de 18,4 Ã  19,2 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "1158": {
-    "id": "1158",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158",
-    "city": "",
-    "text": "Residence Duvillard 2 rue Ernest Duvillard - BP 80523 - 90016 BELFORT CEDEX 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
-  },
   "1426": {
     "id": "1426",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426",
     "city": "Lannion Cedex",
     "text": "CU Branly Rue Edouard Branly 22302 Lannion Cedex 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
-  },
-  "1471": {
-    "id": "1471",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1471",
-    "city": "ROANNE de",
-    "text": "RESIDENCE ROANNE 20/22 rue Raoul Follereau 42300 ROANNE de 19 Ã  20,39 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "1521": {
     "id": "1521",
@@ -113,22 +95,40 @@
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2477": {
-    "id": "2477",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
-    "city": "CORTE de",
-    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
   "1263": {
     "id": "1263",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1263",
     "city": "AUXERRE de",
     "text": "RÃ©sidence Jemmapes 22bis, avenue Denfert Rochereau 89000 AUXERRE de 18 Ã  21 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
+  "2477": {
+    "id": "2477",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
+    "city": "CORTE de",
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
   "6": {
     "id": "6",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6",
     "city": "TULLE",
     "text": "RÃ©sidence de Souilhac 35 rue d'Arsonval 19000 TULLE 26 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1471": {
+    "id": "1471",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1471",
+    "city": "ROANNE de",
+    "text": "RESIDENCE ROANNE 20/22 rue Raoul Follereau 42300 ROANNE de 19 Ã  20,39 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1158": {
+    "id": "1158",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158",
+    "city": "",
+    "text": "Residence Duvillard 2 rue Ernest Duvillard - BP 80523 - 90016 BELFORT CEDEX 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "3248": {
+    "id": "3248",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248",
+    "city": "LORMONT de",
+    "text": "FONTBELLEAU 717 Avenue de PARIS 33310 LORMONT de 18,4 Ã  19,2 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
