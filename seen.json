@@ -11,12 +11,6 @@
     "city": "Lannion Cedex",
     "text": "CU Branly Rue Edouard Branly 22302 Lannion Cedex 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   },
-  "1445": {
-    "id": "1445",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1445",
-    "city": "BOURGES de",
-    "text": "HOTEL DIEU 11 rue du Pont Merlan 18000 BOURGES de 27,6 Ã  39,2 mÂ² Individuel, Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo"
-  },
   "1458": {
     "id": "1458",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458",
@@ -71,18 +65,6 @@
     "city": "AUXERRE de",
     "text": "RÃ©sidence Jemmapes 22bis, avenue Denfert Rochereau 89000 AUXERRE de 30 Ã  34 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "1292": {
-    "id": "1292",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1292",
-    "city": "AMIENS",
-    "text": "RESIDENCE THIL Avenue des FacultÃ©s 80000 AMIENS 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
-  },
-  "1137": {
-    "id": "1137",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1137",
-    "city": "BEAUVAIS",
-    "text": "RESIDENCE PARC KENNEDY 42 RUE MATHEAS 60000 BEAUVAIS 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "1158": {
     "id": "1158",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158",
@@ -107,23 +89,11 @@
     "city": "CORTE de",
     "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
-  "2477": {
-    "id": "2477",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
-    "city": "CORTE de",
-    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
   "1995": {
     "id": "1995",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
-  "2071": {
-    "id": "2071",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2071",
-    "city": "ANGERS",
-    "text": "CITE BOURGONNIER 19 RUE LAINE LAROCHE 49000 ANGERS 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   },
   "2886": {
     "id": "2886",
@@ -142,5 +112,35 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506",
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "910": {
+    "id": "910",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910",
+    "city": "CORTE de",
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "3106": {
+    "id": "3106",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
+    "city": "FELLETIN",
+    "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "3248": {
+    "id": "3248",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248",
+    "city": "LORMONT de",
+    "text": "FONTBELLEAU 717 Avenue de PARIS 33310 LORMONT de 18,4 Ã  19,2 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2477": {
+    "id": "2477",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
+    "city": "CORTE de",
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "630": {
+    "id": "630",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630",
+    "city": "AVIGNON de",
+    "text": "RESIDENCE LA GARIDELLE 10, rue St Bernard - 84000 AVIGNON de 34,07 Ã  59,24 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo, Duplex"
   }
 }
