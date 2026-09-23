@@ -29,12 +29,6 @@
     "city": "CORTE de",
     "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
-  "1939": {
-    "id": "1939",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1939",
-    "city": "NIMES CÃ",
-    "text": "RESIDENCE TOUR MAGNE 45 bis, rue MÃ©nard 30021 NIMES CÃ©dex 1 de 28 Ã  54 mÂ² Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
   "1995": {
     "id": "1995",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
@@ -83,29 +77,11 @@
     "city": "",
     "text": "Residence Duvillard 2 rue Ernest Duvillard - BP 80523 - 90016 BELFORT CEDEX 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   },
-  "2856": {
-    "id": "2856",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2856",
-    "city": "Orsay de",
-    "text": "Saclay-Eileen Gray 2 rue Sophie Germain 91400 Orsay de 76,9 Ã  80,11 mÂ² Colocation 4 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde, Balcon"
-  },
-  "2862": {
-    "id": "2862",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2862",
-    "city": "PALAISEAU de",
-    "text": "Saclay-Jean d'Ormesson 20, cour Pierre Vasseur 91120 - PALAISEAU de 69,49 Ã  70,77 mÂ² Individuel, Colocation 4 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde, Duplex"
-  },
   "2477": {
     "id": "2477",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
-  "2245": {
-    "id": "2245",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245",
-    "city": "NIMES CEDEX",
-    "text": "RESIDENCE GEORGE BESSE 100 Rue Georges BESSE 30035 NIMES CEDEX 1 47 mÂ² Individuel 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
   "2555": {
     "id": "2555",
@@ -137,6 +113,18 @@
     "city": "CORTE de",
     "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
+  "2856": {
+    "id": "2856",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2856",
+    "city": "Orsay de",
+    "text": "Saclay-Eileen Gray 2 rue Sophie Germain 91400 Orsay de 76,9 Ã  80,11 mÂ² Colocation 4 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde, Balcon"
+  },
+  "2862": {
+    "id": "2862",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2862",
+    "city": "PALAISEAU de",
+    "text": "Saclay-Jean d'Ormesson 20, cour Pierre Vasseur 91120 - PALAISEAU de 69,49 Ã  70,77 mÂ² Individuel, Colocation 4 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde, Duplex"
+  },
   "3106": {
     "id": "3106",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
@@ -161,16 +149,22 @@
     "city": "Saint-BrieucÂ",
     "text": "CU Villes DorÃ©es 56A rue Lafayette 22000 Saint-BrieucÂ 17,76 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
+  "2069": {
+    "id": "2069",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2069",
+    "city": "Vannes",
+    "text": "CU Lann-Trussac 12 rue Michel de Montaigne 56000 Vannes 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "2255": {
+    "id": "2255",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2255",
+    "city": "PERPIGNAN CEDEX de",
+    "text": "CITE MOULIN A VENT 26 AVENUE ALFRED SAUVY 66870 PERPIGNAN CEDEX de 8,9 Ã  9,7 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
   "1623": {
     "id": "1623",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623",
     "city": "ISSOUDUN",
     "text": "LES COINCHETTES 21 Bis route de la Pomme 36100 ISSOUDUN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "138": {
-    "id": "138",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/138",
-    "city": "PESSAC",
-    "text": "EMILE DURKHEIM AllÃ©e Ausone / Avenue LÃ©on Duguit 33600 PESSAC 18,5 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo Logement adaptÃ© PMR"
   }
 }
