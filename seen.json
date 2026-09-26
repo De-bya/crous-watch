@@ -35,18 +35,6 @@
     "city": "CORTE de",
     "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
-  "1537": {
-    "id": "1537",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1537",
-    "city": "ROSIERES PRES TROYES",
-    "text": "LEONARD DE VINCI 24 Place LÃ©onard De Vinci 10430 ROSIERES PRES TROYES 50 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo"
-  },
-  "1567": {
-    "id": "1567",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567",
-    "city": "CHARLEVILLE MEZIERES",
-    "text": "MAISON DES ETUDIANTS 38 Rue de Montjoly 08000 CHARLEVILLE MEZIERES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "1623": {
     "id": "1623",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623",
@@ -83,41 +71,11 @@
     "city": "La Roche sur Yon",
     "text": "RESIDENCE ALPHA CITY 135 boulevard Louis Blanc, 85000 La Roche sur Yon 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
-  "2282": {
-    "id": "2282",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2282",
-    "city": "PESSAC",
-    "text": "VILLAGE 3 9 Esplanade des Antilles 33600 PESSAC 9 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "2147": {
     "id": "2147",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2147",
     "city": "AGEN",
     "text": "CRESSONNIERE Av. Michel Serres 47000 AGEN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "2559": {
-    "id": "2559",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2559",
-    "city": "COMPIEGNE de",
-    "text": "RESIDENCE DU PARC 1, square Gabriel Auguste Ancelet 60200 COMPIEGNE de 76,5 Ã  94,4 mÂ² Colocation 1 lit simple PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
-  "1995": {
-    "id": "1995",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
-    "city": "CORTE de",
-    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
-  "2607": {
-    "id": "2607",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2607",
-    "city": "ANGERS CEDEX",
-    "text": "CITE BELLE BEILLE 8 - 10 BD BEAUSSIER 49045 ANGERS CEDEX 01 13 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
-  "2608": {
-    "id": "2608",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608",
-    "city": "MONT-DE-MARSAN",
-    "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "2789": {
     "id": "2789",
@@ -142,6 +100,18 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/584",
     "city": "PESSAC de",
     "text": "LUMIERES 2 avenue Jean Babin 33600 PESSAC de 100,96 Ã  102,56 mÂ² Colocation 4 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "315": {
+    "id": "315",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/315",
+    "city": "PERIGUEUX",
+    "text": "GRANDES ARCADES 49 rue JEAN SECRET 24000 PERIGUEUX 25 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
+  },
+  "910": {
+    "id": "910",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910",
+    "city": "CORTE de",
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
   "3106": {
     "id": "3106",
@@ -203,23 +173,35 @@
     "city": "BORDEAUX de",
     "text": "TAUZIN 32 - 36 CHEMIN DE POMEROL 33000 BORDEAUX de 30,84 Ã  36,3 mÂ² Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
-  "1084": {
-    "id": "1084",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1084",
-    "city": "SAINT-ETIENNE CEDEX",
-    "text": "RESIDENCE LA METARE 25 Boulevard Paul Michelon 42023 SAINT-ETIENNE CEDEX 2 10 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
   "1521": {
     "id": "1521",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521",
     "city": "CORTE",
     "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "2546": {
-    "id": "2546",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2546",
-    "city": "ANGERS",
-    "text": "RESIDENCE EINSTEIN 30, rue Marie Marvingt 49100 ANGERS 18,6 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  "2282": {
+    "id": "2282",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2282",
+    "city": "PESSAC",
+    "text": "VILLAGE 3 9 Esplanade des Antilles 33600 PESSAC 9 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2607": {
+    "id": "2607",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2607",
+    "city": "ANGERS CEDEX",
+    "text": "CITE BELLE BEILLE 8 - 10 BD BEAUSSIER 49045 ANGERS CEDEX 01 13 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "2608": {
+    "id": "2608",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608",
+    "city": "MONT-DE-MARSAN",
+    "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2559": {
+    "id": "2559",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2559",
+    "city": "COMPIEGNE de",
+    "text": "RESIDENCE DU PARC 1, square Gabriel Auguste Ancelet 60200 COMPIEGNE de 76,5 Ã  94,4 mÂ² Colocation 1 lit simple PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
   "2610": {
     "id": "2610",
@@ -227,10 +209,46 @@
     "city": "ANGERS de",
     "text": "RESIDENCE FLORA TRISTAN 1 au 5 square Flora Tristan 49000 ANGERS de 16 Ã  19,64 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
+  "2546": {
+    "id": "2546",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2546",
+    "city": "ANGERS",
+    "text": "RESIDENCE EINSTEIN 30, rue Marie Marvingt 49100 ANGERS 18,6 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1995": {
+    "id": "1995",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
+    "city": "CORTE de",
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "630": {
+    "id": "630",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630",
+    "city": "AVIGNON de",
+    "text": "RESIDENCE LA GARIDELLE 10, rue St Bernard - 84000 AVIGNON de 34,07 Ã  59,24 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo, Duplex"
+  },
   "1902": {
     "id": "1902",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1902",
     "city": "PESSAC de",
     "text": "VILLAGE 2 7 avenue PEY BERLAND 33600 PESSAC de 9,5 Ã  11,8 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1537": {
+    "id": "1537",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1537",
+    "city": "ROSIERES PRES TROYES",
+    "text": "LEONARD DE VINCI 24 Place LÃ©onard De Vinci 10430 ROSIERES PRES TROYES 50 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo"
+  },
+  "1084": {
+    "id": "1084",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1084",
+    "city": "SAINT-ETIENNE CEDEX",
+    "text": "RESIDENCE LA METARE 25 Boulevard Paul Michelon 42023 SAINT-ETIENNE CEDEX 2 10 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "2515": {
+    "id": "2515",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2515",
+    "city": "NIORT de",
+    "text": "RES. HENRI-GEORGES CLOUZOT 7 rue du Galuchet - 79000 NIORT de 18 Ã  20 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
