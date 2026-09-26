@@ -161,6 +161,54 @@
     "city": "CORTE de",
     "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
+  "482": {
+    "id": "482",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482",
+    "city": "PERIGUEUX",
+    "text": "PATIO 18 rue Combe des Dames 24000 PERIGUEUX 34 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "506": {
+    "id": "506",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506",
+    "city": "MONT-DE-MARSAN",
+    "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "584": {
+    "id": "584",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/584",
+    "city": "PESSAC de",
+    "text": "LUMIERES 2 avenue Jean Babin 33600 PESSAC de 100,96 Ã  102,56 mÂ² Colocation 4 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "630": {
+    "id": "630",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630",
+    "city": "AVIGNON de",
+    "text": "RESIDENCE LA GARIDELLE 10, rue St Bernard - 84000 AVIGNON de 34,07 Ã  59,24 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo, Duplex"
+  },
+  "315": {
+    "id": "315",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/315",
+    "city": "PERIGUEUX",
+    "text": "GRANDES ARCADES 49 rue JEAN SECRET 24000 PERIGUEUX 25 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
+  },
+  "330": {
+    "id": "330",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/330",
+    "city": "PESSAC",
+    "text": "JOSEPHINE BAKER 8 Rue Lucie Aubrac 33600 PESSAC 16 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "765": {
+    "id": "765",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/765",
+    "city": "SARREGUEMINES",
+    "text": "CU DOUAUMONT 17 Rue de Douaumont 57200 SARREGUEMINES 16 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "910": {
+    "id": "910",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910",
+    "city": "CORTE de",
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
   "3106": {
     "id": "3106",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
@@ -214,5 +262,11 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "2416": {
+    "id": "2416",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2416",
+    "city": "St MARTIN D HERES",
+    "text": "BERLIOZ Domaine Universitaire 38406 St MARTIN D HERES 12 mÂ² Individuel 1 lit simple Frigo"
   }
 }
