@@ -113,12 +113,6 @@
     "city": "ANGERS de",
     "text": "RESIDENCE FLORA TRISTAN 1 au 5 square Flora Tristan 49000 ANGERS de 16 Ã  19,64 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2774": {
-    "id": "2774",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2774",
-    "city": "LAVAL",
-    "text": "RESIDENCE ROBERT TATIN 5 place du 7 et 15 juin 1944 - 53000 LAVAL 18,48 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "2789": {
     "id": "2789",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
@@ -203,12 +197,6 @@
     "city": "BLOIS",
     "text": "DR DESFRAY 5 rue du Docteur Desfray 41000 BLOIS 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2546": {
-    "id": "2546",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2546",
-    "city": "ANGERS",
-    "text": "RESIDENCE EINSTEIN 30, rue Marie Marvingt 49100 ANGERS 18,6 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "321": {
     "id": "321",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/321",
@@ -233,35 +221,11 @@
     "city": "le Bourget du Lac",
     "text": "DJINN rue Lac saint AndrÃ© 73370 le Bourget du Lac 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "1828": {
-    "id": "1828",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1828",
-    "city": "Saint-Brieuc",
-    "text": "CU Loucheur 13 av. Loucheur 22000 Saint-Brieuc 21,6 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "2594": {
     "id": "2594",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2594",
     "city": "ANGERS CEDEX",
     "text": "CITE BELLE BEILLE 8 - 10 BD BEAUSSIER 49045 ANGERS CEDEX 01 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
-  },
-  "1569": {
-    "id": "1569",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1569",
-    "city": "BAYONNE",
-    "text": "EUGENE GOYHENECHE 6-8 rue MAYI DARIZCUREN 64100 BAYONNE 18,81 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
-  },
-  "1892": {
-    "id": "1892",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1892",
-    "city": "Rennes",
-    "text": "CU Patton 12 rue de Houx 35700 Rennes 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
-  },
-  "878": {
-    "id": "878",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/878",
-    "city": "JAUNAY CLAN",
-    "text": "RESIDENCE CENTRE DE VIE 20 Rue du BelvÃ©dÃ¨re - 86130 JAUNAY CLAN 35 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "1981": {
     "id": "1981",
@@ -269,23 +233,11 @@
     "city": "Rennes Cedex de",
     "text": "CU Maine 5/8 rue du Maine 35000 Rennes Cedex de 9 Ã  15 mÂ² Individuel 1 lit surÃ©levÃ© WC, Douche, Frigo"
   },
-  "2010": {
-    "id": "2010",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2010",
-    "city": "Rennes de",
-    "text": "CU Alsace 2 rue d'Alsace - 35000 Rennes de 9 Ã  12 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
-  },
   "765": {
     "id": "765",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/765",
     "city": "SARREGUEMINES",
     "text": "CU DOUAUMONT 17 Rue de Douaumont 57200 SARREGUEMINES 16 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "579": {
-    "id": "579",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/579",
-    "city": "PESSAC de",
-    "text": "LUMIERES 2 avenue Jean Babin 33600 PESSAC de 41,69 Ã  43,96 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
   "630": {
     "id": "630",
@@ -293,16 +245,58 @@
     "city": "AVIGNON de",
     "text": "RESIDENCE LA GARIDELLE 10, rue St Bernard - 84000 AVIGNON de 34,07 Ã  59,24 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo, Duplex"
   },
+  "2010": {
+    "id": "2010",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2010",
+    "city": "Rennes de",
+    "text": "CU Alsace 2 rue d'Alsace - 35000 Rennes de 9 Ã  12 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "2774": {
+    "id": "2774",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2774",
+    "city": "LAVAL",
+    "text": "RESIDENCE ROBERT TATIN 5 place du 7 et 15 juin 1944 - 53000 LAVAL 18,48 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "579": {
+    "id": "579",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/579",
+    "city": "PESSAC de",
+    "text": "LUMIERES 2 avenue Jean Babin 33600 PESSAC de 41,69 Ã  43,96 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "2546": {
+    "id": "2546",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2546",
+    "city": "ANGERS",
+    "text": "RESIDENCE EINSTEIN 30, rue Marie Marvingt 49100 ANGERS 18,6 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2450": {
+    "id": "2450",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2450",
+    "city": "La Roche sur Yon",
+    "text": "RESIDENCE ALPHA CITY 135 boulevard Louis Blanc, 85000 La Roche sur Yon 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
   "2240": {
     "id": "2240",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2240",
     "city": "BAYONNE",
     "text": "ARANCETTE 24 chemin d'Arancette 64100 BAYONNE 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "1021": {
-    "id": "1021",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1021",
-    "city": "AULNOY-LES-VALENCIENNES",
-    "text": "CitÃ© Jules Mousseron Rue du Chemin Vert 59300 AULNOY-LES-VALENCIENNES 10,8 mÂ² Individuel 1 lit simple WC, Douche"
+  "1569": {
+    "id": "1569",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1569",
+    "city": "BAYONNE",
+    "text": "EUGENE GOYHENECHE 6-8 rue MAYI DARIZCUREN 64100 BAYONNE 18,81 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
+  },
+  "1828": {
+    "id": "1828",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1828",
+    "city": "Saint-Brieuc",
+    "text": "CU Loucheur 13 av. Loucheur 22000 Saint-Brieuc 21,6 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1892": {
+    "id": "1892",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1892",
+    "city": "Rennes",
+    "text": "CU Patton 12 rue de Houx 35700 Rennes 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   }
 }
