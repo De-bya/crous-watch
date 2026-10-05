@@ -125,6 +125,24 @@
     "city": "BLOIS",
     "text": "MARIE-AMELIE LE FUR 7-9 rue Germaine Tillion 41000 BLOIS 28 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
+  "1643": {
+    "id": "1643",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1643",
+    "city": "BLOIS",
+    "text": "LES FLANDRES 37 Rue de Flandres 41000 BLOIS 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "321": {
+    "id": "321",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/321",
+    "city": "BOULOGNE-SUR-MER",
+    "text": "RÃ©sidence Saint Louis 7 rue Saint Louis 62200 BOULOGNE-SUR-MER 24 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2607": {
+    "id": "2607",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2607",
+    "city": "ANGERS CEDEX",
+    "text": "CITE BELLE BEILLE 8 - 10 BD BEAUSSIER 49045 ANGERS CEDEX 01 13 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
   "482": {
     "id": "482",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482",
@@ -142,6 +160,54 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/579",
     "city": "PESSAC de",
     "text": "LUMIERES 2 avenue Jean Babin 33600 PESSAC de 41,69 Ã  43,96 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "630": {
+    "id": "630",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630",
+    "city": "AVIGNON de",
+    "text": "RESIDENCE LA GARIDELLE 10, rue St Bernard - 84000 AVIGNON de 34,07 Ã  59,24 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo, Duplex"
+  },
+  "765": {
+    "id": "765",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/765",
+    "city": "SARREGUEMINES",
+    "text": "CU DOUAUMONT 17 Rue de Douaumont 57200 SARREGUEMINES 16 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "910": {
+    "id": "910",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910",
+    "city": "CORTE de",
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "1047": {
+    "id": "1047",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1047",
+    "city": "BLOIS",
+    "text": "DR DESFRAY 5 rue du Docteur Desfray 41000 BLOIS 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1079": {
+    "id": "1079",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1079",
+    "city": "BLOIS de",
+    "text": "DR DESFRAY 5 rue du Docteur Desfray 41000 BLOIS de 30,31 Ã  31,69 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo"
+  },
+  "2762": {
+    "id": "2762",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2762",
+    "city": "VALENCE de",
+    "text": "LATOUR MAUBOURG 79 Avenue de Chabeuil 26000 VALENCE de 17,46 Ã  21,86 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2774": {
+    "id": "2774",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2774",
+    "city": "LAVAL",
+    "text": "RESIDENCE ROBERT TATIN 5 place du 7 et 15 juin 1944 - 53000 LAVAL 18,48 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2789": {
+    "id": "2789",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789",
+    "city": "CORTE de",
+    "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
   "2862": {
     "id": "2862",
@@ -178,12 +244,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2273",
     "city": "ANGERS CEDEX",
     "text": "CITE LAKANAL 25 RUE LAMARCK 49045 ANGERS CEDEX 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
-  },
-  "2150": {
-    "id": "2150",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2150",
-    "city": "ANGERS",
-    "text": "CITE COUFFON PAVOT 1, rue LÃ©on Pavot 49100 ANGERS 14 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
   "2192": {
     "id": "2192",
@@ -238,18 +298,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2610",
     "city": "ANGERS de",
     "text": "RESIDENCE FLORA TRISTAN 1 au 5 square Flora Tristan 49000 ANGERS de 16 Ã  19,64 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "2762": {
-    "id": "2762",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2762",
-    "city": "VALENCE de",
-    "text": "LATOUR MAUBOURG 79 Avenue de Chabeuil 26000 VALENCE de 17,46 Ã  21,86 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "2774": {
-    "id": "2774",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2774",
-    "city": "LAVAL",
-    "text": "RESIDENCE ROBERT TATIN 5 place du 7 et 15 juin 1944 - 53000 LAVAL 18,48 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "3025": {
     "id": "3025",
