@@ -1,21 +1,9 @@
 {
-  "291": {
-    "id": "291",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/291",
-    "city": "BRIVE",
-    "text": "RÃ©sidence de Brive 21 rue AndrÃ© Devaud 19100 BRIVE 18 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
-  },
   "482": {
     "id": "482",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482",
     "city": "PERIGUEUX",
     "text": "PATIO 18 rue Combe des Dames 24000 PERIGUEUX 34 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
-  "168": {
-    "id": "168",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/168",
-    "city": "LAVAL",
-    "text": "RESIDENCE LA DORMERIE 54 RUE DOCTEURS CALMETTE ET GUERIN 53000 LAVAL 31 mÂ² Individuel, Couple 1 lit double PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
   "506": {
     "id": "506",
@@ -82,12 +70,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356",
     "city": "TULLE",
     "text": "RÃ©sidence de Souilhac 35 rue d'Arsonval 19000 TULLE 12 mÂ² Colocation, Individuel 2 lits simples WC, Douche, Evier + plaque, Frigo"
-  },
-  "1426": {
-    "id": "1426",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426",
-    "city": "Lannion Cedex",
-    "text": "CU Branly Rue Edouard Branly 22302 Lannion Cedex 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   },
   "1471": {
     "id": "1471",
@@ -245,18 +227,6 @@
     "city": "GRENOBLE de",
     "text": "GALILEE 6 place Pasteur - 38100 GRENOBLE de 16,1 Ã  29,8 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
-  "2008": {
-    "id": "2008",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2008",
-    "city": "YUTZ",
-    "text": "CU DAUPHINE BRETAGNE 2/4/6 Rue du DauphinÃ© & 6/10/12 Rue de Bretagne 57970 YUTZ 95 mÂ² Colocation 3 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde, Balcon"
-  },
-  "2756": {
-    "id": "2756",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2756",
-    "city": "Cannes La Bocca",
-    "text": "RÃ©sidence Nouvelle Vague 218 Avenue Francis Tonner - 06150 Cannes La Bocca 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
   "2774": {
     "id": "2774",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2774",
@@ -281,12 +251,6 @@
     "city": "Saint-BrieucÂ",
     "text": "CU Villes DorÃ©es 56A rue Lafayette 22000 Saint-BrieucÂ 17,76 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "3261": {
-    "id": "3261",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3261",
-    "city": "BLOIS",
-    "text": "MARIE-AMELIE LE FUR 7-9 rue Germaine Tillion 41000 BLOIS 28 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "3106": {
     "id": "3106",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
@@ -299,12 +263,6 @@
     "city": "VALENCE",
     "text": "CLACTON 20 RUE CLACTON TENDRING 26000 VALENCE 36 mÂ² Individuel 1 lit rapprochable PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Duplex"
   },
-  "2216": {
-    "id": "2216",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2216",
-    "city": "TOULON CEDEX",
-    "text": "RÃ©sidence le Faron CROUS NICE TOULON - Site du Var CS80577 - 83041 TOULON CEDEX 9 20 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "223": {
     "id": "223",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/223",
@@ -316,12 +274,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/188",
     "city": "LAVAL",
     "text": "RESIDENCE LA DORMERIE 54 RUE DOCTEURS CALMETTE ET GUERIN 53000 LAVAL 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "15": {
-    "id": "15",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/15",
-    "city": "CANNES",
-    "text": "RÃ©sidence Les ClÃ©mentines 13 boulevard d Oxford - 06400 - CANNES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
   "36": {
     "id": "36",
@@ -346,12 +298,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1197",
     "city": "BELFORT",
     "text": "Residence J.P. Sartre 1, rue Gaston DEFERRE - 90000 BELFORT - 51 mÂ² Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
-  "1706": {
-    "id": "1706",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1706",
-    "city": "VALBONNE",
-    "text": "RÃ©sidence Newton 2400 route des Dolines - 06560 VALBONNE 21 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
   },
   "1286": {
     "id": "1286",
@@ -401,16 +347,64 @@
     "city": "Maubeuge",
     "text": "RÃ©sidence Gaston Adriensence 2 rue du Docteur Paul Jean 59600 Maubeuge 37,93 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Duplex"
   },
+  "227": {
+    "id": "227",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/227",
+    "city": "AULNOY-LES-VALENCIENNES",
+    "text": "CitÃ© Jules Mousseron Rue du Chemin Vert 59300 AULNOY-LES-VALENCIENNES 12,5 mÂ² Individuel 1 lit simple WC, Douche"
+  },
+  "168": {
+    "id": "168",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/168",
+    "city": "LAVAL",
+    "text": "RESIDENCE LA DORMERIE 54 RUE DOCTEURS CALMETTE ET GUERIN 53000 LAVAL 31 mÂ² Individuel, Couple 1 lit double PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
   "1279": {
     "id": "1279",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1279",
     "city": "DIJON de",
     "text": "RÃ©sidence Mansart 94 Boulevard Mansart 21000 DIJON de 9 Ã  17,5 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   },
-  "227": {
-    "id": "227",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/227",
-    "city": "AULNOY-LES-VALENCIENNES",
-    "text": "CitÃ© Jules Mousseron Rue du Chemin Vert 59300 AULNOY-LES-VALENCIENNES 12,5 mÂ² Individuel 1 lit simple WC, Douche"
+  "291": {
+    "id": "291",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/291",
+    "city": "BRIVE",
+    "text": "RÃ©sidence de Brive 21 rue AndrÃ© Devaud 19100 BRIVE 18 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "1706": {
+    "id": "1706",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1706",
+    "city": "VALBONNE",
+    "text": "RÃ©sidence Newton 2400 route des Dolines - 06560 VALBONNE 21 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
+  },
+  "1426": {
+    "id": "1426",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426",
+    "city": "Lannion Cedex",
+    "text": "CU Branly Rue Edouard Branly 22302 Lannion Cedex 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "2756": {
+    "id": "2756",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2756",
+    "city": "Cannes La Bocca",
+    "text": "RÃ©sidence Nouvelle Vague 218 Avenue Francis Tonner - 06150 Cannes La Bocca 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "28": {
+    "id": "28",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/28",
+    "city": "VALBONNE",
+    "text": "RÃ©sidence les Dolines 2255 route des Dolines - 06560 VALBONNE 21 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
+  },
+  "15": {
+    "id": "15",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/15",
+    "city": "CANNES",
+    "text": "RÃ©sidence Les ClÃ©mentines 13 boulevard d Oxford - 06400 - CANNES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "2216": {
+    "id": "2216",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2216",
+    "city": "TOULON CEDEX",
+    "text": "RÃ©sidence le Faron CROUS NICE TOULON - Site du Var CS80577 - 83041 TOULON CEDEX 9 20 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
