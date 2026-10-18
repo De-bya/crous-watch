@@ -47,23 +47,11 @@
     "city": "BLOIS de",
     "text": "DR DESFRAY 5 rue du Docteur Desfray 41000 BLOIS de 30,31 Ã  31,69 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo"
   },
-  "6": {
-    "id": "6",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6",
-    "city": "TULLE",
-    "text": "RÃ©sidence de Souilhac 35 rue d'Arsonval 19000 TULLE 26 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "40": {
     "id": "40",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/40",
     "city": "VALBONNE",
     "text": "RÃ©sidence les Dolines 2255 route des Dolines - 06560 VALBONNE 32 mÂ² Individuel, Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo, Balcon"
-  },
-  "1301": {
-    "id": "1301",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1301",
-    "city": "MONTBELIARD",
-    "text": "Residence RenÃ© THOM 37 avenue clemenceau - 25200 MONTBELIARD 24 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "1356": {
     "id": "1356",
@@ -161,23 +149,11 @@
     "city": "La Roche sur Yon",
     "text": "RESIDENCE ALPHA CITY 135 boulevard Louis Blanc, 85000 La Roche sur Yon 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
-  "2477": {
-    "id": "2477",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
-    "city": "CORTE de",
-    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
   "2228": {
     "id": "2228",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2228",
     "city": "TOULON CEDEX",
     "text": "RÃ©sidence le Faron CROUS NICE TOULON - Site du Var CS80577 - 83041 TOULON CEDEX 9 30 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche"
-  },
-  "2122": {
-    "id": "2122",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2122",
-    "city": "TOULON CEDEX",
-    "text": "RÃ©sidence le Coudon CROUS NICE TOULON - Site du Var CS80577 - 83041 TOULON CEDEX 9 11,8 mÂ² Individuel 1 lit simple WC, Douche"
   },
   "2508": {
     "id": "2508",
@@ -220,12 +196,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608",
     "city": "MONT-DE-MARSAN",
     "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "2688": {
-    "id": "2688",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688",
-    "city": "GRENOBLE de",
-    "text": "GALILEE 6 place Pasteur - 38100 GRENOBLE de 16,1 Ã  29,8 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
   "2774": {
     "id": "2774",
@@ -275,18 +245,6 @@
     "city": "LAVAL",
     "text": "RESIDENCE LA DORMERIE 54 RUE DOCTEURS CALMETTE ET GUERIN 53000 LAVAL 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "36": {
-    "id": "36",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/36",
-    "city": "PAU de",
-    "text": "CLE DES CHAMPS 7 RUE SAINT JOHN PERSE 64000 PAU de 22 Ã  35 mÂ² Individuel, Colocation 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
-  },
-  "1981": {
-    "id": "1981",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1981",
-    "city": "Rennes Cedex de",
-    "text": "CU Maine 5/8 rue du Maine 35000 Rennes Cedex de 9 Ã  15 mÂ² Individuel 1 lit surÃ©levÃ© WC, Douche, Frigo"
-  },
   "630": {
     "id": "630",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630",
@@ -305,23 +263,17 @@
     "city": "DIJON",
     "text": "RÃ©sidence Maret 3, rue du Docteur Maret 21000 DIJON 10 mÂ² Individuel 1 lit simple Frigo"
   },
-  "2317": {
-    "id": "2317",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2317",
-    "city": "LIMOGES CÃ",
-    "text": "RÃ©sidence Ester Parc Ester, Rue GÃ©mini 87069 LIMOGES CÃ©dex 30 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "2141": {
     "id": "2141",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2141",
     "city": "AULNOY-LEZ-VALENCIENNES",
     "text": "RÃ©sidence Gustave Ansart Rue Colette 59300 AULNOY-LEZ-VALENCIENNES 23 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "270": {
-    "id": "270",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/270",
-    "city": "LONGUENESSE",
-    "text": "RÃ©sidence Olympie Avenue Descartes 62219 LONGUENESSE 25 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  "2317": {
+    "id": "2317",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2317",
+    "city": "LIMOGES CÃ",
+    "text": "RÃ©sidence Ester Parc Ester, Rue GÃ©mini 87069 LIMOGES CÃ©dex 30 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "1458": {
     "id": "1458",
@@ -329,23 +281,29 @@
     "city": "CORTE de",
     "text": "Residence Pascal MARTIN 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 16 Ã  18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
+  "270": {
+    "id": "270",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/270",
+    "city": "LONGUENESSE",
+    "text": "RÃ©sidence Olympie Avenue Descartes 62219 LONGUENESSE 25 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
   "1047": {
     "id": "1047",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1047",
     "city": "BLOIS",
     "text": "DR DESFRAY 5 rue du Docteur Desfray 41000 BLOIS 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "910": {
-    "id": "910",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910",
-    "city": "CORTE de",
-    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
   "2903": {
     "id": "2903",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2903",
     "city": "Maubeuge",
     "text": "RÃ©sidence Gaston Adriensence 2 rue du Docteur Paul Jean 59600 Maubeuge 37,93 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Duplex"
+  },
+  "910": {
+    "id": "910",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910",
+    "city": "CORTE de",
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
   "227": {
     "id": "227",
@@ -365,18 +323,6 @@
     "city": "DIJON de",
     "text": "RÃ©sidence Mansart 94 Boulevard Mansart 21000 DIJON de 9 Ã  17,5 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   },
-  "291": {
-    "id": "291",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/291",
-    "city": "BRIVE",
-    "text": "RÃ©sidence de Brive 21 rue AndrÃ© Devaud 19100 BRIVE 18 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
-  },
-  "1706": {
-    "id": "1706",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1706",
-    "city": "VALBONNE",
-    "text": "RÃ©sidence Newton 2400 route des Dolines - 06560 VALBONNE 21 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
-  },
   "1426": {
     "id": "1426",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426",
@@ -389,11 +335,11 @@
     "city": "Cannes La Bocca",
     "text": "RÃ©sidence Nouvelle Vague 218 Avenue Francis Tonner - 06150 Cannes La Bocca 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
-  "28": {
-    "id": "28",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/28",
-    "city": "VALBONNE",
-    "text": "RÃ©sidence les Dolines 2255 route des Dolines - 06560 VALBONNE 21 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
+  "291": {
+    "id": "291",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/291",
+    "city": "BRIVE",
+    "text": "RÃ©sidence de Brive 21 rue AndrÃ© Devaud 19100 BRIVE 18 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   },
   "15": {
     "id": "15",
@@ -406,5 +352,47 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2216",
     "city": "TOULON CEDEX",
     "text": "RÃ©sidence le Faron CROUS NICE TOULON - Site du Var CS80577 - 83041 TOULON CEDEX 9 20 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1706": {
+    "id": "1706",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1706",
+    "city": "VALBONNE",
+    "text": "RÃ©sidence Newton 2400 route des Dolines - 06560 VALBONNE 21 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
+  },
+  "2688": {
+    "id": "2688",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688",
+    "city": "GRENOBLE de",
+    "text": "GALILEE 6 place Pasteur - 38100 GRENOBLE de 16,1 Ã  29,8 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "2477": {
+    "id": "2477",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477",
+    "city": "CORTE de",
+    "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "2122": {
+    "id": "2122",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2122",
+    "city": "TOULON CEDEX",
+    "text": "RÃ©sidence le Coudon CROUS NICE TOULON - Site du Var CS80577 - 83041 TOULON CEDEX 9 11,8 mÂ² Individuel 1 lit simple WC, Douche"
+  },
+  "36": {
+    "id": "36",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/36",
+    "city": "PAU de",
+    "text": "CLE DES CHAMPS 7 RUE SAINT JOHN PERSE 64000 PAU de 22 Ã  35 mÂ² Individuel, Colocation 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
+  },
+  "1981": {
+    "id": "1981",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1981",
+    "city": "Rennes Cedex de",
+    "text": "CU Maine 5/8 rue du Maine 35000 Rennes Cedex de 9 Ã  15 mÂ² Individuel 1 lit surÃ©levÃ© WC, Douche, Frigo"
+  },
+  "1301": {
+    "id": "1301",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1301",
+    "city": "MONTBELIARD",
+    "text": "Residence RenÃ© THOM 37 avenue clemenceau - 25200 MONTBELIARD 24 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
