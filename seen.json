@@ -1,16 +1,4 @@
 {
-  "227": {
-    "id": "227",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/227",
-    "city": "AULNOY-LES-VALENCIENNES",
-    "text": "CitÃ© Jules Mousseron Rue du Chemin Vert 59300 AULNOY-LES-VALENCIENNES 12,5 mÂ² Individuel 1 lit simple WC, Douche"
-  },
-  "270": {
-    "id": "270",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/270",
-    "city": "LONGUENESSE",
-    "text": "RÃ©sidence Olympie Avenue Descartes 62219 LONGUENESSE 25 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "291": {
     "id": "291",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/291",
@@ -23,12 +11,6 @@
     "city": "PERIGUEUX",
     "text": "PATIO 18 rue Combe des Dames 24000 PERIGUEUX 34 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
   },
-  "188": {
-    "id": "188",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/188",
-    "city": "LAVAL",
-    "text": "RESIDENCE LA DORMERIE 54 RUE DOCTEURS CALMETTE ET GUERIN 53000 LAVAL 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "506": {
     "id": "506",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506",
@@ -40,18 +22,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522",
     "city": "MONT-DE-MARSAN",
     "text": "LE VELUM Avenue du Commandant CLERE 40000 MONT-DE-MARSAN 29 mÂ² Colocation 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
-  "582": {
-    "id": "582",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/582",
-    "city": "LE MANS",
-    "text": "RESIDENCE  BARTHOLDI 14 Ã  24bis AVENUE BARTHOLDI - 72000 LE MANS 0 mÂ² Individuel, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Duplex"
-  },
-  "631": {
-    "id": "631",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/631",
-    "city": "PERPIGNAN",
-    "text": "RESIDENCE CANIGOU 18 Bis Avenue ALFRED SAUVY 66100 PERPIGNAN 29,55 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
   },
   "651": {
     "id": "651",
@@ -88,12 +58,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995",
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14 Ã  17,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
-  },
-  "1521": {
-    "id": "1521",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521",
-    "city": "CORTE",
-    "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
   "1567": {
     "id": "1567",
@@ -155,12 +119,6 @@
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 9,9 Ã  11,9 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "2216": {
-    "id": "2216",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2216",
-    "city": "TOULON CEDEX",
-    "text": "RÃ©sidence le Faron CROUS NICE TOULON - Site du Var CS80577 - 83041 TOULON CEDEX 9 20 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "2228": {
     "id": "2228",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2228",
@@ -172,12 +130,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2242",
     "city": "PERPIGNAN",
     "text": "RESIDENCE WILSON 18 BOULEVARD WILSON 66000 PERPIGNAN 54 mÂ² Individuel 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Duplex"
-  },
-  "2147": {
-    "id": "2147",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2147",
-    "city": "AGEN",
-    "text": "CRESSONNIERE Av. Michel Serres 47000 AGEN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "2555": {
     "id": "2555",
@@ -197,12 +149,6 @@
     "city": "MONT-DE-MARSAN",
     "text": "BOSQUET 269 place de la caserne Bosquet 40000 MONT-DE-MARSAN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2610": {
-    "id": "2610",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2610",
-    "city": "ANGERS de",
-    "text": "RESIDENCE FLORA TRISTAN 1 au 5 square Flora Tristan 49000 ANGERS de 16 Ã  19,64 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "2715": {
     "id": "2715",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715",
@@ -214,12 +160,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2756",
     "city": "Cannes La Bocca",
     "text": "RÃ©sidence Nouvelle Vague 218 Avenue Francis Tonner - 06150 Cannes La Bocca 19 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
-  "2774": {
-    "id": "2774",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2774",
-    "city": "LAVAL",
-    "text": "RESIDENCE ROBERT TATIN 5 place du 7 et 15 juin 1944 - 53000 LAVAL 18,48 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "2789": {
     "id": "2789",
@@ -263,12 +203,6 @@
     "city": "Maubeuge de",
     "text": "RÃ©sidence Gaston Adriensence 2 rue du Docteur Paul Jean 59600 Maubeuge de 23,11 Ã  23,92 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Duplex"
   },
-  "915": {
-    "id": "915",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/915",
-    "city": "JAUNAY CLAN",
-    "text": "RESIDENCE CENTRE DE VIE 20 Rue du BelvÃ©dÃ¨re - 86130 JAUNAY CLAN 65 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo, Duplex"
-  },
   "1263": {
     "id": "1263",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1263",
@@ -287,17 +221,17 @@
     "city": "BOURGES de",
     "text": "HOTEL DIEU 11 rue du Pont Merlan 18000 BOURGES de 27,6 Ã  39,2 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo"
   },
-  "866": {
-    "id": "866",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/866",
-    "city": "CHATEAUROUX de",
-    "text": "CHARLEMAGNE 4 rue Saint Luc 36000 CHATEAUROUX de 30 Ã  33 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo"
-  },
   "1654": {
     "id": "1654",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1654",
     "city": "BLOIS",
     "text": "LES FLANDRES 37 Rue de Flandres 41000 BLOIS 35 mÂ² Individuel, Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo"
+  },
+  "866": {
+    "id": "866",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/866",
+    "city": "CHATEAUROUX de",
+    "text": "CHARLEMAGNE 4 rue Saint Luc 36000 CHATEAUROUX de 30 Ã  33 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo"
   },
   "3130": {
     "id": "3130",
@@ -310,12 +244,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1632",
     "city": "ISSOUDUN",
     "text": "LES COINCHETTES 21 Bis route de la Pomme 36100 ISSOUDUN 30 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo"
-  },
-  "1939": {
-    "id": "1939",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1939",
-    "city": "NIMES CÃ",
-    "text": "RESIDENCE TOUR MAGNE 45 bis, rue MÃ©nard 30021 NIMES CÃ©dex 1 de 28 Ã  54 mÂ² Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
   },
   "1107": {
     "id": "1107",
@@ -335,23 +263,11 @@
     "city": "Perpignan Cedex de",
     "text": "CITE MOULIN A VENT 26 Av. Alfred Sauvy 66100 Perpignan Cedex de 8,9 Ã  9,7 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   },
-  "1426": {
-    "id": "1426",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426",
-    "city": "Lannion Cedex",
-    "text": "CU Branly Rue Edouard Branly 22302 Lannion Cedex 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
-  },
   "2886": {
     "id": "2886",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2886",
     "city": "Saint-BrieucÂ",
     "text": "CU Villes DorÃ©es 56A rue Lafayette 22000 Saint-BrieucÂ 17,76 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "2010": {
-    "id": "2010",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2010",
-    "city": "Rennes de",
-    "text": "CU Alsace 2 rue d'Alsace - 35000 Rennes de 9 Ã  12 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   },
   "1180": {
     "id": "1180",
@@ -365,12 +281,6 @@
     "city": "Perpignan de",
     "text": "RESIDENCE LA GRALLA 24 rue de Cerdagne 66000 Perpignan de 28,95 Ã  38,2 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2250": {
-    "id": "2250",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2250",
-    "city": "COMPIEGNE de",
-    "text": "RESIDENCE DU PARC 1, square Gabriel Auguste Ancelet 60200 COMPIEGNE de 16,55 Ã  23,8 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "1892": {
     "id": "1892",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1892",
@@ -382,30 +292,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/325",
     "city": "BOULOGNE-SUR-MER",
     "text": "RÃ©sidence Saint Louis 7 rue Saint Louis 62200 BOULOGNE-SUR-MER 29 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "1179": {
-    "id": "1179",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1179",
-    "city": "Rennes de",
-    "text": "CU Beaulieu 9 rue Louis Arretche 35700 Rennes de 9 Ã  12 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
-  },
-  "2594": {
-    "id": "2594",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2594",
-    "city": "ANGERS CEDEX",
-    "text": "CITE BELLE BEILLE 8 - 10 BD BEAUSSIER 49045 ANGERS CEDEX 01 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
-  },
-  "1706": {
-    "id": "1706",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1706",
-    "city": "VALBONNE",
-    "text": "RÃ©sidence Newton 2400 route des Dolines - 06560 VALBONNE 21 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
-  },
-  "28": {
-    "id": "28",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/28",
-    "city": "VALBONNE",
-    "text": "RÃ©sidence les Dolines 2255 route des Dolines - 06560 VALBONNE 21 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
   },
   "1686": {
     "id": "1686",
@@ -419,47 +305,11 @@
     "city": "Saint-Brieuc",
     "text": "CU Loucheur 13 av. Loucheur 22000 Saint-Brieuc 21,6 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
-  "2725": {
-    "id": "2725",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2725",
-    "city": "LYON",
-    "text": "RESIDENCE LES GIRONDINS 39 rue PrÃ© Gaudry 69007 LYON 100 mÂ² Colocation 6 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
   "1471": {
     "id": "1471",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1471",
     "city": "ROANNE de",
     "text": "RESIDENCE ROANNE 20/22 rue Raoul Follereau 42300 ROANNE de 19 Ã  20,39 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "15": {
-    "id": "15",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/15",
-    "city": "CANNES",
-    "text": "RÃ©sidence Les ClÃ©mentines 13 boulevard d Oxford - 06400 - CANNES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
-  "1579": {
-    "id": "1579",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1579",
-    "city": "NIMES CÃ",
-    "text": "RESIDENCE TOUR MAGNE 45 bis, rue MÃ©nard 30021 NIMES CÃ©dex 1 de 14 Ã  28,8 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "2220": {
-    "id": "2220",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2220",
-    "city": "NIMES CEDEX",
-    "text": "RESIDENCE GEORGE BESSE 100 Rue Georges BESSE 30035 NIMES CEDEX 1 33 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "2754": {
-    "id": "2754",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2754",
-    "city": "Ville inconnue",
-    "text": "RESIDENCE SAINT CESAIRE 258 Chemin du Moulin Ã  Vent Quartier Saint Cesaire 30 000 NÃ®mes de 63,4 Ã  69,8 mÂ² Colocation 4 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
-  "1690": {
-    "id": "1690",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1690",
-    "city": "NÃ",
-    "text": "RESIDENCE LES PALMES Parc Scientifique Georges Besse - 30, AllÃ©e Norbert Wiener - 30000 NÃ®mes de 20,85 Ã  25,99 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "315": {
     "id": "315",
@@ -473,29 +323,11 @@
     "city": "PERPIGNAN de",
     "text": "RESIDENCE CANIGOU 18 Bis Avenue ALFRED SAUVY 66100 PERPIGNAN de 20,78 Ã  29,55 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
   },
-  "209": {
-    "id": "209",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/209",
-    "city": "VALENCIENNES",
-    "text": "RÃ©sidence Les Tertiales Avenue de l'Industrie 59300 VALENCIENNES 34,5 mÂ² Individuel 1 lit simple PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
-  "832": {
-    "id": "832",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/832",
-    "city": "PERPIGNAN",
-    "text": "RESIDENCE TRAMUNTANA 63 CHEMIN DE LA PASSIO VELLA 66100 PERPIGNAN 22 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
   "630": {
     "id": "630",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630",
     "city": "AVIGNON de",
     "text": "RESIDENCE LA GARIDELLE 10, rue St Bernard - 84000 AVIGNON de 34,07 Ã  59,24 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo, Duplex"
-  },
-  "2273": {
-    "id": "2273",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2273",
-    "city": "ANGERS CEDEX",
-    "text": "CITE LAKANAL 25 RUE LAMARCK 49045 ANGERS CEDEX 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   },
   "2508": {
     "id": "2508",
@@ -527,11 +359,173 @@
     "city": "",
     "text": "Residence Duvillard 2 rue Ernest Duvillard - BP 80523 - 90016 BELFORT CEDEX 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
   },
+  "822": {
+    "id": "822",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/822",
+    "city": "AMIENS de",
+    "text": "RESIDENCE COTEAU 11 Ã  19 AllÃ©e du Coteau 80000 AMIENS de 32,69 Ã  37,53 mÂ² Individuel, Couple 1 lit double PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "2220": {
+    "id": "2220",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2220",
+    "city": "NIMES CEDEX",
+    "text": "RESIDENCE GEORGE BESSE 100 Rue Georges BESSE 30035 NIMES CEDEX 1 33 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1690": {
+    "id": "1690",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1690",
+    "city": "NÃ",
+    "text": "RESIDENCE LES PALMES Parc Scientifique Georges Besse - 30, AllÃ©e Norbert Wiener - 30000 NÃ®mes de 20,85 Ã  25,99 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1939": {
+    "id": "1939",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1939",
+    "city": "NIMES CÃ",
+    "text": "RESIDENCE TOUR MAGNE 45 bis, rue MÃ©nard 30021 NIMES CÃ©dex 1 de 28 Ã  54 mÂ² Individuel 2 lits rapprochables WC, Douche, Evier + plaque, Frigo"
+  },
+  "1179": {
+    "id": "1179",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1179",
+    "city": "Rennes de",
+    "text": "CU Beaulieu 9 rue Louis Arretche 35700 Rennes de 9 Ã  12 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "832": {
+    "id": "832",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/832",
+    "city": "PERPIGNAN",
+    "text": "RESIDENCE TRAMUNTANA 63 CHEMIN DE LA PASSIO VELLA 66100 PERPIGNAN 22 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1521": {
+    "id": "1521",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521",
+    "city": "CORTE",
+    "text": "Residence Pascal Paoli 1 22, avenue Jean NICOLI, BP 55, 20250 CORTE 12 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
+  },
+  "270": {
+    "id": "270",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/270",
+    "city": "LONGUENESSE",
+    "text": "RÃ©sidence Olympie Avenue Descartes 62219 LONGUENESSE 25 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2250": {
+    "id": "2250",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2250",
+    "city": "COMPIEGNE de",
+    "text": "RESIDENCE DU PARC 1, square Gabriel Auguste Ancelet 60200 COMPIEGNE de 16,55 Ã  23,8 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2010": {
+    "id": "2010",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2010",
+    "city": "Rennes de",
+    "text": "CU Alsace 2 rue d'Alsace - 35000 Rennes de 9 Ã  12 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "2147": {
+    "id": "2147",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2147",
+    "city": "AGEN",
+    "text": "CRESSONNIERE Av. Michel Serres 47000 AGEN 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "1426": {
+    "id": "1426",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426",
+    "city": "Lannion Cedex",
+    "text": "CU Branly Rue Edouard Branly 22302 Lannion Cedex 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "421": {
+    "id": "421",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/421",
+    "city": "NANTES",
+    "text": "RESIDENCE LONGCHAMP BAT C - 79, rue de la GaudiniÃ¨re / BAT D - 1, rue Maurice Chevalier 44300 NANTES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "398": {
+    "id": "398",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/398",
+    "city": "ANGERS",
+    "text": "RESIDENCE LES HAUTS DE SAINT AUBIN 116 Bd Jean Moulin 49100 ANGERS 20,2 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2212": {
+    "id": "2212",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2212",
+    "city": "NANTES CEDEX",
+    "text": "CITE FRESCHE BLANC 60, rue du Fresche Blanc BP 42221 44322 NANTES CEDEX 3 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "2104": {
+    "id": "2104",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2104",
+    "city": "NANTES CEDEX",
+    "text": "CITE CASTERNEAU 32, Rue des AgenÃªts - 44042 NANTES CEDEX 1 14 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2243": {
+    "id": "2243",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2243",
+    "city": "NANTES CEDEX",
+    "text": "CITE LA BOURGEONNIERE 5-7 RUE DES RENARDS BP 52222 44322 NANTES CEDEX 3 de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "624": {
+    "id": "624",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/624",
+    "city": "NANTES",
+    "text": "RESIDENCE WANGARI MAATHAI 14 Chemin Launay Violette 44300 NANTES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "600": {
+    "id": "600",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/600",
+    "city": "ANGERS",
+    "text": "RESIDENCE VOLTA 10, rue Lakanal 49000 ANGERS 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2273": {
+    "id": "2273",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2273",
+    "city": "ANGERS CEDEX",
+    "text": "CITE LAKANAL 25 RUE LAMARCK 49045 ANGERS CEDEX 9 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "631": {
+    "id": "631",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/631",
+    "city": "PERPIGNAN",
+    "text": "RESIDENCE CANIGOU 18 Bis Avenue ALFRED SAUVY 66100 PERPIGNAN 29,55 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
+  },
   "1128": {
     "id": "1128",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1128",
     "city": "DIJON",
     "text": "Antipodes Avenue Alain Savary 21000 DIJON 18,04 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "28": {
+    "id": "28",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/28",
+    "city": "VALBONNE",
+    "text": "RÃ©sidence les Dolines 2255 route des Dolines - 06560 VALBONNE 21 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
+  },
+  "15": {
+    "id": "15",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/15",
+    "city": "CANNES",
+    "text": "RÃ©sidence Les ClÃ©mentines 13 boulevard d Oxford - 06400 - CANNES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "209": {
+    "id": "209",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/209",
+    "city": "VALENCIENNES",
+    "text": "RÃ©sidence Les Tertiales Avenue de l'Industrie 59300 VALENCIENNES 34,5 mÂ² Individuel 1 lit simple PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  },
+  "970": {
+    "id": "970",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/970",
+    "city": "BORDEAUX",
+    "text": "MARNE 99-101 COURS DE LA MARNE 33000 BORDEAUX 18,33 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "2216": {
+    "id": "2216",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2216",
+    "city": "TOULON CEDEX",
+    "text": "RÃ©sidence le Faron CROUS NICE TOULON - Site du Var CS80577 - 83041 TOULON CEDEX 9 20 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "227": {
+    "id": "227",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/227",
+    "city": "AULNOY-LES-VALENCIENNES",
+    "text": "CitÃ© Jules Mousseron Rue du Chemin Vert 59300 AULNOY-LES-VALENCIENNES 12,5 mÂ² Individuel 1 lit simple WC, Douche"
   },
   "2565": {
     "id": "2565",
@@ -539,34 +533,16 @@
     "city": "Orsay de",
     "text": "Saclay-Eileen Gray 2 rue Sophie Germain 91400 Orsay de 76,9 Ã  80,11 mÂ² Individuel, Colocation 4 lits simples WC, Douche, Evier + plaque, Frigo, Micro-onde, Balcon"
   },
-  "2175": {
-    "id": "2175",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2175",
-    "city": "CLERMONT-FD",
-    "text": "Gare 58 Avenue de l Union SoviÃ©tique - 63000 CLERMONT-FD 25 mÂ² Individuel, Colocation 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
+  "2688": {
+    "id": "2688",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688",
+    "city": "GRENOBLE de",
+    "text": "GALILEE 6 place Pasteur - 38100 GRENOBLE de 16,1 Ã  29,8 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
-  "822": {
-    "id": "822",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/822",
-    "city": "AMIENS de",
-    "text": "RESIDENCE COTEAU 11 Ã  19 AllÃ©e du Coteau 80000 AMIENS de 32,69 Ã  37,53 mÂ² Individuel, Couple 1 lit double PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
-  "2639": {
-    "id": "2639",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2639",
-    "city": "LYON Cedex",
-    "text": "RESIDENCE ALLIX 2 rue soeur Bouvier 69322 LYON Cedex 05 de 80 Ã  90 mÂ² Colocation 6 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
-  "2749": {
-    "id": "2749",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2749",
-    "city": "Lyon de",
-    "text": "RESIDENCE BARRE-SINOUSSI 15 rue Guillaume Paradin 69008 Lyon de 56 Ã  60 mÂ² Colocation 3 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde"
-  },
-  "32": {
-    "id": "32",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/32",
-    "city": "LYON Cedex",
-    "text": "RESIDENCE ALLIX 2 rue soeur Bouvier 69322 LYON Cedex 05 de 10 Ã  11 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  "1706": {
+    "id": "1706",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1706",
+    "city": "VALBONNE",
+    "text": "RÃ©sidence Newton 2400 route des Dolines - 06560 VALBONNE 21 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
   }
 }
