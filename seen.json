@@ -1,15 +1,27 @@
 {
+  "270": {
+    "id": "270",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/270",
+    "city": "LONGUENESSE",
+    "text": "RÃ©sidence Olympie Avenue Descartes 62219 LONGUENESSE 25 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
+  "291": {
+    "id": "291",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/291",
+    "city": "BRIVE",
+    "text": "RÃ©sidence de Brive 21 rue AndrÃ© Devaud 19100 BRIVE 18 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
+  },
+  "325": {
+    "id": "325",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/325",
+    "city": "BOULOGNE-SUR-MER",
+    "text": "RÃ©sidence Saint Louis 7 rue Saint Louis 62200 BOULOGNE-SUR-MER 29 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
+  },
   "6": {
     "id": "6",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6",
     "city": "TULLE",
     "text": "RÃ©sidence de Souilhac 35 rue d'Arsonval 19000 TULLE 26 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "15": {
-    "id": "15",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/15",
-    "city": "CANNES",
-    "text": "RÃ©sidence Les ClÃ©mentines 13 boulevard d Oxford - 06400 - CANNES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
   "1458": {
     "id": "1458",
@@ -71,29 +83,11 @@
     "city": "CORTE de",
     "text": "Residence Farrandu ETTORI 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 14,5 Ã  17 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
   },
-  "270": {
-    "id": "270",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/270",
-    "city": "LONGUENESSE",
-    "text": "RÃ©sidence Olympie Avenue Descartes 62219 LONGUENESSE 25 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "291": {
-    "id": "291",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/291",
-    "city": "BRIVE",
-    "text": "RÃ©sidence de Brive 21 rue AndrÃ© Devaud 19100 BRIVE 18 mÂ² Individuel 1 lit simple WC, Douche, Frigo"
-  },
-  "325": {
-    "id": "325",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/325",
-    "city": "BOULOGNE-SUR-MER",
-    "text": "RÃ©sidence Saint Louis 7 rue Saint Louis 62200 BOULOGNE-SUR-MER 29 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
-  },
-  "866": {
-    "id": "866",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/866",
-    "city": "CHATEAUROUX de",
-    "text": "CHARLEMAGNE 4 rue Saint Luc 36000 CHATEAUROUX de 30 Ã  33 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo"
+  "3106": {
+    "id": "3106",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
+    "city": "FELLETIN",
+    "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "2862": {
     "id": "2862",
@@ -118,12 +112,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2903",
     "city": "Maubeuge",
     "text": "RÃ©sidence Gaston Adriensence 2 rue du Docteur Paul Jean 59600 Maubeuge 37,93 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Duplex"
-  },
-  "3106": {
-    "id": "3106",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106",
-    "city": "FELLETIN",
-    "text": "RÃ©sidence de Felletin 41 bis Route d'Aubusson 23500 FELLETIN 32 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   },
   "1211": {
     "id": "1211",
@@ -232,12 +220,6 @@
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1918",
     "city": "CLERMONT-FD",
     "text": "Gare 58 Avenue de l Union SoviÃ©tique - 63000 CLERMONT-FD 25 mÂ² Individuel, Colocation 2 lits simples PiÃ¨ce Ã  vivre, WC, Douche, Evier + plaque, Frigo"
-  },
-  "1686": {
-    "id": "1686",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1686",
-    "city": "Rennes",
-    "text": "CU Beaulieu 9 rue Louis Arretche 35700 Rennes 9 mÂ² Individuel 1 lit simple Frigo"
   },
   "2212": {
     "id": "2212",
@@ -383,12 +365,6 @@
     "city": "CORTE de",
     "text": "Residence Pierrette Grimaldi 22 avenue Jean Nicoli, BP 55, 20250 CORTE de 12 Ã  14 mÂ² Individuel 1 lit simple WC, Douche, Frigo, Micro-onde"
   },
-  "2228": {
-    "id": "2228",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2228",
-    "city": "TOULON CEDEX",
-    "text": "RÃ©sidence le Faron CROUS NICE TOULON - Site du Var CS80577 - 83041 TOULON CEDEX 9 30 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche"
-  },
   "2216": {
     "id": "2216",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2216",
@@ -401,16 +377,40 @@
     "city": "CHASSENEUIL DU POITOU de",
     "text": "RESIDENCE GEMINI TÃ©lÃ©port 2 - 8 avenue Blaise Pascal - 86360 CHASSENEUIL DU POITOU de 43 Ã  50 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo, Duplex, Balcon"
   },
+  "15": {
+    "id": "15",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/15",
+    "city": "CANNES",
+    "text": "RÃ©sidence Les ClÃ©mentines 13 boulevard d Oxford - 06400 - CANNES 18 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Micro-onde"
+  },
+  "2228": {
+    "id": "2228",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2228",
+    "city": "TOULON CEDEX",
+    "text": "RÃ©sidence le Faron CROUS NICE TOULON - Site du Var CS80577 - 83041 TOULON CEDEX 9 30 mÂ² Individuel, Colocation, Couple 2 lits rapprochables PiÃ¨ce Ã  vivre, WC, Douche"
+  },
+  "866": {
+    "id": "866",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/866",
+    "city": "CHATEAUROUX de",
+    "text": "CHARLEMAGNE 4 rue Saint Luc 36000 CHATEAUROUX de 30 Ã  33 mÂ² Colocation 2 lits simples WC, Douche, Evier + plaque, Frigo"
+  },
+  "28": {
+    "id": "28",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/28",
+    "city": "VALBONNE",
+    "text": "RÃ©sidence les Dolines 2255 route des Dolines - 06560 VALBONNE 21 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo, Balcon"
+  },
+  "1686": {
+    "id": "1686",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1686",
+    "city": "Rennes",
+    "text": "CU Beaulieu 9 rue Louis Arretche 35700 Rennes 9 mÂ² Individuel 1 lit simple Frigo"
+  },
   "2565": {
     "id": "2565",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2565",
     "city": "Orsay de",
     "text": "Saclay-Eileen Gray 2 rue Sophie Germain 91400 Orsay de 76,9 Ã  80,11 mÂ² Individuel, Colocation 4 lits simples WC, Douche, Evier + plaque, Frigo, Micro-onde, Balcon"
-  },
-  "1626": {
-    "id": "1626",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1626",
-    "city": "ROSIERES PRES TROYES",
-    "text": "VILLEHARDOUIN 11-13 rue de Quebec 10430 ROSIERES PRES TROYES 12 mÂ² Individuel 1 lit simple WC, Douche, Evier + plaque, Frigo"
   }
 }
